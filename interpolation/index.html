@@ -7,14 +7,20 @@
 <!-- vertex shader -->
 <script id='2d-vertex-shader' type='x-shader/x-vertex'>
 attribute vec2 a_position;
+varying vec4 v_color;
 void main() {
    gl_Position = vec4(a_position, 0, 1);
+   v_color = gl_Position * 0.5 + 0.5;
 }
 </script>
 <!-- fragment shader -->
 <script id='2d-fragment-shader' type='x-shader/x-fragment'>
+precision mediump float;
+
+varying vec4 v_color;
+
 void main() {
-   gl_FragColor = vec4(0, 0.2, 0, 1);  // green
+    gl_FragColor = v_color;
 }
 </script>
 </head>

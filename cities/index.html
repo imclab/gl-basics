@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body { margin: 0; padding: 0; }
+</style>
+<meta charset='utf-8'>
+</head>
+<body>
+<canvas id='canvas'></canvas>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script type='text/javascript' src='../utils.js'></script>
+<script src='site.js'></script>
+<!-- vertex shader -->
+<script id='2d-vertex-shader' type='x-shader/x-vertex'>
+attribute vec3 a_position;
+uniform vec2 u_centerpoint;
+uniform mat3 u_matrix;
+
+void main() {
+   gl_Position = vec4(u_matrix * vec3(a_position.xy, 1), 1);
+   gl_PointSize = a_position.z;
+}
+</script>
+<!-- fragment shader -->
+<script id='2d-fragment-shader' type='x-shader/x-fragment'>
+precision mediump float;
+varying float u_color;
+
+void main() {
+    gl_FragColor = vec4(0, 0, 0, 1);
+}
+</script>
+</body>
+</html>

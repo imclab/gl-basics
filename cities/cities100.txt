@@ -1,0 +1,1000 @@
+3039154	El Tarter	El Tarter	Ehl Tarter,Эл Тартер	42.57952	1.65362	P	PPL	AD		02				1052		1721	Europe/Andorra	2012-11-03
+3039163	Sant Julià de Lòria	Sant Julia de Loria	San Julia,San Julià,San-Dzhulija-de-Lorija,San-Khulija-de-Lorija,Sant Julia de Loria,Sant Julià de Lòria,sheng hu li ya-de luo li ya,Сан-Джулия-де-Лория,Сан-Хулия-де-Лория,サン・ジュリア・デ・ロリア教区,圣胡利娅-德洛里亚,圣胡利娅－德洛里亚	42.46372	1.49129	P	PPLA	AD		06				8022		921	Europe/Andorra	2008-10-15
+3039604	Pas de la Casa	Pas de la Casa	Pas de la Kasa,Пас де ла Каса	42.54277	1.73361	P	PPL	AD		03				2363	2050	2106	Europe/Andorra	2008-06-09
+3039678	Ordino	Ordino	Ordino,ao er di nuo,orudino jiao qu,Ордино,オルディノ教区,奥尔迪诺	42.55623	1.53319	P	PPLA	AD		05				3066		1296	Europe/Andorra	2009-12-11
+3040051	les Escaldes	les Escaldes	Ehskal'des-Ehndzhordani,Escaldes,Escaldes-Engordany,Les Escaldes,esukarudesu=engorudani jiao qu,lai sai si ka er de-en ge er da,Эскальдес-Энджордани,エスカルデス＝エンゴルダニ教区,萊塞斯卡爾德-恩戈爾達,萊塞斯卡爾德－恩戈爾達	42.50729	1.53414	P	PPLA	AD		08				15853		1033	Europe/Andorra	2008-10-15
+3040132	la Massana	la Massana	La Macana,La Massana,La Maçana,La-Massana,la Massana,ma sa na,Ла-Массана,ラ・マサナ教区,马萨纳	42.54499	1.51483	P	PPLA	AD		04				7211		1245	Europe/Andorra	2008-10-15
+3040686	Encamp	Encamp	Ehnkam,Encamp,en kan pu,enkanpu jiao qu,Энкам,エンカンプ教区,恩坎普	42.53474	1.58014	P	PPLA	AD		03				11223		1257	Europe/Andorra	2012-04-13
+3041204	Canillo	Canillo	Canillo,Kanil'o,ka ni e,kaniryo jiao qu,Канильо,カニーリョ教区,卡尼略	42.5676	1.59756	P	PPLA	AD		02				3292		1561	Europe/Andorra	2012-12-24
+3041519	Arinsal	Arinsal	Arinsal,Аринсал	42.57205	1.48453	P	PPL	AD		04				1419		1465	Europe/Andorra	2010-01-29
+3041563	Andorra la Vella	Andorra la Vella	ALV,Ando-la-Vyey,Andora,Andora la Vela,Andora la Velja,Andora lja Vehl'ja,Andoro Malnova,Andorra,Andorra Tuan,Andorra a Vella,Andorra la Biella,Andorra la Vella,Andorra la Vielha,Andorra-a-Velha,Andorra-la-Vel'ja,Andorra-la-Vielye,Andorre-la-Vieille,Andò-la-Vyèy,Andòrra la Vièlha,an dao er cheng,andolalabeya,andwra la fyla,Ανδόρρα,Андора ла Веля,Андора ла Веља,Андора ля Вэлья,Андорра-ла-Велья,אנדורה לה וולה,أندورا لا فيلا,አንዶራ ላ ቬላ,アンドラ・ラ・ヴェリャ,安道爾城,안도라라베야	42.50779	1.52109	P	PPLC	AD		07				20430		1037	Europe/Andorra	2010-05-30
+290594	Umm al Qaywayn	Umm al Qaywayn	Um al Quweim,Umm al Qaiwain,Umm al Qawain,Umm al Qaywayn,Umm-ehl'-Kajvajn,Yumul al Quwain,am alqywyn,Умм-эль-Кайвайн,أم القيوين	25.56473	55.55517	P	PPLA	AE		07				44411		2	Asia/Dubai	2012-11-03
+291074	Ra’s al Khaymah	Ra's al Khaymah	Julfa,Khaimah,Ra's al Khaymah,Ras al Khaima,Ras al Khaimah,Ras-ehl'-Khajma,Ra’s al Khaymah,Rās al Khaima,ras alkhymt,Рас-эль-Хайма,رأس الخيمة	25.78953	55.9432	P	PPLA	AE		05				115949		2	Asia/Dubai	2012-11-30
+291279	Muzayri‘	Muzayri`	Mezaira'a,Mezaira’a,Mizeir`ah,Mizeir‘ah,Mozayri`,Mozayri‘,Muzairi,Muzayri`,Muzayri‘,Музаири	23.14355	53.7881	P	PPL	AE		01				10000		123	Asia/Dubai	2012-11-03
+291696	Khawr Fakkān	Khawr Fakkan	Fakkan,Fakkān,Khawr Fakkan,Khawr Fakkān,Khawr al Fakkan,Khawr al Fakkān,Khor Fakhan,Khor Fakkan,Khor Fakkān,Khor al Fakhan,Khor al Fakkan,Khor al Fākhān,Khor-Fakkan,Khorfakan,Khorfakhan,Port Khor Fakkan,Хор-Факкан	25.33132	56.34199	P	PPL	AE		06				33575		20	Asia/Dubai	2012-11-03
+292223	Dubai	Dubai	DXB,Dabei,Dibai,Dibay,Doubayi,Dubae,Dubai,Dubai emiraat,Dubaija,Dubaj,Dubajo,Dubajus,Dubay,Dubayy,Dubaï,Dubái,Dúbæ,Ehmirat Dubaj,Fort Dabei,Ntoumpai,dby,dbyy,di bai,dobai,du bai,duba'i,dubai,dubay,dubi,dwbyy,tupai,Ντουμπάι,Дубаи,Дубай,Эмірат Дубай,Դուբայի Էմիրություն,דובאי,דוביי,دبئی,دبى,دبي,دبی,دوبەی,دۇبائى,दुबई,দুবাই,துபை,దుబాయ్,ದುಬೈ,ദുബായ്,ดูไบ,დუბაი,ドバイ,杜拜,迪拜,두바이	25.25817	55.30472	P	PPLA	AE		03				1137347		11	Asia/Dubai	2012-08-19
+292239	Dibā	Diba	Daba,Daba al-Hisn,Dabā,Dabā al-Ḥiṣn,Diba,Diba al Hisn,Dibah,Dibba,Dibba Al'-Khisn,Dibbah,Dibā,Dibā al Ḩişn,Dībā al Ḩişn,Hisn Diba,Husn Dibba,Дибба Аль-Хисн,Ḩişn Dibā	25.61955	56.27291	P	PPL	AE		04				26395		4	Asia/Dubai	2013-07-06
+292672	Sharjah	Sharjah	Al Sharjah,Ash 'Mariqah,Ash Shariqa,Ash Shariqah,Ash Shāriqa,Ash Shāriqah,Ash ’Mariqah,Ash-Shariqah' emiraat,Ash-Shāriqah' emiraat,SHJ,Sarjo,Schardscha,Shardzha,Sharga,Sharijah,Shariqah,Sharja,Sharjah,Sharzha,Shārijah,Shāriqah,Shārja,alsharqt,carja,sharjh,sharqt,sharuja,xia er jia,Ŝarĵo,Шарджа,Шаржа,שארג'ה,الشارقة,شارجه,شارقة,சார்ஜா,シャールジャ,夏尔迦	25.33737	55.41206	P	PPLA	AE		06				543733		6	Asia/Dubai	2013-03-05
+292688	Ar Ruways	Ar Ruways	Ar Ru'ays,Ar Ruways,Ar Ru’ays,Ar-Ruvais,Ruwais,Ар-Руваис	24.11028	52.73056	P	PPL	AE	AE	01				16000		16	Asia/Dubai	2012-11-03
+292878	Al Fujayrah	Al Fujayrah	Al Fujayrah,Al-Fudjayra,Al-Fujayrah' emiraat,Fudschaira,Fudzhejra,Fujaira,Fujairah,Fujajro,Fujayrah,Fuĵajro,alfjyrt,fjyrt,fu ji la,fujaira,Фуджейра,الفجيرة,فجيرة,フジャイラ,富吉拉	25.11641	56.34141	P	PPLA	AE		04				62415		15	Asia/Dubai	2012-01-18
+292913	Al Ain	Al Ain	AAN,Ainas,Al Ain,Al Ajn,Al `Ayn,Al ‘Ayn,Al'-Ajn,Al-'Ayn,Al-Ain,Al-Ajn,Al-Ayin,Al-Aïn,ai yin,al eyin,al-ain,al-aini,alʿyn, abwzby,Аль-Айн,Ալ-Ային,אל-עין,العين، أبوظبي,العین,அல் எயின்,അൽ ഐൻ,ალ-აინი,アル・アイン,艾因,알아인	24.19167	55.76056	P	PPL	AE		01				408733		275	Asia/Dubai	2013-03-17
+292932	Ajman	Ajman	Ajman,Al Ajman,QAJ,Ujman,ʿjman,عجمان	25.41111	55.43504	P	PPLA	AE		02				226172		4	Asia/Dubai	2013-03-24
+292953	Adh Dhayd	Adh Dhayd	Adh Dhaid,Adh Dhayd,Al Daid,Al-Dhayd,Dayd,Dhaid,Dhayd,Duhayd,Ihaid,aldhyd,الذيد,Ḑayd	25.28812	55.88157	P	PPL	AE		06				24716		114	Asia/Dubai	2012-01-18
+292968	Abu Dhabi	Abu Dhabi	AEbu Saby,AUH,Aboe Dhabi,Abou Dabi,Abu Dabi,Abu Dabis,Abu Daby,Abu Daibi,Abu Dhabi,Abu Dhabi emiraat,Abu Zabi,Abu Zaby,Abu Zabye,Abu Zabyo,Abu Ḍabi,Abu Ḑabi,Abu-Dabi,Abu-Dabi khot,Abu-Dabio,Abu-Dzabi,Abud Dhabi,Abú Dabí,Abú Daibí,Abú Dhabí,Abú Zabí,Abû Daby,Abū Dabī,Abū Z̧aby,Abū Z̧abye,Abū Z̧abyo,Abū Z̧abī,Ampou Ntampi,Emirato de Abu Dabi,Gorad Abu-Dabi,a bu zha bi,abu dhabi,abu-zabi,abudabi,abudhabi,abwzby,aputapi,xa bud abi,Äbu Saby,Əbu-Dabi,Αμπου Νταμπι,Αμπού Ντάμπι,Абу Даби,Абу-Даби,Абу-Даби хот,Абу-Дабі,Горад Абу-Дабі,Әбү-Дәби шәһәре,Աբու Դաբի,אבו דאבי,أبوظبي,ئەبووزەبی,ابوظبی,ابوظہبی,अबु धाबी,अबू धाबी,আবুধাবি,ਅਬੂ ਧਾਬੀ,ଆବୁଧାବି,அபுதாபி,ಅಬು ಧಾಬಿ,അബുദാബി,අබුඩාබි,อาบูดาบี,ཨ་པོའུ་དྷ་པེ།,အဘူဒါဘီမြို့,აბუ-ზაბი,አቡ ዳቢ,アブダビ,阿布扎比,아부다비	24.46667	54.36667	P	PPLC	AE		01				603492		6	Asia/Dubai	2012-01-18
+1120471	Zorkot	Zorkot	Vulusvali-Zorkot,Woludwali Zorkot,Woludwālī Zōṟkōt,Woluswali Zorkot,Woluswali Zurkowt,Woluswalī Zūrkowt,Woluswālī Zōṟkōt,Wuleswali Zor Kot,Wulêswālī Zōr Kōṯ,Zarkot,Zor Kot,Zorkot,Zowr Kowt,Zowṟ Kowṯ,Zur Kowt,Zurkot,Zōr Kōṯ,Zūr Kowṯ,Zūrkōt,زور کوټ	33.54149	69.73446	P	PPLA2	AF		37				0		1845	Asia/Kabul	2013-04-03
+1120473	Wulêswālī Bihsūd	Wuleswali Bihsud	Behsud,Behsūd,Markaz-e Bihsud,Markaz-e Bihsūd,Olusvali Behsowd,Olusvālī Behsowd,Oluswali Behsud,Oluswālī Behsūḏ,Ulusvali-Bikhsud,Wuleswali Bihsud,Wuluswali Bihsud,Wuluswālī Bihsūd,Wulêswālī Bihsūd,mrkz bhswd,wlswaly bhswd,مرکز بهسود,ولسوالی بهسود	34.3436	67.90567	P	PPLA2	AF		27				0		2960	Asia/Kabul	2012-08-04
+1120483	Kuhsān	Kuhsan	Kohistan,Kohsan,Kohsān,Koshan,Kuhestan,Kuhsan,Kuhsān,Kōhistān,Kūhestān,khsan,kwhstan,Кошан,کهسان,کوهستان	34.65389	61.19778	P	PPLA2	AF		11				12087		740	Asia/Kabul	2012-05-05
+1120484	Lāsh	Lash	Kohestan,Kohestān,Laorlash,Laorlush,Las,Lash,Las̄,Laurlas,Laurlash,Lawlas,Lawlash,Lawlāsh,Lawlās̄,Lowlash,Lowlāsh,Lowr Lash,Lowr Lāsh,Lāorlash,Lāorlush,Lāsh,lash,lwlash,لاش,لولاش	35.3782	64.77457	P	PPLA2	AF		07				0		1927	Asia/Kabul	2012-02-28
+1120487	Tukzār	Tukzar	Kala Sangcharak,Kala Sangchārak,Qal`eh Sangcharek,Qala Sangcharak,Qal‘eh Sangchārek,Sangcarak,Sangcharak,Sangcārak,Takzar,Tokzar,Tokzār,Tuksar,Tukzar,Tukzār,Tākzār,Tūkzār,tkzar,twkzar,Токзар,توکزار,تکزار	35.94831	66.42132	P	PPLA2	AF		33				12021		1210	Asia/Kabul	2012-02-28
+1120500	Mīray	Miray	Miray,Miri,Miṟay,Mīray,Mīrī,Salgar,Shalgar,S̄algaṟ,myry,ميری	33.32462	68.44068	P	PPLA2	AF		08				0		2077	Asia/Kabul	2013-03-05
+1120501	Āq Kupruk	Aq Kupruk	Ak Kuprak,Ak Kupruk,Aq Kubruk,Aq Kupruk,Keshendah,Keshende,Keshendeh,Keshindeh,Keshīndeh,aq kbrk,aq kprk,Āq Kubruk,Āq Kupruk,آق کبرک,آق کپرک	36.08352	66.84029	P	PPLA2	AF		30				0		719	Asia/Kabul	2012-02-28
+1120543	Zurmat	Zurmat	Bazar-e Zurmat,Bāzār-e Zurmat,Zarmal,Zormat,Zurmat,Zuṟmat,bazar zrmt,zrmt,بازار زرمت,زرمت	33.43778	69.02774	P	PPLA2	AF		36				0		2150	Asia/Kabul	2012-02-28
+1120616	Zaybāk	Zaybak	Zaybak,Zaybāk,Zebak,Zeybak,Zeybāk,Zibak,Zēbāk,Zībāk,zybak,زیباک	36.52944	71.34833	P	PPLA2	AF		01				0		2634	Asia/Kabul	2012-02-28
+1120627	Zīārat-e Shāh Maqşūd	Ziarat-e Shah Maqsud	Sah Agha,Shab Maqsud,Shah Agha,Shah Maksud,Shah Maqsud,Shakhaga,Shāb Maqsūd,Shāh Maqsūd,Shāh Āghā,Ziarat Shah Maqsud,Ziarat-Shakh-Maksud,Ziarat-e Shah Maqsud,Ziārat Shāh Maqsūd,Zyarate Sah Maqsud,Zyārate Šāh Maqsūd,Zīārat-e Shāh Maqşūd,shah agha,zyart shah mqswd,Šah Āghā,زيارتٔ شاه مقصود,زیارت شاه مقصود,شاه آغا	31.9848	65.4736	P	PPLA2	AF		23				0		1577	Asia/Kabul	2012-02-28
+1120711	Zindah Jān	Zindah Jan	Fusanj,Fushanj,Fus̄anj,Fūshanj,Zendajan,Zendeh Jan,Zendeh Jān,Zenḏajān,Zindah Jan,Zindah Jān,Zindajan,Zindajān,zndh jan,زنده جان	34.34264	61.74675	P	PPLA2	AF		11				10104		834	Asia/Kabul	2012-02-28
+1120863	Zarghūn Shahr	Zarghun Shahr	Katawaz,Katāwāz,Khayr Kot,Khayr Kut,Khayr Kūṯ,Khayṟ Kot,Zaraghun Sahr,Zaraghūn S̄ahr,Zarghun Sahr,Zarghun Shahr,Zarghūn Shahr,Zargun Shahr,Zargunsahr,Zaṟghun Sahr,Zaṟgūns̄ahr,zrghwn shhr,زرغون شهر	32.84734	68.44573	P	PPL	AF		29				13737		2120	Asia/Kabul	2012-01-16
+1120879	Zaṟah Sharan	Zarah Sharan	Sharan,Sharnah,Sherana,Sheranna,Zara Saran,Zara Šaran,Zara-Sharan,Zarah Sharan,Zareh Sharan,Zaṟah Sharan,زړه شرن	33.14667	68.79167	P	PPL	AF		29				7366		2153	Asia/Kabul	2012-01-16
+1120985	Zaranj	Zaranj	ZAJ,Zaranas,Zarang,Zarani,Zaranj,Zhazang,zrnj,Зарани,زرنج	30.96667	61.88333	P	PPLA	AF		19	7053297			49851		486	Asia/Kabul	2013-08-02
+1121045	Zamtō Kêlay	Zamto Kelay	Zamto,Zamto Kalay,Zamto Kelay,Zamtukalay,Zamtō,Zamtō Kêlay,zmtw,zmtw kly,زمتو,زمتو کلی	32.3726	66.17708	P	PPLA2	AF		23				0		1925	Asia/Kabul	2012-02-28
+1121271	Yangī Qal‘ah	Yangi Qal`ah	Yangi Kala,Yangi Qal`ah,Yangi Qal`eh,Yangi Qala,Yangī Qal‘ah,Yangī Qal‘eh,Yengi Qal`eh,Yengī Qal‘eh,ینگی قلعه	37.46572	69.61131	P	PPL	AF		26				6541		471	Asia/Kabul	2012-01-16
+1121418	Yaḩyá Khēl	Yahya Khel	Ya Khel,Yahya Khel,Yahya Kheyl,Yahyakhel,Yakh'yakheyl',Yakh’yakheyl’,Yaḩyá Khēl,Yaḩyā Kheyl,Yaḩyākhēl,Yehyakhel,Yeḩyākhēl,یحیى خېل	32.93742	68.64622	P	PPLA2	AF		29				0		2136	Asia/Kabul	2012-02-28
+1121855	Wāshēr	Washer	Vashir,Vāshīr,Waser,Washar,Washayr,Washer,Washār,Wāshayr,Wāshēr,Wāsēṟ,washyr,واشیر	32.25122	63.85553	P	PPLA2	AF		10				0		1175	Asia/Kabul	2012-02-28
+1122068	Tōrmay	Tormay	Qal'ah-ye Tormay,Qal’ah-ye Tōrmay,Tormay,Turmay,Tōrmay,Tōṟmay,Tūrmay,twrmy,تورمی,قلعه تورمی	33.68847	68.40204	P	PPLA2	AF		08				0		2296	Asia/Kabul	2013-01-09
+1122189	Tūlak	Tulak	Tulak,Tūlak,twlk,تولک	33.97509	63.72868	P	PPLA2	AF		09				0		2275	Asia/Kabul	2012-02-28
+1122402	Tītān	Titan	Deh Titan,Deh Titān,Saghar,Sāghar,Titan,Tītān,saghr,tytan,تیتان,ساغر	33.69032	63.86361	P	PPLA2	AF		09				0		2194	Asia/Kabul	2012-02-28
+1122408	Tīr Pul	Tir Pul	Tir Pol,Tir Pul,Tirpul,Tīr Pol,Tīr Pul,tyr pl,تیر پل	34.59431	61.26895	P	PPL	AF		11				6979		751	Asia/Kabul	2012-01-16
+1122464	Taywarah	Taywarah	Qal`eh-i-Ghor,Qal‘eh-i-Ghor,Taiwara,Taiwāra,Taywarah,Teyvareh,tywrh,تيوره	33.52118	64.42116	P	PPLA2	AF		09				0		2160	Asia/Kabul	2012-02-28
+1122705	Bāzār-e Tashkān	Bazar-e Tashkan	Bazar-e Tagan,Bazar-e Tashgan,Bazar-e Tashkan,Bazar-i-Teskan,Bāzār-e Tagān,Bāzār-e Tashgān,Bāzār-e Tashkān,Bāzāṟ-i-Tēs̄kān,Tashkan,Tashkān,Taskan,Tas̄kān,Teshkan,Teshkān,bazar tshkan,tshkan,بازار تشکان,تشکان	36.88168	70.27674	P	PPLA2	AF		01				0		1285	Asia/Kabul	2012-05-05
+1122747	Tarinkot	Tarinkot	TII,Tareen,Tarin Kowt,Tarinkot,Tarīn Kowt,Tirin,Tirinkot,tryn kwt,ترين كوت	32.62998	65.87806	P	PPLA	AF		39	7054035			10000		1325	Asia/Kabul	2013-08-02
+1123004	Taloqan	Taloqan	Khanabad,TQN,Taikhan,Taleqan,Talikan,Talikhan,Taliqan,Talkan,Taloqan,Talugan,Talukan,Taluqan,Tologan,Tāleqān,Tāloqān,Tāluqān,Tālīqān,talqan,Таликан,تالقان	36.73605	69.53451	P	PPLA	AF		26				64256		801	Asia/Kabul	2013-05-11
+1123343	Tagāw-Bāy	Tagaw-Bay	Bai,Bay,Bāy,Tagaw-Bay,Tagaw-bay,Tagaw-bāy,Tagow Bay,Tagow Bāy,Tagāw-Bāy,tgaw bay,تگاو بای	35.69941	66.06164	P	PPL	AF		33				9096		1666	Asia/Kabul	2012-01-16
+1123424	Tagāb	Tagab	Pagab,Tagab,Tagao,Tagāb,tgab,تگاب	34.85501	69.64917	P	PPL	AF		14				6400		1335	Asia/Kabul	2012-01-16
+1123666	Markaz-e Ḩukūmat-e Sulţān-e Bakwāh	Markaz-e Hukumat-e Sultan-e Bakwah	Bakva,Bakvā,Bakwah,Bakwāh,Markaz-e Hokumat-e Soltan-e Bakva,Markaz-e Hukumat-e Sultan-e Bakwa,Markaz-e Hukumat-e Sultan-e Bakwah,Markaz-e Ḩokūmat-e Solţān-e Bakvā,Markaz-e Ḩukūmat-e Sulţān-e Bakwā,Markaz-e Ḩukūmat-e Sulţān-e Bakwāh,Markaze Hokumate Sultane Bakwa,Markazi-Khukumati-Sultani-Bakva,Maṟkaze Ḩokūmate Sulṯāne Bakwā,Soltan Bakvah,Soltan-e Bakva,Solţān Bakvāh,Solţān-e Bakvā,Sultan Bakhwa,Sultan Bakwa,Sultan-e Bakwah,Sultane Bakwa,Sultān Bakhwa,Sultān Bakwa,Sulţān-e Bakwāh,Sulţāne Bakwā,mrkz hkwmt sltan bkwa,mrkz hkwmt sltan bkwah,sltan bkwah,سلطان بکواه,مرکز حکومت سلطان بکوا,مرکز حکومت سلطان بکواه	32.24139	62.94936	P	PPLA2	AF		06				0		724	Asia/Kabul	2012-02-28
+1123906	Spīn Bōldak	Spin Boldak	Spin Baldak,Spin Boldak,Spin Buldak,Spīn Baldak,Spīn Bōldak,Spīn Būldak,spyn bwldk,سپین بولدک	31.00575	66.40001	P	PPLA2	AF		23				0		1218	Asia/Kabul	2012-02-28
+1123935	Spērah	Sperah	Spera,Sperah,Speyrah,Spērah,Spēṟa,spyrh,سپيره,سپېره	33.20222	69.51528	P	PPLA2	AF		37				0		1727	Asia/Kabul	2012-02-28
+1123963	Sōzmah Qal‘ah	Sozmah Qal`ah	Saozma Kala,Saozma Qala,Sowzmeh Qal`eh,Sowzmeh Qal‘eh,Sozmah Qal`ah,Sāozma Kala,Sōzmah Qal‘ah,سوزمه قلعه	36.09916	66.20823	P	PPLA2	AF		33				0		870	Asia/Kabul	2012-02-28
+1124621	Siyāhgird	Siyahgird	Siah Gerd,Siah Gird,Siakhgird,Siyahgird,Siyāhgird,Siāh Gird,Syahgerd,Syāhgerd,Sīāh Gerd,syah grd,سیاه گرد	35.00553	68.85578	P	PPLA2	AF		40				0		1878	Asia/Kabul	2012-05-05
+1124973	Sheywah	Sheywah	Kuz Konar,Kūz Konar,Sewa,Sheva,Shewa,Shewah,Sheywah,Shiveh,Shēwah,Shīveh,S̲h̲ēwah,shywh,Šēwa,شيوه,ښېوه	34.57169	70.58859	P	PPLA2	AF		18				0		602	Asia/Kabul	2012-02-28
+1125155	Shīnḏanḏ	Shindand	Asfazar,Asfazār,Sabzavar,Sabzavār,Sabzawar,Sabzevar,Sabzevār,Shindand,Shīndand,Shīnḏanḏ,Sindand,shyndnd,Šīndand,Шинданд,شيندند,شیندند,شینډنډ	33.30294	62.1474	P	PPLA2	AF		11				29264		1071	Asia/Kabul	2012-02-28
+1125267	Shaykh Amīr Kêlay	Shaykh Amir Kelay	Sekhamir Kalay,Shaykh Amir,Shaykh Amir Kelay,Shaykh Amīr,Shaykh Amīr Kêlay,Shekh Amir Kelay,Sheykh Amir Kalay,Sheykh Amīr Kalay,Sheykhamirkalay,Shēkh Amīr Kêlay,shykh amyr,shykh amyr kly,Šēkhāmir Kalay,شیخ امیر,شیخ امیر کلی,قريۀ شيخ امير	33.28744	69.91283	P	PPLA2	AF		37				0		1207	Asia/Kabul	2012-02-28
+1125362	Qāshqāl	Qashqal	Kakshal,Kashkal',Kashkal’,Qaqshal,Qaryah-ye Qashqal,Qaryah-ye Qāshqāl,Qashqal,Qasqal,Qāqshāl,Qāshqāl,Qāšqal,Senwari,Shenvari,Shenvārī,Shenwari,Shenwārī,Shinvari,Shinwari,Shinwārī,Sinwar,S̄inwāṟ,qashqal,qryh qashqal,shnwary,Šenwāri,شنواری,قاشقال,قريه قاشقال	35.03975	69.00685	P	PPLA2	AF		40				0		1733	Asia/Kabul	2012-02-28
+1125444	Shibirghān	Shibirghan	Markaz-e Wilayat-e Shibirghan,Markaz-e Wilāyat-e Shibirghan,Seberghan,Sebeṟghān,Shahr-e Sheberghan,Shahr-e Sheberghān,Shayurgan,Shebergan,Sheberghan,Sheberghān,Sheberkhan,Shefrogan,Shibarghan,Shibarghān,Shibergan,Shibirghan,Shibirghān,mrkz wlayt shbrghan,shbrghan,shbrghn,Шеберган,شبرغان,شبرغن,مرکز ولايت شبرغان	36.66757	65.7529	P	PPLA	AF		31				55641		360	Asia/Kabul	2013-06-04
+1125497	Shwāk	Shwak	Shavak,Shavāk,Shvak,Shwak,Shwāk,Swak,S̲h̲wāk,shwak,Šwāk,شواک,ښواک	33.42386	69.37684	P	PPLA2	AF		36				0		2300	Asia/Kabul	2012-06-05
+1125866	Shahr-e Şafā	Shahr-e Safa	Sahre Safa,Schachri Ssafa,Shahr-e Safa,Shahr-e Şafā,Shahr-i-Safa,Shahr-i-Sāfa,Shakhri-Safa,shhr sfa,Šahre Şafā,شهر صفا	31.80347	66.32376	P	PPLA2	AF		28				0		1257	Asia/Kabul	2012-02-28
+1125890	Shahrān	Shahran	Sahran,Sahṟān,Shaharan,Shaharān,Shahran,Shahrān,shhran,شهران	36.97984	70.73928	P	PPLA2	AF		01				0		2093	Asia/Kabul	2012-02-28
+1125896	Shahrak	Shahrak	Bati Dara,Kala Shaharak,Kala Shahrak,Kala Shahārak,Markaz-e Shahrak,Qal`eh Shaharak,Qal`eh-ye Bati Darrah,Qala Bati Dara,Qala Batī Dara,Qala Shaharak,Qala Shahārak,Qala Sharak,Qal‘eh Shahārak,Qal‘eh-ye Bati Darrah,Sahrak,Shahrag,Shahrak,Shakhrak,Sharak,Shāhrag,Shāhrak,Wala Shahrak,shhrk,Šahrak,شهرک	34.10738	64.3052	P	PPLA2	AF		09				15967		2357	Asia/Kabul	2012-02-28
+1125962	‘Alāqahdārī Shāh Jōy	`Alaqahdari Shah Joy	Alakadari-Shakhdzhoy,Alaqadari Sahjoy,Alāqadārī Šāhjoy,Sahjoy,Sha Joi,Shah Joy,Shah Juy,Shahjui,Shajuy,Shāh Jōy,Shāh Jūy,Shāhjui,Shājūy,S̄āhjōy,`Alaqahdari Shah Joy,shah jwy,شاه جوی,علاقه داری شاه جوی,‘Alāqahdārī Shāh Jōy	32.52154	67.41315	P	PPLA2	AF		28				0		1865	Asia/Kabul	2012-02-28
+1126216	Wulêswālī Sayyid Karam	Wuleswali Sayyid Karam	Sayd Karam,Sayed Karam,Sayḏ Kaṟam,Seyyed Karam,Vulusvali Saidkaram,Woluswali Saydkaram,Woluswali Seyyed Karam,Woluswāli Sayḏkaṟam,Woluswālī Seyyed Karam,Wuleswali Sayyid Karam,Wulêswālī Sayyid Karam,wlswaly syd krm,wlwswly syd krm,ولسوالی سید کرم,ولوسولی سيد كرم	33.69056	69.36881	P	PPLA2	AF		36				0		2458	Asia/Kabul	2012-05-05
+1126263	Markaz-e Sayyidābād	Markaz-e Sayyidabad	Markaz-e Sayyidabad,Markaz-e Sayyidābād,Markaz-e Seyydabad,Markaz-e Seyydābād,Markaz-e Seyyedabad,Markaz-e Seyyedābād,Markaze Saydabad,Markazi-Saidabad,Maṟkaze Sayḏābāḏ,Saydabad,Sayyidabad,Sayyidābād,Sayḏābāḏ,Seyyedabad,Seyyedābād,mrkz syd abad,syd abad,سيد آباد,مرکز سيد آباد	34.00037	68.71346	P	PPLA2	AF		27				0		2113	Asia/Kabul	2012-02-28
+1126266	Şayād	Sayad	Saiad,Saiyid,Sayad,Seyyed,syad,Şayād,صیاد	36.13529	65.8297	P	PPLA2	AF		33				0		946	Asia/Kabul	2012-02-28
+1126606	Sidqābād	Sidqabad	Makhmudraki,Qal'eh-i-Wazir,Qal`a Wazir,Qal`ah-ye Wazir,Qal‘a Wazīṟ,Qal‘ah-ye Wazīr,Qal’eh-i-Wazīr,Sedgabad,Sedgābād,Sedqabad,Seḏqābāḏ,Sidqabad,Sidqābād,sdg abad,sdq abad,سدق آباد,سدگ آباد,قلعۀ وزیر	35.02298	69.35112	P	PPLA	AF		14	7053088			7407		1486	Asia/Kabul	2013-08-02
+1126710	Sāyagaz	Sayagaz	Sagaz,Sayagaz,Sāgaz,Sāyagaz,sagz,saygz,ساگز,سایگز	32.56521	67.03324	P	PPLA2	AF		28				0		1673	Asia/Kabul	2012-02-28
+1126796	Sar-e Tayghān	Sar-e Tayghan	Sar Teghan,Sar-e Tayghan,Sar-e Tayghān,Saṟ Tēghān,sr tyghan,سر تیغان	33.50998	65.67632	P	PPLA2	AF		41				0		1423	Asia/Kabul	2012-02-28
+1126884	Sarōbī	Sarobi	Markaz-e Sorubi,Markaz-e Sorūbī,Sarobi,Sarowbi,Sarowbī,Sarubi,Sarōbī,Sorubay,Sorubi,Sorūbay,Sorūbī,Surawbi,Surobay,Surubay,Surūbay,Sūrāwbī,Sūṟōbay,srwby,سروبی	34.58962	69.76005	P	PPLA2	AF		13				0		987	Asia/Kabul	2012-02-28
+1126935	Sar Kāṉī	Sar Kani	Sar Kani,Sar Kāṉī,Sarkani,Sarkanu,Sarkānī,Sarkānū,Serkani,Seṟkāṉi,Sirkhani,Sirkhānī,srkany,سركانی,سرکاڼی	34.79023	71.10962	P	PPLA2	AF		34				0		792	Asia/Kabul	2012-05-05
+1127001	Sarfirāz Kalā	Sarfiraz Kala	Qal'ah-ye Sar Firaz,Qal’ah-ye Sar Firāz,Sarferaz Kala,Sarferāz Kalā,Sarfiraz Kala,Sarfirazkala,Sarfirāz Kalā,srfraz kla,سرفراز کلا,قلعه سر فراز	32.98333	67.96517	P	PPLA2	AF		08				0		2106	Asia/Kabul	2012-02-28
+1127110	Sar-e Pul	Sar-e Pul	Sar-e Pol,Sar-e Pul,Sar-i-Pul,Sari-Pul',sr pl,Сари-Пуль,سر پل	36.21544	65.93249	P	PPLA	AF		33				52121		636	Asia/Kabul	2012-01-16
+1127451	Sar Chakān	Sar Chakan	Sar Cakan,Sar Chakan,Sar Chakān,Saṟ Cakān,sr chkan,سر چکان	35.70178	65.23055	P	PPLA2	AF		07				0		1348	Asia/Kabul	2012-02-28
+1127547	Sangīn	Sangin	Sandzhin,Sangin,Sangīn,Sarban Qal`eh,Sārbān Qal‘eh,sngyn,Санджин,سنگین	32.07275	64.8359	P	PPLA2	AF		10				13579		885	Asia/Kabul	2012-02-28
+1127604	Sang-e Māshah	Sang-e Mashah	Sang-e Mashah,Sang-e Masheh,Sang-e Māshah,Sang-e Māsheh,Sang-i-Macha,Sang-i-Masha,Sang-i-Māsha,Sange Masa,Sange Māša,sng mashh,سنگ ماشه	33.1396	67.44046	P	PPLA2	AF		08				0		2484	Asia/Kabul	2012-02-28
+1127628	Sang-e Chārak	Sang-e Charak		35.84972	66.43694	P	PPL	AF		33				15377		1483	Asia/Kabul	2006-01-27
+1127664	Sang Atesh	Sang Atesh	Sang Ates Mamaka,Sang Atesh Mamakah,Sang Atish Mamakah,Sang Ātesh Māmākah,Sang Ātes̄ Māmāka,Sang Ātish Māmākah,sng atsh mamakh,سنگ آتش ماماکه	35.248	63.0044	P	PPLA2	AF		02				0		634	Asia/Kabul	2010-08-16
+1127667	Sangar Sarāy	Sangar Saray	Sang-i-Sarai,Sang-i-Sarāi,Sangar,Sangar Sarai,Sangar Saray,Sangar Sarāy,Sangar Sarāī,Sangarsaray,sngr sray,سنگر سرای	34.40744	70.63937	P	PPLA2	AF		18				0		517	Asia/Kabul	2012-02-28
+1127768	Aībak	Aibak	Aibak,Aybak,Aībak,Eybak,Haibak,Samagan,Samangan,Samangān,aybk,smngan,Āybak,Саманган,آیبک,ایبک,سمنگان	36.26468	68.01551	P	PPLA	AF		32				47823		969	Asia/Kabul	2012-01-16
+1128186	Rū-ye Sang	Ru-ye Sang	Roysang,Ru-ye Sang,Ruisang,Ruy Sang,Rū-ye Sang,Rūisang,Rūy Sang,rwy sng,روی سنگ,Ṟōysang	35.31999	67.63387	P	PPLA2	AF		05				0		1751	Asia/Kabul	2012-02-28
+1128239	Rūdbār	Rudbar		30.15	62.6	P	PPL	AF		19				11034		556	Asia/Kabul	2006-01-17
+1128265	Rustāq	Rustaq	Rostaq,Rostāq,Rustak,Rustaq,Rustāq,rstaq,رستاق,Ṟustāq	37.12604	69.83045	P	PPLA2	AF		26				25636		1314	Asia/Kabul	2012-02-28
+1128310	Rabāţ-e Sangī-ye Pā’īn	Rabat-e Sangi-ye Pa'in	Rabat-e Sangi,Rabat-e Sangi-ye Pa'in,Rabat-i-Sangi-Pa'in,Rabati-Sangiyi-Pain,Rabāţ-e Sangī,Rabāţ-e Sangī-ye Pā’īn,Rabāṯ-i-Sangi-Pā’īn,Robat-e Sangi-ye Pa'in,Robāţ-e Sangī-ye Pā’īn,rbat sngy,rbat sngy payyn,رباط سنگی,رباط سنگی پائین	34.79951	62.13917	P	PPLA2	AF		11				0		1192	Asia/Kabul	2012-02-28
+1128565	Rāmak	Ramak	Rahmak,Ramak,Rāmak,ramk,رامک	33.52234	68.6264	P	PPLA2	AF		08				0		2183	Asia/Kabul	2012-02-28
+1128954	Qurghān	Qurghan	Bazar-e Qurghan,Bāzār-e Qurghān,Kurghan,Kurghān,Qorghan,Qorghān,Qurghan,Qurghān,Quṟghān,bazar qrghan,qrghan,بازار قرغان,قرغان	36.91939	65.0649	P	PPLA2	AF		07				0		312	Asia/Kabul	2012-02-28
+1129013	Quchanghī	Quchanghi	Kuchangi,Qocanghi,Qocangli,Qochanghi,Qochanghī,Qochangi,Qochangī,Qočanghi,Quchanghi,Quchanghī,Qōchanghī,qchnghy,qwchnghy,قوچنغی,قچنغی	34.06183	66.27801	P	PPLA2	AF		41				0		2456	Asia/Kabul	2012-02-28
+1129077	Sangalak-i-Kaisar	Sangalak-i-Kaisar	Qaisar,Qaysar,Qaysāṟ,Qaīşār,Qeysar,Qeyşār,Sangalak-i-Kaisar,qysar,قیصار	35.68747	64.29318	P	PPLA2	AF		07				0		1258	Asia/Kabul	2012-05-05
+1129516	Qarqīn	Qarqin	Karkin,Karkin Bazar,Kkhanika,Qarkin,Qarqin,Qarqīn,Quarkin,qrqyn,Кханика,قرقین	37.41853	66.04358	P	PPLA2	AF		31				15018		263	Asia/Kabul	2012-02-28
+1129555	Qarghah’ī	Qarghah'i	Deh Mazang,Dekhmazang,Kargay,Karghai,Qargha'i,Qarghah,Qarghah'i,Qarghah’ī,Qaṟghah’ī,Qaṟgha’i,dh mzng,qrghh yy,ده مزنگ,قرغه ئی	34.55402	70.24292	P	PPLA2	AF		35				0		659	Asia/Kabul	2012-02-28
+1129636	Qarchī Gak	Qarchi Gak	Qarchi Gak,Qarchī Gak,qrchy gk,قرچی گک	37.03999	66.78891	P	PPL	AF		30				8942		306	Asia/Kabul	2012-01-16
+1129648	Qarāwul	Qarawul	Hazrat Imam,Hazrat Imam Saiyid,Hazrat Imām,Karaul,Qaravol,Qarawul,Qarāvol,Qarāwul,Qaṟāwul,qrawl,قراول	37.21959	68.7802	P	PPL	AF		24				24544		337	Asia/Kabul	2013-09-05
+1129678	Qarah Bāgh	Qarah Bagh	Karabagh,Karabāgh,Kharabagh,Qara Baqh,Qarabagh,Qarabāgh,Qarah Bagh,Qarah Bāgh,Qareh Bagh,Qareh Bāgh,Qaṟa Bāqh,qrh bagh,قره باغ	34.94023	61.77589	P	PPLA2	AF		11				12412		952	Asia/Kabul	2012-02-28
+1129680	Qarah Bāgh	Qarah Bagh	Karabag,Qarabagh,Qarah Bagh,Qarah Bāgh,Qarehbagh,Qarehbāgh,Qaṟabāgh,qrh bagh,قره باغ	33.19801	68.10798	P	PPLA2	AF		08				0		2089	Asia/Kabul	2012-02-28
+1129867	Qala i Naw	Qala i Naw	Kala Nao,Kalai-Naw,Kalayi-Nau,Qal'eh Now,Qal`a-i-Naw,Qal`ah-ye Now,Qal`eh Nau,Qal`eh-ye Now,Qala Nau,Qala Naw,Qala-e-Nau,Qala-i-Nau,Qalaenaw,Qal‘a-i-Naw,Qal‘ah-ye Now,Qal‘eh Nau,Qal‘eh-ye Now,Qal’eh Now,Qula-i-nau,Shehr Qaleh,Shehr Qeleh,قلعۀ نو	34.98735	63.12891	P	PPLA	AF		02				9000		887	Asia/Kabul	2012-02-03
+1129928	Qal‘ah-ye Kūf	Qal`ah-ye Kuf	Kala Kuf,Qal'a-i-Kuf,Qal`ah-ye Kuf,Qal`eh-ye Kuf,Qala-i-Kof,Qala-i-Kot,Qal‘ah-ye Kūf,Qal‘eh-ye Kūf,Qal’a-i-Kūf,قلعۀ کوف	38.04119	70.47298	P	PPLA2	AF		01				0		1383	Asia/Kabul	2012-02-28
+1129932	Qal‘ah-ye Kuhnah	Qal`ah-ye Kuhnah	Qal`a-i- Kuhna,Qal`ah-ye Kuhnah,Qal`eh-ye Kohneh,Qal‘a-i- Kuhna,Qal‘ah-ye Kuhnah,Qal‘eh-ye Kohneh,قلعۀ کهنه	32.61591	63.66681	P	PPLA2	AF		06				0		1429	Asia/Kabul	2012-02-28
+1130065	Qal‘ah-ye Shahr	Qal`ah-ye Shahr	Faoghan,Fāoghān,Kala Shahar,Kala Shāhar,Qal`a-i-Sahr,Qal`ah-ye Shahr,Qal`eh Shahar,Qal`eh Shahr,Qala Sahr,Qala Shahar,Qala Shāhār,Qala S̄ahṟ,Qal‘a-i-S̄ahṟ,Qal‘ah-ye Shahr,Qal‘eh Shahr,Qal‘eh Shāhār,قلعۀ شهر	35.54729	65.5676	P	PPL	AF		33				7756		2136	Asia/Kabul	2012-01-16
+1130131	Qalāt	Qalat	Kalat,Kalat-i-Ghilzai,Kalāt-i-Ghilzai,Qalat,Qalāt,qlat,قلات	32.10575	66.90833	P	PPLA	AF		28				12191		1568	Asia/Kabul	2012-01-16
+1130132	Qal‘ah-ye Shāhī	Qal`ah-ye Shahi	Kalashakhi,Qal`a Sahi,Qal`ah-ye Shahi,Qal`eh-ye Shahi,Qalla-ISahi,Qalła-IŠāhi,Qal‘a S̄āhi,Qal‘a Šāhi,Qal‘ah-ye Shāhī,Qal‘eh-ye Shāhī,قلعۀ شاهی	34.64921	70.5914	P	PPLA2	AF		18				0		894	Asia/Kabul	2012-02-28
+1130233	Qādis	Qadis	Kadis,Qaddis,Qades,Qadis,Qādes,Qādis,Qāḏis,qads,قادس	34.8085	63.43003	P	PPLA2	AF		02				0		1300	Asia/Kabul	2010-08-16
+1130469	Pārūn	Parun	Parun,Poruns,Prasun,Prasungul,Prasûn,Puruns,Pārūn,parwn,prns,پارون,پرنس	35.4207	70.92214	P	PPLA	AF		38	7054028			1000		2756	Asia/Kabul	2013-08-02
+1130490	Pul-e Khumrī	Pul-e Khumri	Pol-e Khomri,Pol-e Khomrī,Pul-e Khumri,Pul-e Khumrī,Pul-i-Khomri,Pul-i-Khumri,Pule Khumri,Pule Khumṟi,Puli-Khumri,pl khmry,Пули-Хумри,پل خمری	35.94458	68.71512	P	PPLA	AF		03				56369		638	Asia/Kabul	2012-01-16
+1130497	Pul-e ‘Alam	Pul-e `Alam	Pol-e `Alam,Pol-e ‘Alam,Pul-e `Alam,Pul-e ‘Alam,Pul-i-Alam,Pule Alam,پل علم	33.99529	69.02274	P	PPLA	AF		17				13247		1921	Asia/Kabul	2012-01-16
+1130981	Pasnay	Pasnay	Kohistanat,Kōhistānāt,Pasnay,kwhstanat,psny,پسنی,کوهستانات	35.76664	65.76486	P	PPLA2	AF		33				0		1759	Asia/Kabul	2012-02-28
+1130997	Pāshmūl	Pashmul	Pashmol,Pashmul,Pasmul,Pašmūl,Pāshmūl,pashmwl,pshmwl,پاشمول,پشمول	31.5572	65.4343	P	PPLA2	AF		23				0		946	Asia/Kabul	2012-02-28
+1131045	Pasāband	Pasaband	Pasaband,Pasāband,psabnd,پسابند	33.68956	64.8531	P	PPLA2	AF		09				0		2468	Asia/Kabul	2012-02-28
+1131162	Panjāb	Panjab	Pandzhab,Pandzhau,Panjab,Panjao,Panjaw,Panjāb,pnjab,Панджаб,پنجاب	34.38795	67.02327	P	PPLA2	AF		05				13471		2728	Asia/Kabul	2012-02-28
+1131316	Paghmān	Paghman	Paghman,Paghman Palace,Paghmān,Pagman,pghman,Пагман,پغمان	34.58787	68.95091	P	PPL	AF		13				49157		2328	Asia/Kabul	2012-08-04
+1131389	Ōmnah	Omnah	Omna,Omnah,Owmneh,awmnh,Ōmna,Ōmnah,اومنه	32.90029	68.79626	P	PPLA2	AF		29				0		2595	Asia/Kabul	2012-02-28
+1131406	Qaryeh-ye Owbeh	Qaryeh-ye Owbeh	Caharmahale Obe,Cahāṟmahale Ōbē,Chahar Mahall-e Obeh,Chahār Maḩall-e Obeh,Obe,Obeh,Owbey,Owbi,Owbī,Qaryeh-ye Owbeh,awbh,Ōbêh,Ōbē,اوبه	34.36972	63.17639	P	PPLA2	AF		11				0		1287	Asia/Kabul	2012-02-28
+1131462	Uruzgān	Uruzgan	Orozgan,Orozgān,Oruzgan,Orūzgān,Qala-i-Hazar Qadam,Qala-i-Hazār Qadam,Uruzgan,Uruzgān,arwzgan,arzgan,ارزگان,اروزگان	32.92775	66.63253	P	PPL	AF		39				13388		2026	Asia/Kabul	2012-01-16
+1131479	Urgūn	Urgun	Orgun,Orgūn,Urgun,Urgūn,argwn,ارگون	32.94111	69.18	P	PPLA2	AF		29				0		2220	Asia/Kabul	2012-01-16
+1131591	Nūsay	Nusay	Kusai,Nesay Darwaz,Nesay Ḏaṟwāz,Nusai,Nusay,Nūsay,Qaryah-ye Nusay,nwsy,qryh nsy,قريه نسی,نوسی	38.4435	70.80413	P	PPLA2	AF		01				0		1273	Asia/Dushanbe	2013-09-05
+1131625	Nūrgal	Nurgal	Nur Gol,Nurgal,Nurgal',Nurgal’,Nurgul,Nuṟgal,Nūr Gol,Nūrgal,Nūrgul,nwr gl,نور گل	34.61341	70.76498	P	PPLA2	AF		34				0		679	Asia/Kabul	2012-05-05
+1131649	Now Zād	Now Zad	Naozad,Nau-Zad,Nauzad,Nauzād,Naw Zad,Naw Zāḏ,Now Zad,Now Zād,Nozad,Nāozād,nw zad,نو زاد	32.40314	64.46959	P	PPLA2	AF		10				0		1220	Asia/Kabul	2012-02-28
+1131833	Nīlī	Nili	Nili,Nīlī,Qaryah-e Nili,Qaryah-e Nīlī,nyly,نیلی	33.72178	66.13023	P	PPLA	AF		41				30058		2069	Asia/Kabul	2013-08-02
+1132034	Nayak	Nayak	Naiak,Naik,Nayak,Neyak,Nāik,Nāyak,nayk,nyk,نايک,نيک	34.73414	66.95292	P	PPLA2	AF		05				0		2554	Asia/Kabul	2012-02-28
+1132046	Nāyak	Nayak	Nayak,Nāyak,nayk,نایک	32.5723	66.77403	P	PPLA2	AF		28				0		2116	Asia/Kabul	2012-02-28
+1132127	Now Dahānak	Now Dahanak	Navadanak,Naw Danak,Nawdanak,Nawdānak,Now Dahanak,Now Dahānak,Now Danak,Now Dānak,Nāw Dānak,nw dank,nw dhank,نو دانک,نو دهانک	35.62398	70.00511	P	PPLA2	AF		42				0		2629	Asia/Kabul	2012-02-28
+1132172	Ōkak	Okak	Navar,Navor,Nawur,Nāvar,Nāvor,Nāwuṟ,Okak,Owkak,awkk,Ōkak,Окак,اوکک	33.89794	67.95652	P	PPLA2	AF		08				0		3068	Asia/Kabul	2012-02-28
+1132336	Nāṟay	Naray	Narai,Naray,Naray Kelay,Nari,Nāray,Nāraī,Nāṟay,Nāṟay Kelay,nry,ناړی,نری	35.221	71.5225	P	PPLA2	AF		34				0		1084	Asia/Kabul	2012-02-28
+1132344	Narang	Narang	Narang,Naṟang,nrng,نرنگ	34.76009	71.04738	P	PPLA2	AF		34				0		779	Asia/Kabul	2012-02-28
+1132465	Nīkêh	Nikeh	Naka,Nakah,Nekah,Nikeh,Nīkêh,nkh,nykh,نيکه,نکه	33.18934	69.27179	P	PPLA2	AF		29				0		2488	Asia/Kabul	2012-05-05
+1132495	Nahrīn	Nahrin	Nahrin,Nahrīn,Nakhrin,Narain,Narin,Narīn,nhryn,Нахрин,نهرین	36.0649	69.13343	P	PPLA2	AF		03				22363		1138	Asia/Kabul	2012-02-28
+1132550	Ḩukūmat-e Nād ‘Alī	Hukumat-e Nad `Ali	Hokumat-e Nad `Ali,Hokumat-e Nad-e `Ali,Hokumati Nad-e `Ali,Hukumat-e Nad `Ali,Khukumati-Nadi-Ali,Nad `Ali,Nad-e `Ali,Nad-i-Ali,Nad`ali,Nade Ali,Nād ‘Alī,Nād-e ‘Alī,Nād-i-Alī,Nāde Ali,Nād‘alī,حكومت ناد علی,حكومتٔ نادٔ علی,حکومتی ناد علی,ناد علی,Ḩokūmat-e Nād ‘Alī,Ḩokūmat-e Nād-e ‘Alī,Ḩokūmatī Nād-e ‘Ali,Ḩokūmatī Nād-e ‘Alī,Ḩukūmat-e Nād ‘Alī	31.64286	64.23982	P	PPLA2	AF		10				0		797	Asia/Kabul	2012-02-28
+1132604	Mūsá Qal‘ah	Musa Qal`ah	De Musa Qal`eh,De Mūsá Qal‘eh,Musa Kala,Musa Qal`a,Musa Qal`ah,Musa Qal`eh,Musa Qala,Musa Qaleh,Musakala,Mūsa Qal‘a,Mūsá Qal‘ah,Mūsá Qal‘eh,Mūsā Qal‘ah,Takhta Pul,موسى قلعه	32.44565	64.74486	P	PPLA2	AF		10				0		1053	Asia/Kabul	2012-02-28
+1132770	Bala Murghab	Bala Murghab	Bala Murghab,Bālā Murghāb,Bālā Muṟghāb,Morghab,Morghāb,bala mrghab,بالا مرغاب	35.58408	63.32886	P	PPLA2	AF		02				0		466	Asia/Kabul	2010-08-16
+1132807	Muqêr	Muqer	Moqor,Moqur,Moquṟ,Mukar,Mukur,Muqer,Muqur,Muqêr,Qala-i-Sarkari,Qala-i-Sarkāri,mqr,مقر	32.82009	67.76934	P	PPLA2	AF		08				0		2000	Asia/Kabul	2012-02-28
+1133105	Muḩammad Āghah Wuluswālī	Muhammad Aghah Wuluswali	Deh-e Muhammad Aghah,Deh-e Muḩammad Āghah,Mohammad Agha,Mohammad Aghah,Moḩammad Āghah,Moḩammad Āghā,Muhammad Agha,Muhammad Aghah Wuluswali,Muhammad Āgha,Muḩammad Āghah Wuluswālī,mhmd aghh wlswaly,محمد آغه ولسوالی	34.21422	69.10026	P	PPLA2	AF		17				0		1853	Asia/Kabul	2012-11-07
+1133154	Mīzān ‘Alāqahdārī	Mizan `Alaqahdari	Mizan,Mizan `Alaqadari,Mizan `Alaqahdari,Mizan-Alakadari,Mizani,Mizān ‘Alāqadārī,Mizān ‘Alāqahdārī,Mīzān,Mīzān ‘Alāqahdārī,Mīzānī,`Alaqadari,myzan,ميزان,ميزان علاقه داری,‘Alāqadārī	32.17635	66.51271	P	PPLA2	AF		28				0		1409	Asia/Kabul	2012-02-28
+1133270	Mīr Bachah Kōṯ	Mir Bachah Kot	Mir Bachah Kot,Mir Bachcheh Kowt,Mir Bachcheh Kut,Mir Bachchen Kut,Mir Bacheh Kowt,Mir Bacheh Kut,Mir Dacha Kote,Mirbaca Kot,Mirbachakot,Mīr Bachah Kōṯ,Mīr Bachcheh Kowt,Mīr Bachcheh Kūt,Mīr Bachchen Kūt,Mīr Bacheh Kowt,Mīr Bacheh Kūt,Mīrbača Kot,Sara-ye Khvajeh,Sara-ye Khwajah,Sarai Khwaja,Saray Khvajah,Saray-Khwaja,Saraykhodzha,Sarā-ye Khvājeh,Sarā-ye Khwājah,Sarāi Khwāja,Sarāy Khvājah,Saṟāy-Khwāja,myr bchh kwt,sray khwajh,سرای خواجه,مير بچه كوت,میر بچه کوټ	34.74999	69.11899	P	PPLA2	AF		13				5405		1673	Asia/Kabul	2012-02-28
+1133279	Mīrān	Miran	Miran,Mīrān,myran,ميران	34.22038	68.31259	P	PPLA2	AF		27				0		2457	Asia/Kabul	2012-10-06
+1133310	Mīrābād	Mirabad	Mirabad,Mirabad-e Mohammad Akbar,Mīrābād,Mīrābād-e Moḩammad Akbar,myr abad,میر آباد	30.43624	61.8383	P	PPL	AF		19				14160		514	Asia/Kabul	2012-01-16
+1133453	Maymana	Maymana	MMZ,Maimana,Maimanah,Maimāna,Maymana,Maīmanah,Mejmene,Meymaneh,Mimana,mai ma na,mymnh,Меймене,میمنه,迈马纳	35.92139	64.78361	P	PPLA	AF		07				75900	877	864	Asia/Kabul	2013-09-21
+1133456	Maīdān Khūlah	Maidan Khulah	Maidan Khulah,Maydan Kholeh,Maydankhula,Mayḏān Kholeh,Maīdān Khūlah,Meydan Kholeh,Meydan Khvolah,Meydān Kholeh,Meydān Khvolah,mydan khwlh,میدان خوله	33.64916	69.7812	P	PPLA2	AF		36				0		2026	Asia/Kabul	2012-02-28
+1133544	Mingajik	Mingajik	Mengajik,Mengajīk,Mengeh Jek,Mingajek,Mingajik,Mungajik,mngjk,منگجک	37.0279	66.12817	P	PPLA2	AF		31				0		280	Asia/Kabul	2012-02-28
+1133574	Mehtar Lām	Mehtar Lam	Laghman,Mehtar Lam,Mehtar Lām,Mekhtarlam,Metarlam,Mir Talam Saheb Ziarat,Mitarlam,Miterlam,Mīr Talām Şāḩeb Zīārat,Nawar Lam,Nāwar Lam,mhtr lam,Митарлам,مهتر لام	34.67139	70.20944	P	PPLA	AF		35				17345		795	Asia/Kabul	2012-01-16
+1133616	Mazār-e Sharīf	Mazar-e Sharif	Masar-e Scharif,Mazar-e Sarif,Mazar-e Sharif,Mazar-e Šarif,Mazar-e-Sharif,Mazar-i Szarif,Mazar-i-Sharif,Mazare Srif,Mazari Sharif,Mazari-Sharif,Mazār-e Sharīf,Mazār-e Šarīf,Mazār-i-Sharīf,Mazāre S̄rīf,majaleu-isyalipeu,mazarisharifu,mzar shryf,Мазари-Шариф,مزار شريف,مزار شریف,マザーリシャリーフ,마자르이샤리프	36.70904	67.11087	P	PPLA	AF		30				303282		361	Asia/Kabul	2012-01-16
+1133657	Māymay	Maymay	Mah Mayk,Mahmai,Mahmey,Maymay,Maymey,Māh Mayk,Māymay,Māymey,Māymāy,maymy,مایمی	38.40856	71.03838	P	PPLA2	AF		01				0		1636	Asia/Kabul	2012-02-28
+1133689	Mutā Khān	Muta Khan	Mata Khan,Matā Khān,Metakhan,Metākhān,Motakhan,Motākhān,Muta Khan,Mutakhan,Mutā Khān,mta khan,متا خان	33.24167	68.86639	P	PPLA2	AF		29				0		2125	Asia/Kabul	2012-05-05
+1133749	Mashhad	Mashhad	Mashad,Mashhad,mshhd,مشهد	36.81665	70.10211	P	PPLA2	AF		01				0		977	Asia/Kabul	2012-02-28
+1133856	Mardīān	Mardian	Mardian,Mardyan,Mardīān,Maṟḏyān,Mordian,Mordīān,Murdian,Murdīān,mrdyan,مردیان	36.99286	66.29685	P	PPLA2	AF		31				0		287	Asia/Kabul	2012-05-05
+1133987	Mandōl	Mandol	Mandol,Mandul,Mandōl,Mandūl,Manḏōl,Mundol,Mundol',Mundol’,Mundul,Mundūl,Munḏōl,mndwl,مندول,منډول	35.28403	70.17017	P	PPLA2	AF		38				0		2003	Asia/Kabul	2012-05-05
+1134074	Māmā Khēl	Mama Khel	Hashem Kheyl,Hasim Khel,Hāsim Khel,Mama Khel,Mamakheyl,Mamakheyl',Mamakheyl’,Māmā Khēl,Māmākheyl,Sheyrzad,Sheyrzād,mama khyl,ماما خيل,ماما خېل	34.24494	69.9968	P	PPLA2	AF		18				0		1531	Asia/Kabul	2012-02-28
+1134720	Lashkar Gāh	Lashkar Gah	BST,Bist,Bost,Bust,Lashkar Gah,Lashkar Gāh,Lashkargah Bust,Lashkargakh,Laskargah,Las̲h̲kargāh Busṯ,Laškargāh,Nawab City,lshkr gah,لشكر گاه,لښکرگاه بسټ	31.59382	64.37161	P	PPLA	AF		10				43934		786	Asia/Kabul	2013-04-11
+1134724	Lāsh-e Juwayn	Lash-e Juwayn	Jawain,Joveyn,Juwain,Juwayn,Juwāin,Lase Jowayn,Lash,Lash Jovayn,Lash-e Joveyn,Lash-e Joway,Lash-e Juwayn,Laso-joayn,Lāsh,Lāsh Jovayn,Lāsh-e Joveyn,Lāsh-e Joway,Lāsh-e Juwayn,Lās̄e Jowayn,Lās̄o-joayn,jwyn,lash jwy,lashi chwyn,جوين,لاش جوی,لاشِ چوين	31.71382	61.62272	P	PPLA2	AF		06				0		513	Asia/Kabul	2012-02-28
+1134762	Larkird	Larkird	Lar Gerd,Largird,Largirid,Larkerd,Larkird,lrkrd,Лар Герд,لرکرد	35.48936	66.66409	P	PPL	AF		33				11635		1508	Asia/Kabul	2012-01-16
+1134887	La‘l	La`l	La`l,La`l va Sar Jangal,La`l wa Sar Jangal,La`losarjangal,Lal',Lal’,La‘l,La‘l va Sar Jangal,La‘l wa Sar Jangal,La‘losaṟjangal,Qaryeh-ye La`l,Qaryeh-ye La‘l,لعل,لعل و سر جنگل	34.50141	66.27996	P	PPLA2	AF		09				0		2797	Asia/Kabul	2012-02-28
+1135158	Kushk	Kushk	Kushk,Kusk,Kus̄k,Kūshk,kshk,Кушк,کشک	33.29565	61.95221	P	PPL	AF		11				16952		1115	Asia/Kabul	2012-01-16
+1135514	Kōṯowāl	Kotowal	Kotaval',Kotaval’,Kotawal,Kotowal,Kowtawal,Kowtawāl,Kōtawāl,Kōṯowāl,kwtwal,کوتوال,کوټوال	34.10319	70.46073	P	PPLA2	AF		18				0		1464	Asia/Kabul	2012-02-28
+1135625	Kushk-e Kuhnah	Kushk-e Kuhnah	Koshk,Koshk-e Kohneh,Kushk,Kushk-e Kuhnah,Kusk,Kusk-i-Kohna,Kuske Kuhna,Kus̄k-i-Kohna,Kus̄ke Kuhna,kshk khnh,کشک کهنه	34.8711	62.54762	P	PPLA2	AF		11				0		1076	Asia/Kabul	2012-02-28
+1135656	‘Alāqahdārī Kirān wa Munjān	`Alaqahdari Kiran wa Munjan	Keran va Menjan,Kerana va Manjah,Kerān va Menjān,Kiran wa Munjan,Kirān wa Munjān,Koran va Monjan,Koranomunjan,Korān va Monjān,Koṟānomunjān,`Alaqahdari Kiran wa Munjan,`Alaqehdari-ye Koran va Monjan,علاقه داری کران و منجان,‘Alāqahdārī Kirān wa Munjān,‘Alāqehdārī-ye Korān va Monjān	36.02866	70.77258	P	PPLA2	AF		01				0		2550	Asia/Kabul	2012-05-05
+1135689	Kunduz	Kunduz	Kondoz,Konduz,Kondūz,Kundus,Kunduz,Kundūz,Qonduz,Qondūz,Qunduz,Qunḏūz,Shahr-e Qondoz,UND,kndwz,kndz,kundo~uzu zhou,kundujeu ju,qndz,Кундуз,قندز,كندز,کندوز,クンドゥズ州,쿤두즈 주	36.72896	68.857	P	PPLA	AF		24				161902		402	Asia/Kabul	2012-01-16
+1135960	Khōshī	Khoshi	Khoshi,Khosi,Khoši,Khushi,Khvoshi,Khvoshī,Khōshī,Kushi,khwshy,خوشی	33.99916	69.21582	P	PPLA2	AF		17				0		2252	Asia/Kabul	2013-03-05
+1135980	Khōshāmand	Khoshamand	Khosamand,Khoshamand,Khos̄āmanḏ,Khus Amad,Khusamand,Khush Amad,Khushamand,Khus̄ Āmad,Khus̄āmand,Khvosh Amad,Khvosh Mand,Khvosh Āmad,Khvoshamand,Khvoshāmand,Khōshāmand,Khūsh Āmad,khwsh amd,khwshamnd,خوش آمد,خوشامند	32.68567	68.23801	P	PPLA2	AF		29				0		2011	Asia/Kabul	2012-02-28
+1136235	Khwājah Ghār	Khwajah Ghar	Khodzhagar,Khoja-i-Gar,Khvajeh Ghar,Khvājeh Ghar,Khwaja Gar,Khwaja Ghar,Khwaja-i-Gar,Khwaja-i-Ghar,Khwajah Ghar,Khwāja-i-Gar,Khwāja-i-Ghar,Khwājah Ghār,khwajh ghar,خواجه غار	37.06588	69.42126	P	PPLA2	AF		26				0		512	Asia/Kabul	2012-02-28
+1136250	Khwājah Dū Kōh	Khwajah Du Koh	Khodja-Bunak,Khodzha-Dokukh,Khvajeh Do Kuh,Khvājeh Do Kūh,Khwaja Do Koh,Khwaja Du Koh,Khwajah Do Koh,Khwajah Du Koh,Khwajah-ye Do Ku,Khwajah-ye Do Kū,Khwāja Do Koh,Khwājah Dō Kōh,Khwājah Dū Kōh,Khwājā Du Koh,khwajh dw kwh,خواجه دو کوه	36.82881	65.62432	P	PPLA2	AF		31				0		307	Asia/Kabul	2012-02-28
+1136354	Deh Khwāhān	Deh Khwahan	Deh Khahan,Deh Khwahan,Deh Khwāhān,Deh Khāhān,Khvahan,Khvāhān,Khwahan,Khwāhān,Qala Khwahan,dh khahan,dh khwahan,khwahan,خواهان,ده خاهان,ده خواهان,Ḏeh Khāhān	37.88965	70.21875	P	PPLA2	AF		01				0		1047	Asia/Kabul	2012-05-05
+1136414	Khulbisāt	Khulbisat	Khalbesat,Kholbesat,Kholbesāt,Kholbisat,Khul'besat,Khulbesat,Khulbesāt,Khulbisat,Khulbisāt,Khul’besat,Khālbêsāt,Khōlbisāt,khlbsat,khwlbsat,خلبسات,خولبسات	33.4948	70.00605	P	PPLA2	AF		37				0		1148	Asia/Kabul	2012-02-28
+1136442	Khūgyāṉī	Khugyani	Khug'yani,Khugyani,Khug’yani,Khukyani,Khūgyānī,Khūgyāṉi,Khūgyāṉī,Khūkyānī,khwgyany,خوگیانی,خوگیاڼی	31.56267	66.5814	P	PPLA2	AF		23				0		1311	Asia/Kabul	2012-02-28
+1136469	Khōst	Khost	Khost,Khowst,Khōst,Matun,Matūn,khwst,mtwn,Хост,خوست,متون	33.33951	69.92041	P	PPLA	AF		37				96123		1183	Asia/Kabul	2012-01-16
+1136575	Khulm	Khulm	Bazar-e Khulm,Bāzār-e Khulm,Kholm,Khulm,Tashkurgan,Tashkurghan,Tashqorghan,Tashqurghan,Tāshkurghān,Tāshqorghān,Tāshqurghān,bazar khlm,khlm,tashqrghan,Ташкурган,بازار خلم,تاشقرغان,خلم	36.69736	67.69826	P	PPLA2	AF		30				64933		445	Asia/Kabul	2012-02-28
+1136604	Khudāydād Khēl	Khudaydad Khel	Khodaydad Khel,Khodaydad Kheyl,Khodaydadkhel,Khodāydād Kheyl,Khodāydād Khēl,Khoḏāyḏāḏkhēl,Khuda Dad Khel,Khudaydad Khel,Khudā Dād Khēl,Khudāydād Khēl,خدا داد خېل,خدایداد خېل	35.17835	67.68758	P	PPLA2	AF		05				0		2030	Asia/Kabul	2012-02-28
+1136723	Khinjān	Khinjan	Khenjan,Khenjān,Khindzhan,Khinjan,Khinjān,khnjan,خنجان	35.58908	68.90093	P	PPLA2	AF		03				0		1132	Asia/Kabul	2012-02-28
+1136737	Khinj	Khinj	Khenj,Khindzh,Khinj,khnj,Хиндж,خنج	35.42898	69.73482	P	PPLA2	AF		42				0		2225	Asia/Kabul	2012-02-28
+1136863	Khāsh	Khash	Khas,Khash,Khāsh,Khās̄,khash,خاش	31.52919	62.79055	P	PPL	AF		19				15133		579	Asia/Kabul	2012-01-16
+1137079	Khān Neshīn	Khan Neshin	Khan Nashim,Khan Nashin,Khan Neshin,Khan Nishin,Khaneshin,Khannesin,Khān Nashīn,Khān Neshīn,Khān Nishīn,Khāneshīn,Khānnešīn,khan nshyn,خان نشین	30.5488	63.7888	P	PPLA2	AF		10				0		635	Asia/Kabul	2012-02-28
+1137121	Khānaqāh	Khanaqah	Khanaka,Khanaqa,Khanaqah,Khanega,Khanehqah,Khaneqa,Khānaqā,Khānaqāh,Khānegā,Khānehqāh,Khāneqā,khanhqah,khanqah,Ханака,خانقاه,خانهقاه	36.62587	69.53695	P	PPLA2	AF		26				0		1378	Asia/Kabul	2012-02-28
+1137147	Chahār Bāgh	Chahar Bagh	Chahar Bagh,Chahār Bāgh,Char Bagh,Chār Bāgh,Khan Chahar Bagh,Khan'-charbag',Khan-Chekhar-Bar,Khan-e Chahar Bagh,Khan-e Char Bagh,Khancarbagh,Khan’-charbag’,Khān Chahār Bāgh,Khān-e Chahār Bāgh,Khān-e Chār Bāgh,Khāncārbāgh,Qani Chahar Bagh,Qanī Chahār Bāgh,chhar bagh,چهار باغ	37.00108	65.22392	P	PPLA2	AF		07				0		284	Asia/Kabul	2012-02-28
+1137148	Khandūd	Khandud	Khandud,Khandut,Khandūd,Khanḏūḏ,khndwd,خندود	36.95127	72.318	P	PPLA2	AF		01				5521		2807	Asia/Kabul	2012-02-28
+1137160	Khānaqāh	Khanaqah	Khanaka,Khananqa,Khanaqa,Khanaqah,Khaneqah,Khānaka,Khānanqā,Khānaqā,Khānaqāh,Khāneqāh,khanqah,khanqh,خانقاه,خانقه	36.8589	66.16755	P	PPLA2	AF		31				0		299	Asia/Kabul	2012-05-05
+1137168	Khanabad	Khanabad	Khanabad,Khānābād,khan abad,Ханабад,خان آباد	36.6825	69.11556	P	PPL	AF		24				71531		503	Asia/Kabul	2009-03-03
+1137247	Khamyāb	Khamyab	Kham Ab,Kham-e Ab,Kham-e Āb,Kham-i-Ab,Kham-i-Āb,Khamyab,Khamyāb,Khām Āb,kham ab,khmyab,خام آب,خمياب	37.5275	65.75833	P	PPLA2	AF		31				0		254	Asia/Kabul	2012-05-05
+1137359	Khākirān	Khakiran	Khakeran,Khakiran,Khākerān,Khākirān,khakran,خاکران	32.8385	67.07377	P	PPLA2	AF		28				0		2673	Asia/Kabul	2012-02-28
+1137548	Kaz̲h̲ah	Kazhah	Kaga,Kagd,Kaza,Kazhah,Kaz̲h̲ah,Kaža,Khazha,Khowgiani,Khowgīānī,Nawe Kaza,Nawē Kaža,kzhh,كژه,کږه	34.24088	70.18274	P	PPLA2	AF		18				0		1276	Asia/Kabul	2012-02-28
+1137745	Kishk-e Nakhūd	Kishk-e Nakhud	Kashk-e Nokhowd,Keshk-e Nakhud,Keshk-e Nakhūd,Keskenakhud,Keškenakhud,Kishk-e Nakhud,Kishk-e Nakhūd,Kishkinakhud,Kishkinakhūd,Kuchki-Nalud,Kushk-e Nakhud,Kushk-e Nakhūd,Kuske Nakhud,Kus̄ke Nakhuḏ,kshk nkhwd,کشک نخود	31.62519	65.05511	P	PPLA2	AF		23				0		944	Asia/Kabul	2012-02-01
+1137807	Karukh	Karukh	Karokh,Karrukh,Karukh,Kaṟukh,krkh,کرخ	34.48108	62.5863	P	PPLA2	AF		11				17484		1340	Asia/Kabul	2012-02-28
+1138321	Kanḏay	Kanday	Kanday,Kanḏay,kndy,كندی,کنډی	34.9536	70.77897	P	PPLA2	AF		34				0		1222	Asia/Kabul	2012-02-28
+1138336	Kandahār	Kandahar	Candahar,Gorad Kandagar,KDH,Kandagar,Kandahar,Kandaharo,Kandahār,Kandehar,Kandhar,Qandahar,Qandahār,Qanḏahāṟ,kan da ha,kandaharu,kndhar,qndhar,qndhʼr,Горад Кандагар,Кандагар,קנדהאר,قندهار,كندهار,カンダハール,坎大哈	31.61332	65.71013	P	PPLA	AF		23				391190		1007	Asia/Kabul	2013-05-11
+1138590	Kalān Deh	Kalan Deh	Kalan Deh,Kalan-Dekh,Kalān Deh,dh klan,klan dh,دهٔ كلان,کلان ده	33.83676	68.40233	P	PPLA2	AF		27				0		2502	Asia/Kabul	2012-02-28
+1138636	Kalakān	Kalakan	Bazar-e Kalakan,Bāzār-e Kalakān,Kala Chan,Kala Khan,Kala Khān,Kalakan,Kalakān,Qal`eh-ye Khan,Qala Khan,Qala Khān,Qal‘eh-ye Khān,bazar klkan,klkan,بازار کلکان,کلکان	34.78371	69.15001	P	PPLA2	AF		13				0		1593	Asia/Kabul	2012-02-28
+1138657	Kalafgān	Kalafgan	Kalafgan,Kalafgān,Kalefgan,Kalefgān,Kalifgan,Kalifgān,klfgan,کلفگان	36.77274	69.945	P	PPLA2	AF		26				0		1590	Asia/Kabul	2012-02-28
+1138714	Kajrān	Kajran	Kadzhiran,Kajiran,Kajran,Kajrān,Kajīrān,kjran,Каджиран,کجران	33.20357	65.47311	P	PPLA2	AF		41				0		1364	Asia/Kabul	2012-02-28
+1138801	Kai	Kai	Ka'i,Kahi,Kahī,Kai,Ka’i,Kāhī,Kā’ī,kayy,khy,کائی,کهی	34.12819	70.71828	P	PPLA2	AF		18				0		945	Asia/Kabul	2012-02-28
+1138958	Kabul	Kabul	Cabool,Caboul,Cabul,Cabul - kabl,Cabul - کابل,Cabura,Cabúl,Caubul,Gorad Kabul,KBL,Kabil,Kaboel,Kabol,Kaboul,Kabul,Kabula,Kabulas,Kabuli,Kabulo,Kabura,Kabúl,Kabûl,Kampoul,Kobul,Kubha,Kábul,Kâbil,Kābol,ka bu er,kabl,kabul,kabula,kabuli,kaburu,kabwl,kapul,ke bu er,khabul,Καμπούλ,Горад Кабул,Кабул,Кобул,Քաբուլ,קאבול,كابل,كابۇل,کابل,کابول,काबुल,কাবুল,କାବୁଲ,காபூல்,ಕಾಬುಲ್,കാബൂൾ,คาบูล,ཁ་པལ།,ཁ་པུལ།,ქაბული,ካቡል,ទីក្រុងកាបូល,カブール,カーブル,喀布尔,카불	34.52813	69.17233	P	PPLC	AF		13				3043532		1798	Asia/Kabul	2010-05-30
+1139085	Jurm	Jurm	Jarm,Jorm,Jurm,Jurn,Shahr-e Jorm,jrm,جرم	36.86477	70.83421	P	PPLA2	AF		01				12106		1564	Asia/Kabul	2012-05-05
+1139335	Jawand	Jawand	Javand,Jawand,Jowand,jwnd,جوند	35.06361	64.14917	P	PPLA2	AF		02				0		945	Asia/Kabul	2011-11-05
+1139500	Jānī Khēl	Jani Khel	Dzhanikheyl',Dzhanikheyl’,Jani Khel,Jani Kheyl,Janikhel,Jānikhēl,Jānī Kheyl,Jānī Khēl,جانی خېل	32.76315	68.39722	P	PPLA2	AF		29				0		2048	Asia/Kabul	2012-02-28
+1139683	Jalrēz	Jalrez	Dzhalez,Jalez,Jaliz,Jalrayz,Jalreyz,Jalrez,Jalriz,Jalrēz,Jalrīz,Jalēz,Jalīz,jlryz,جلريز,جلرېز	34.4708	68.65438	P	PPLA2	AF		27				0		2347	Asia/Kabul	2012-08-04
+1139715	Jalālābād	Jalalabad	Djelalabad,Dschalalabad,Dzalalabad,Dzhalalabad,Dzhelalabad,Dżalalabad,Jalakot,Jalal-Kut,Jalalabad,Jalalkoat,Jalalkot,Jalālkot,Jalālābād,Jelalabad,Tarun City,jalalabada,jlal abad,Джалалабад,جلال آباد,جلال‌آباد,জালালাবাদ	34.42647	70.45153	P	PPLA	AF		18				200331		575	Asia/Kabul	2012-01-16
+1139807	Jabal os Saraj	Jabal os Saraj	Djabal-ul-Seradj,Dzhabal'-Ussaradzh,Dzhabal’-Ussaradzh,Jabal Saraj,Jabal os Saraj,Jabal os Sarāj,Jabal us Siraj,Jabal us Sirāj,Jabal-us-Sirai,Jabalussaraj,Jabalussaṟāj,Jabl-us-Seraj,Jabl-us-Siraj,Jabul Saraj,Jibal-as-Seraj,Parwan,jbl alsraj,جبل السراج	35.11833	69.23778	P	PPL	AF		40				15032		1612	Asia/Kabul	2010-03-29
+1139967	Ḩukūmat-e Shīnkaī	Hukumat-e Shinkai	Hokumat-e Shinkay,Hokumate Sinkay,Hokūmate Šinkay,Hukumat-e Shinkai,Hukumat-e Shinkay,Khukumati-Shinkay,Shinkai,Shīnkaī,hkwmt shynky,shynky,حکومت شینکی,شینکی,Ḩokūmat-e Shinkay,Ḩukūmat-e Shīnkay,Ḩukūmat-e Shīnkaī	31.98303	67.33558	P	PPLA2	AF		28				0		1936	Asia/Kabul	2012-02-28
+1140026	Herāt	Herat	Gerat,Gorad Gerat,HEA,Herat,Herāt,Hérat,Kherat,Shahr-e Herat,Shahr-e Herāt,he la te,herato,hrat,Герат,Горад Герат,Херат,هراة,هرات,ヘラート,赫拉特	34.34817	62.19967	P	PPLA	AF		11				272806		927	Asia/Kabul	2013-05-18
+1140341	Ḩājī Khēl	Haji Khel	Haji Khel,Hajikhel,Hajjikheyl,Khadzhikheyl',Khadzhikheyl’,hajy khyl,حاجی خيل,حاجی خېل,Ḩājikhēl,Ḩājjīkheyl,Ḩājī Khēl	35.10922	69.43341	P	PPLA2	AF		14				0		1914	Asia/Kabul	2012-02-28
+1140433	Ḩāfiz̧ Moghul	Hafiz Moghul	Hafez Moghol,Hafez Mughul,Hafiz Moghul,Hāfeẕ Mughul,hafz mghl,حافظ مغل,Ḩāfez̧ Moghol,Ḩāfiz̧ Moghul	37.05643	70.40061	P	PPLA2	AF		01				0		1700	Asia/Kabul	2012-02-28
+1140435	Khafizan	Khafizan	Hafezan,Hafizan,Khafizan,hafzan,حافظان,Ḩāfez̧ān,Ḩāfiz̧ān	34.28665	70.37247	P	PPLA2	AF		18				0		909	Asia/Kabul	2012-02-28
+1140605	Guz̄arah	Guzarah	Gozara,Gozareh,Goz̄areh,Goz̄aṟa,Guzarah,Guz̄arah,gdhrh,گذره	34.21223	62.21235	P	PPLA2	AF		11				0		983	Asia/Kabul	2012-02-28
+1140614	Gōshtah	Goshtah	Goshta,Goshtah,Goshteh,Gosta,Gowshtah,Gošta,Gōshtah,gwshth,گوشته	34.35822	70.76264	P	PPLA2	AF		18				0		483	Asia/Kabul	2012-02-28
+1140623	Gōmal Kêlay	Gomal Kelay	Gomal,Gomal Kalay,Gomal Katay,Gomal Kelay,Gowmal,Gumal,Gumal'kalay,Gumal’kalay,Gōmal Kalay,Gōmal Katay,Gōmal Kêlay,Qashlah `Askari Gowmol,Qashlah ‘Askarī Gowmol,Zor Domandi,gwml kly,گومل کلی	32.50989	68.85598	P	PPLA2	AF		29				0		1827	Asia/Kabul	2012-02-28
+1140919	‘Alāqahdārī Gēlān	`Alaqahdari Gelan	Alakadari-Gelan,Gelan,Gilan,Gēlān,Gīlān,Janda,Jaṉda,`Alaqadari Gelan,`Alaqahdari Gelan,`Alaqahdari Jandah,علاقه داری جڼډه,علاقه داری گېلان,گېلان,‘Alāqahdārī Gēlān,‘Alāqahdārī Jaṉḏah,‘Alāqaḏāṟī Gēlān	32.72692	67.63696	P	PPLA2	AF		08				0		1987	Asia/Kabul	2012-02-28
+1140970	Ghōriyān	Ghoriyan	Ghorian,Ghoriyan,Ghoriān,Ghoryan,Ghurian,Ghuriyan,Ghuryan,Ghōriyān,Ghōṟyān,Ghūriyān,Ghūryān,Ghūrīān,Gorian,ghwryan,غوریان	34.3448	61.49321	P	PPLA2	AF		11				0		796	Asia/Kabul	2012-05-05
+1141089	Ghormach	Ghormach	Garmak,Ghormac,Ghormach,Ghormāch,Ghowrmach,Ghowrmāch,Ghōrmāc,Ghōrmāch,ghwrmach,ghwrmch,غورماچ,غورمچ	35.73062	63.78264	P	PPLA2	AF		02	7052787			30000		659	Asia/Kabul	2011-12-21
+1141098	Ghurayd Gharamē	Ghurayd Gharame	Garm,Gharmai,Gharmi,Gharmī,Ghoraydgharame,Ghowrayd Gharami,Ghowrayd Gharamī,Ghoṟayḏghaṟamē,Ghurayd Gharame,Ghurayd Gharamē,Ghurmay,ghrmy,غرمی,غرید غرمې	36.5222	70.79064	P	PPLA2	AF		01				0		1884	Asia/Kabul	2012-02-28
+1141269	Ghazni	Ghazni	GZI,Gazni,Ghazni,Ghaznī,Shahr-e Ghazni,Shahr-e Ghaznī,gazni,gazuni,ghznt,ghzny,ghznyn,Газни,غزنة,غزنی,غزنین,ガズニー	33.55391	68.42096	P	PPLA	AF		08				141000		2179	Asia/Kabul	2013-05-09
+1141540	Gereshk	Gereshk	Gereshk,Geresk,Gerešk,Girishk,Nahr-e Saraj,Nahr-e Sarāj,grshk,Герешк,گرشک	31.82089	64.57005	P	PPLA2	AF		10				43588		830	Asia/Kabul	2012-02-28
+1141857	Gardēz	Gardez	Gardeyz,Gardez,Gardiz,Gardêz,Gardēz,Gardīz,Gaṟḏēz,grdyz,Гардез,گرديز,گردېز	33.59744	69.22592	P	PPLA	AF		36				103601		2308	Asia/Kabul	2012-01-16
+1142170	Fayzabad	Fayzabad	FBD,Faizabad,Faizābād,Fajzabad,Faydz Abad,Fayzabad,Fayḏẕ Ābāḏ,Fazelabad,Faīẕābād,Feyzabad,Feyẕābād,fyd abad,Файзабад,فیض آباد	37.11664	70.58002	P	PPLA	AF		01				44421		1210	Asia/Kabul	2013-09-21
+1142171	Faīẕābād	Faizabad	Faizabad,Faizābād,Faydzabad,Fayḏẕābāḏ,Fazilabad,Faīẕābād,Feyzabad,Feyẕābād,Fāzilābād,fyd abad,فیض آباد	36.82103	66.45964	P	PPLA2	AF		31				0		313	Asia/Kabul	2012-02-28
+1142172	Fayẕābād	Fayzabad	Faizabad,Faizābād,Faydz Abad,Fayzabad,Fayḏz Ābād,Fayẕābād,Feyzabad,Feyẕābād,qyd abad,قيض آباد	36.29111	64.86222	P	PPLA2	AF		07				0		495	Asia/Kabul	2012-02-28
+1142234	Qal‘ah-ye Fārsī	Qal`ah-ye Farsi	Farsi,Farsī,Kalafarsi,Qal`a Farsi,Qal`a-i-Farsi,Qal`ah-ye Farsi,Qal`eh Farsi,Qal`eh-ye Farsi,Qal‘a Fāṟsi,Qal‘a-i-Fāṟsi,Qal‘ah-ye Farsī,Qal‘ah-ye Fārsī,Qal‘eh Fāṟsi,Qal‘eh-ye Farsī,قلعۀ فارسی,قلعۀ فرسی	33.78529	63.24735	P	PPLA2	AF		11				0		2286	Asia/Kabul	2012-02-28
+1142239	Farkhār	Farkhar	Farkhar,Farkhār,frkhar,فرخار	36.57288	69.85783	P	PPLA2	AF		26				10480		1153	Asia/Kabul	2012-02-28
+1142264	Farah	Farah	FAH,Farah,Farakh,Farāh,frah,فراه	32.37451	62.11638	P	PPLA	AF		06				43561		662	Asia/Kabul	2013-09-21
+1142330	Istālif	Istalif	Estalef,Estālef,Istalef,Istalif,Istilif,Istālef,Istālif,Takht-e Istalif,Takht-e Istālif,astalf,tkht astalf,استالف,تخت استالف	34.83268	69.07756	P	PPLA2	AF		13				0		1891	Asia/Kabul	2012-02-28
+1142404	Kafir Qala	Kafir Qala	Eslam Qal`eh,Eslamqal`a,Eslamqal‘a,Eslām Qal‘eh,Islam Kala,Islam Killa,Islam Qal`ah,Islam Qala,Islām Kala,Islām Qala,Islām Qal‘ah,Kafar Qal`eh,Kafir Kala,Kafir Qala,Kāfar Qal‘eh	34.66667	61.06667	P	PPL	AF		11				18086		726	Asia/Kabul	2012-01-16
+1142517	Injīl	Injil	Enjeel,Enjil,Enjīl,Injil,Injīl,anjyl,انجيل	34.30157	62.2465	P	PPLA2	AF		11				0		937	Asia/Kabul	2012-02-28
+1142545	Imām Şāḩib	Imam Sahib	Emam Saheb,Emām Şāḩeb,Hazrat,Imam Saheb,Imam Sahib,Imamsakhib,Imām Sāẖeb,Imām Şāḩib,Khwaja,Khwaja Imam Saiyid,Khwaja Iman Saiyid,Khwāja Imām Saiyid,Khwāja Imān Saiyid,amam sahb,امام صاحب	37.18897	68.93644	P	PPLA2	AF		24				9659		358	Asia/Kabul	2012-02-28
+1142738	Dōshī	Doshi	Doshi,Dosi,Dowshi,Dowshī,Doši,Dōshī,dwshy,دوشی	35.60918	68.68473	P	PPLA2	AF		03				0		836	Asia/Kabul	2012-02-28
+1142758	Dowlatyār	Dowlatyar	Daolat Yar,Daulat Yar,Daulat Yār,Dawlatyar,Dawtatyar,Dowlat Yar,Dowlat Yār,Dowlatyar,Dowlatyār,Dāolat Yar,Taht-e Dowlatyar,Taḩt-e Dowlatyār,dwlt yar,dwltyar,دولت یار,دولتیار,Ḏawlatyāṟ,Ḏawtatyāṟ	34.55132	65.79302	P	PPLA2	AF		09				0		2456	Asia/Kabul	2012-02-28
+1142761	Dowlat Shāh	Dowlat Shah	Daulat Shah,Daulat Shāh,Daulatshakh,Dawlat Shah,Dawlat Shāh,Dawlatsah,Dawlatšāh,Dowlat Shah,Dowlat Shāh,dwlt shah,دولت شاه	34.9504	70.07102	P	PPLA2	AF		35				0		1551	Asia/Kabul	2012-02-28
+1142776	Dowlatābād	Dowlatabad	Daulatabad,Daulatābād,Davletabad,Dawlatabad,Dawlatābād,Dowlatabad,Dowlatābād,dwlt abad,Даулатабад,دولت آباد	36.98782	66.82066	P	PPLA2	AF		30				0		313	Asia/Kabul	2012-05-05
+1142777	Dowlatābād	Dowlatabad	Danlatabad,Danlatābād,Daolatabad,Daulatabad,Daulatābād,Dawlatabad,Dowlatabad,Dowlatābād,Shirin Tagao,Shīrīn Tagāo,dwlt abad,دولت آباد,Ḏawlatābād	36.43259	64.92071	P	PPLA2	AF		07				0		413	Asia/Kabul	2012-02-28
+1142852	Dū Qal‘ah	Du Qal`ah	Do Qal`eh,Do Qal‘eh,Doqal`a,Du Qal`ah,Dū Qal‘ah,Kala-i-Kah,Kala-i-Kāh,Qal`ah-ye Kah,Qal`eh Kah,Qal`eh-ye Ka,Qala-i-Kah,Qala-i-Kāh,Qal‘ah-ye Kāh,Qal‘eh Kāh,Qal‘eh-ye Kā,دو قلعه,قلعه کاه,Ḏoqal‘a	32.14237	61.4469	P	PPLA2	AF		06				0		557	Asia/Kabul	2012-02-28
+1142964	Dūāb	Duab	Do Ab,Do Āb,Doab-i-Shahpasand,Dow Ab-e Shah Pasand,Dow Āb-e Shāh Pasand,Doāb-i-Shāhpasand,Duab,Dūāb,Tatar,Tātār,Tātāṟ,dwab,tatar,تاتار,دواب	35.56277	67.82191	P	PPLA2	AF		32				0		2238	Asia/Kabul	2012-02-28
+1143255	Dê Nārkhēl Kêlay	De Narkhel Kelay	De Narkhel Kalay,De Narkhel Kelay,De Narkheyl Kalay,De Nārkheyl Kalay,Dinarkhil,Dê Nārkhēl Kêlay,Dīnārkhīl,Narkheyl'kalay,Narkheyl’kalay,d nar khyl kly,dynarkhyl,د نار خيل كلی,د نارخېل کلی,دينارخيل,Ḏe Nāṟkhēl Kalay	32.43205	65.63484	P	PPLA2	AF		23				0		1478	Asia/Kabul	2012-02-28
+1143477	Dehī	Dehi	Dehi,Dehī,dhy,دهی	35.95806	67.27998	P	PPLA2	AF		32				0		1271	Asia/Kabul	2012-02-28
+1143529	Deh-e Şalāḩ	Deh-e Salah	Deh Salah,Deh Saleh,Deh Sāleh,Deh Şalāḩ,Deh-e Salah,Deh-e Şalāḩ,dh slah,ده صلاح	35.69031	69.3151	P	PPLA2	AF		03				0		1632	Asia/Kabul	2012-02-28
+1143548	Deh-e Now	Deh-e Now	Dakhi-Nau,Deh-e Now,Dehe Naw,dh nw,ده نو,دهٔ نو,Ḏehe Naw	34.74767	69.04784	P	PPLA2	AF		13				0		1974	Asia/Kabul	2012-02-28
+1143630	Dehdādī	Dehdadi	Chahar Sarakah-ye Dehdadi,Chahār Sarakah-ye Dehdādī,Dehdadi,Dehdādī,Dekhdadi,chhar srkh dhdady,dhdady,Дехдади,دهدادی,چهار سرکه دهدادی	36.66308	66.99376	P	PPLA2	AF		30				0		397	Asia/Kabul	2012-02-28
+1143782	Dwah Manḏay	Dwah Manday	Davamandi,Davamandī,Domandao,Domandi,Dowmandi,Dowmandī,Du Mandah,Dvamanday,Dwah Manday,Dwah Manḏay,Dwamanday,Dū Mandah,dw mndh,dwh mndy,dwmndy,دو منده,دومندی,دوه مندی,Ḏwamanday	33.28167	69.585	P	PPLA2	AF		37				0		1543	Asia/Kabul	2012-02-28
+1143814	Dasht-e Qal‘ah	Dasht-e Qal`ah	Dasht Qala,Dasht-e Qal`ah,Dasht-e Qal`eh,Dasht-e Qal‘ah,Dasht-e Qal‘eh,Dashti-Kala,Dast-i-Qal'a,Daste Qal`a,Shahr-e Dasht-e Qal`eh,Shahr-e Dasht-e Qal‘eh,دشت قلعه,Ḏas̄t-i-Qal’a,Ḏas̄te Qal‘a	37.1539	69.4435	P	PPLA2	AF		26				0		449	Asia/Kabul	2012-02-28
+1143816	Dasht-e Qal‘ah	Dasht-e Qal`ah	Dasht-e Qal`ah,Dasht-e Qal`eh,Dasht-e Qal‘ah,Dasht-e Qal‘eh,Daste Qal`a,دشت قلعه,Ḏas̄te Qal‘a	33.02978	63.8395	P	PPLA2	AF		06				0		1718	Asia/Kabul	2012-02-28
+1143838	Dasht-e Archī	Dasht-e Archi		37.13333	69.16667	P	PPL	AF		24				8263		379	Asia/Kabul	2006-01-27
+1143874	Darzāb	Darzab	Darzab,Darzāb,Darẕāb,Durzab,Durzāb,drz ab,درز آب	35.97744	65.37828	P	PPLA2	AF		31				9642		1179	Asia/Kabul	2012-05-05
+1143901	Markaz-e Ḩukūmat-e Darwēshān	Markaz-e Hukumat-e Darweshan	Darvishan,Darvīshān,Darwesan,Markaz-e Hukumat-e Darwayshan,Markaz-e Hukumat-e Darweshan,Markaz-e Hukumati Darwayshan,Markaz-e Ḩukūmat-e Darwayshān,Markaz-e Ḩukūmat-e Darwēshān,Markaz-e Ḩukūmatī Darwayshān,Markaze Hokumati Darwesan,Maṟkaze Hokūmatī Darwēsān,mrkz hkwmty drwyshan,mrkzi hkwmti drwyshan,مرکز حکومتی درویشان,مرکزِ حکومتِ درويشان,Ḏaṟwes̄ān	31.13232	64.1934	P	PPL	AF		10				9012		714	Asia/Kabul	2012-01-16
+1144040	Darqad	Darqad	Darkat,Darqad,Qeshlaq-e Darqad,Qeshlāq-e Darqad,drqd,درقد	37.38414	69.45294	P	PPLA2	AF		26				0		435	Asia/Kabul	2012-02-28
+1144121	Darāyim	Darayim	Daraim,Darayim,Darāyim,draym,درايم	36.86667	70.38333	P	PPLA2	AF		01				0		1693	Asia/Kabul	2012-02-28
+1144166	Dāngām	Dangam	Dangam,Dāngām,dangam,دانگام,ډانگام,Ḏāngām	34.99231	71.41943	P	PPLA2	AF		34				0		1250	Asia/Kabul	2012-05-05
+1144185	Ḏanḏar	Dandar	Dandar,Qaryah-ye Dandar,Qaryah-ye Danḏar,dndar,دندار,قريه دنډر,ډنډر,Ḏanḏar	34.79095	69.47504	P	PPLA2	AF		40				0		1724	Asia/Kabul	2012-02-28
+1144559	Ḩukūmatī Dahanah-ye Ghōrī	Hukumati Dahanah-ye Ghori	Dahana,Dahana Ghori,Dahana-i-Ghori,Dahanae Ghori,Dahaneh-ye Ghowri,Dahaneh-ye Ghowṟī,Dahna,Dahāna,Dananeh-ye Ghowri,Dananeh-ye Ghowrī,Hokumati Dahana-i-Ghori Dahana,Hokūmatī Ḏahana-i-Ghōṟi Dahana,Hukumati Dahanah-ye Ghori,hkwmty dhnh ghwry,حکومتی دهنه غوری,Ḏahana-i-Ghōṟi,Ḏahanae Ghōṟi,Ḩukūmatī Dahanah-ye Ghōrī	35.90617	68.48869	P	PPLA2	AF		03				3307		801	Asia/Kabul	2012-05-05
+1144905	Tsowkêy	Tsowkey	Cawkae,Cawkay,Chaukai,Chauki,Chowkay,Chowkey,Chowki,Chowkī,Tsowkey,Tsowkêy,chwky,Čawkae,څوکۍ,چوكی	34.69246	70.92688	P	PPLA2	AF		34				0		725	Asia/Kabul	2012-02-28
+1144942	Chīras	Chiras	Chiras,Chīras,Ciras,Cīras	35.41674	65.98234	P	PPL	AF		33				12779		2691	Asia/Kabul	2012-01-16
+1145007	Chisht-e Sharīf	Chisht-e Sharif	Ceste Sarif,Ces̄te S̄aṟīf,Chesht-e Sharif,Chesht-e Sharīf,Chest-e Sharif,Chisht-e Sharif,Chisht-e Sharīf,Chusht-e Sharif,Chusht-e Sharīf,Khvajeh Chesht,Khvājeh Chesht,Khwaja Chist,Qaryeh-ye Chest-e Sharif,Qaryeh-ye Chest-e Sharīf,chsht shryf,چشت شریف	34.34731	63.73966	P	PPLA2	AF		11				0		1572	Asia/Kabul	2012-02-28
+1145124	Chinār	Chinar	Cenar,Chenar,Chenār,Chinar,Chinār,Chīnār,chnar,chynar,Čenār,چنار,چینار	32.01583	65.10721	P	PPLA2	AF		23				0		1132	Asia/Kabul	2012-02-28
+1145128	Chimtāl	Chimtal	Ahan Qal`eh,Cemtal,Cemtāl,Chemtal,Chemtāl,Chimtal,Chimtal',Chimtāl,chmtal,chmtl,Āhan Qal‘eh,Чимталь,چمتال,چمتل	36.67818	66.80325	P	PPLA2	AF		30				0		355	Asia/Kabul	2012-02-28
+1145348	Charkh	Charkh	Carkh,Charkh,chrkh,Čarkh,چرخ	33.79712	68.93749	P	PPLA2	AF		17				0		2081	Asia/Kabul	2013-03-05
+1145352	Charikar	Charikar	Caharikar,Carikar,Chaharikar,Chahārīkār,Chairkar,Charekar,Charikar,Chāirkār,Chārīkār,Cāṟikāṟ,charykar,Čahārikār,Чарикар,چاريكار	35.01361	69.17139	P	PPLA	AF		40				53676		1554	Asia/Kabul	2010-01-29
+1145364	Dowr-e Rabāţ	Dowr-e Rabat	Cardara,Chahar Darreh,Chahār Darreh,Char Darah,Char Darreh,Chār Darah,Chār Darreh,Cāṟḏaṟa,Davri-Rabat,Dawr-i-Rabat,Dawṟ-i-Ṟabāṯ,Dowr-e Rabat,Dowr-e Rabāţ,Ribat,Ribāt,char drh,dwr rbat,Даври-Рабат,دور رباط,دورٔ رباط,چار دره	36.69132	68.79093	P	PPLA2	AF		24				0		390	Asia/Kabul	2012-02-28
+1145417	Tsapêraī	Tsaperai	Capare,Capaṟē,Chapare,Chapray,Chhapri,Tsapare,Tsaparē,Tsaperai,Tsapêraī,څپری,څپرې	33.83003	69.9192	P	PPLA2	AF		36				0		1679	Asia/Kabul	2012-02-28
+1145511	Tsamkanī	Tsamkani	Camkani,Chakmani,Chamkani,Chamkanī,Dzamkani,Dzamkanī,Pir Sarai,Pir Serai,Pīr Sarāi,Qal`eh-ye Chamkani,Qal‘eh-ye Chamkanī,Sakmanni Parao,Tsamkani,Tsamkanī,chmkny,Čamkani,څمکنی,چمکنی	33.80298	69.81671	P	PPLA2	AF		36				0		1716	Asia/Kabul	2012-05-05
+1145605	Chakaray	Chakaray	Cakaray,Chakarai,Chakaray,Chakari,Chakarī,Chakaṟaī,Charkari,Dasht-e Chakaray,chkry,dsht chkry,Čakaray,دشت چکری,چکری	34.34099	69.4377	P	PPLA2	AF		13				0		2372	Asia/Kabul	2012-02-28
+1145607	Chākarān	Chakaran	Cakaran,Chakaran,Chākarān,Cākaṟān,Khakaran,Khākarān,chakran,چاکران	36.91047	71.06878	P	PPLA2	AF		01				0		1759	Asia/Kabul	2012-02-28
+1145799	Chahār Qal‘ah	Chahar Qal`ah	Caharqal`a,Chahar Qal`ah,Chahar Qal`eh,Chahār Qal‘ah,Chahār Qal‘eh,Chakharkala,Čahārqal‘a,چهار قلعه	33.55267	68.29828	P	PPLA2	AF		08				0		2376	Asia/Kabul	2013-03-05
+1145866	Chahār Burj	Chahar Burj	Car Burj,Chahar Borj,Chahar Burj,Chahar Burjak,Chahār Borj,Chahār Burj,Chahār Burjak,Char Burj,Charburdzh,Chār Burj,chhar brj,Čār Burj,چهار برج	34.24475	62.19165	P	PPL	AF		11				11935		943	Asia/Kabul	2012-01-16
+1145897	Chāh Āb	Chah Ab	Cah Ab,Cah-i-Ab,Chah Ab,Chah-e Ab,Chah-i-Ab,Chayab,Chāh Āb,Chāh-e Āb,Chāh-i-Āb,Cāh Āb,Cāh-i-Āb,chah ab,چاه آب	37.39773	69.81464	P	PPLA2	AF		26				0		1034	Asia/Kabul	2012-05-05
+1145904	Chaghcharān	Chaghcharan	Caghcaran,Caghcaṟān,Cakhcaran,Cakhcaṟān,Chaghcharan,Chaghcharān,Chakcharan,Chakhcharan,Chekcheran,chghchran,چغچران	34.51952	65.25094	P	PPLA	AF		09				15000		2263	Asia/Kabul	2013-08-02
+1146336	Bulōlah	Bulolah	Bolola,Bolowleh,Boluleh,Bolōla,Bolūleh,Bulola,Bulolah,Bulōlah,blwlh,بلوله	34.87706	68.0879	P	PPLA2	AF		05				0		2430	Asia/Kabul	2012-02-28
+1146576	Bal Chirāgh	Bal Chiragh	Bal Chiragh,Bal Chirāgh,Belceragh,Belcheragh,Belcherāgh,Belchirag,Belchiragh,Belchirāg,Belchirāgh,Bilchiragh,Bilchirāgh,Bēlceṟāgh,Bēlchirāgh,bl chragh,بل چراغ,بېل چراغ	35.84026	65.2309	P	PPLA2	AF		07				0		1163	Asia/Kabul	2012-05-05
+1146694	Bāzār-e Tālah	Bazar-e Talah	Bazar-e Talah,Bazar-e Taleh,Bazare Tala,Bāzār-e Tālah,Bāzār-e Tāleh,Bāzāṟe Tāla,Tala,Tala Barfaq,bazar talh,بازار تاله	35.39205	68.22317	P	PPLA2	AF		03				0		1206	Asia/Kabul	2012-02-28
+1146822	Bāsawul	Basawul	Basavul',Basavul’,Basawul,Basowl,Bāsawul,Bāsowl,Mohmand Darrah,baswl,باسول	34.24749	70.87218	P	PPLA2	AF		18				6835		464	Asia/Kabul	2012-02-28
+1146911	Būrkah	Burkah	Barkah,Borkeh,Burka,Burkah,Buṟka,Būrkah,bwrkh,بورکه	36.22242	69.15038	P	PPLA2	AF		03				0		1188	Asia/Kabul	2012-02-28
+1146979	Barg-e Matāl	Barg-e Matal	Barg-e Matal,Barg-e Matāl,Barg-e Maṯāl,Barge Matal,Bargi-Matal',Bargi-Matal’,Baṟge Matāl,Bragamata,Bragamatal,Lutdeh,brg mtal,برگ متال	35.67283	71.34339	P	PPLA2	AF		38				0		2077	Asia/Kabul	2012-02-28
+1147066	Barakī Barak	Baraki Barak	Barah Ki Barak,Barah Kī Barak,Baraki Barak,Baraki Burak,Barakibarak,Barakī Barak,Barqi Barq,brh ky brk,brky brk,بره کی برک,برکی برک	33.96744	68.9492	P	PPLA2	AF		17				22305		1940	Asia/Kabul	2013-02-07
+1147118	Banū	Banu	Andarab,Andarāb,Banow,Banu,Banū,bnw,بنو	35.63348	69.2602	P	PPLA2	AF		03				0		1510	Asia/Kabul	2012-02-28
+1147242	Bāmyān	Bamyan	Bamian,Bamiyan,Bamyan,Bāmyān,Bāmīān,Kala Sarkari,Qal`a Sarkarit,Qala Sarkari,Qala Sarkāri,Qal‘a Sarkārit,bamyan,باميان	34.82156	67.82734	P	PPLA	AF		05				61863		2550	Asia/Kabul	2013-08-02
+1147290	Balkh	Balkh	Bactra,Bactresh,Bakhtar,Balch,Balh,Balhika,Balkh,Bamik,Bazirabad,Bkahdi,Bākhtar,Vazirabad,ba er he,blkh,Балх,Вазирабад,بلخ,巴尔赫	36.75635	66.8972	P	PPLA2	AF		30				114883		348	Asia/Kabul	2012-02-28
+1147489	Bahārak	Baharak	Baharak,Bahārak,Barak,Becharek,Bekharek,bhark,بهارک	37.00254	70.90664	P	PPLA2	AF		01				0		1552	Asia/Kabul	2012-02-28
+1147511	Bagrāmī	Bagrami	Bagrame,Bagrami,Bagrāmē,Bagrāmī,Bigrami,Bigrāmī,Qaryeh-ye Bagrami,Qaryeh-ye Bagrāmī,bgramy,بگرامی	34.49376	69.27427	P	PPLA2	AF		13				0		1788	Asia/Kabul	2012-02-28
+1147540	Baghlān	Baghlan	Baghlan,Baghlan - bghlan,Baghlan - بغلان,Baghlan-e Jadid,Baghlin,Baghlān,Baghlān-e Jadīd,Baglan,Bagolaggo,Sana `Ati,Sana`ati,bghlan,bghlan jdyd,Şanā ‘Ati,Şanā‘atī,Баглан,بغلان,بغلان جديد,صناعتی	36.13068	68.70829	P	PPLA2	AF		03				108449		531	Asia/Kabul	2012-02-28
+1147851	Ḩukūmatī Azrah	Hukumati Azrah	Azra,Azrah,Azraw,Azreh,Azrow,Azru,Azrū,Azṟa,Azṟaw,Hazrah,Hazro,Hokumati Azraw,Hokumati Azrow,Hukumati Azrah,Khukumati-Azrau,azrh,azrw,hkwmty azrh,Āzreh,ازره,ازرو,حکومتی ازره,Ḩokūmatī Azṟaw,Ḩokūmatī Āzrow,Ḩukūmatī Azrah	34.17355	69.64573	P	PPLA2	AF		17				12526		2330	Asia/Kabul	2012-05-05
+1148106	Ārt Khwājah	Art Khwajah	Art Khvajeh (1),Art Khwajah,At Khvajeh,At Khwaja,art khwajh,Ārt Khwājah,Āt Khvājeh,Āt Khwāja,Āṟt Khvājeh (1),آرت خواجه	37.08571	69.47958	P	PPL	AF		26				18623		481	Asia/Kabul	2012-01-16
+1148114	‘Alāqahdārī Aṯghar	`Alaqahdari Atghar	Alakadari-Atgar,Arghar,Ataghar,Atghar,Aţghar,Aṯaghaṟ,`Alaqadari Atghar,`Alaqahdari Atghar,`Alaqehdari-ye Atghar,atghr,اتغر,اطغر,علاقهدارئ اټغر,‘Alāqahdārī Aṯghar,‘Alāqaḏāri Aṯghar,‘Alāqehḏārī-ye Aţghar	31.73506	67.3574	P	PPLA2	AF		28				0		1827	Asia/Kabul	2012-05-05
+1148205	Āsmār	Asmar	Asma,Asmar,Asmār,asmar,Āsmā,Āsmār,آسمار,اسمار	35.03333	71.35809	P	PPLA2	AF		34				15708		913	Asia/Kabul	2012-02-28
+1148268	Ashkāsham	Ashkasham		36.68333	71.53333	P	PPL	AF		01				12120		3057	Asia/Kabul	2006-01-27
+1148311	Asadābād	Asadabad	Asadabad,Asadābād,Assad-Abad,Caghasaray,Chagha Serai,Chagha-Sari,Chaghah Saray,Chaghah Sarāy,Chaghasarai,Chaghasaray,Chaghasarāy,Chagsarai,Chegheh Saray,Chegheh Sarāy,Chigha Sarai,Chigha Sarāi,Chigha Serai,Chigkhasaray,asd abad,chghh sray,Čaghasarāy,Асадабад,اسد آباد,چغه سرای	34.87311	71.14697	P	PPLA	AF		34				48400		837	Asia/Kabul	2012-02-24
+1148560	Āqchah	Aqchah	Ag Chah,Akcha,Akcheh,Aqca,Aqcha,Aqchah,Aqcheh,aqchh,Āg Chāh,Ākchā,Āqca,Āqchah,Āqcheh,آقچه	36.92196	66.17647	P	PPLA2	AF		31				0		292	Asia/Kabul	2012-02-28
+1148658	Andkhōy	Andkhoy	Andkhoi,Andkhoy,Andkhui,Andkhvoy,Andkhōy,Andkhōī,Andkhūi,Ankhoi,andkhwy,اندخوی	36.95293	65.12376	P	PPLA2	AF		07				29208		306	Asia/Kabul	2012-02-28
+1148695	’Unābah	'Unabah	'Unabah,Anava,Anawa,Anawah,anawh,Ānāwa,Ānāwah,آناوه,عنابه,’Unābah	35.23251	69.37719	P	PPLA2	AF		42				0		1770	Asia/Kabul	2012-05-05
+1148709	Anār Darah	Anar Darah	Anar Dara,Anar Darah,Anar Darrah,Anar Darreh,Anardara,Anardarra,Anār Darah,Anār Darrah,Anār Darreh,Anārdarra,Saykh Abad,Shaykh Abad,Shaykh Ābād,S̄aykh Ābāḏ,anar drh,shykh abad,Анар Дара,انار دره,شیخ آباد	32.7587	61.65397	P	PPLA2	AF		06				10023		778	Asia/Kabul	2012-02-28
+1148792	Amānzī	Amanzi	Amanzai,Amanzey,Amanzi,Amin Za'i,Amin Za’ī,Amānzaī,Amānzey,Amānzi,Amānzī,amanzy,amn zyy,امانزی,امن زئی	30.21144	66.04765	P	PPLA2	AF		23				0		993	Asia/Kabul	2012-02-28
+1148863	‘Alāqahdārī-ye Almār	`Alaqahdari-ye Almar	Alaqadari-i-Almar,Almar,Almar Bazar,Almar Bāzār,Almār,Alāqaḏāṟi-i-Almāṟ,`Alaqahdari-ye Almar,almar,المار,علاقه داری المار,‘Alāqahdārī-ye Almār	35.84616	64.53074	P	PPLA2	AF		07				0		840	Asia/Kabul	2012-02-28
+1148893	‘Alī Shēr ‘Alāqahdārī	`Ali Sher `Alaqahdari	Aliser 'Alaqadari,Alishahr,Alisheralakadari,Ališēr ’Alāqadāri,Alīshahr,`Ali Sher,`Ali Sher `Alaqahdari,`Ali Shir `Alaqehdari,علی شير علاقهداری,علی شېر,علی شېر علاقه داری,‘Alī Shēr,‘Alī Shēr ‘Alāqahdārī,‘Alī Shīr ‘Alāqehdārī	33.4362	70.06711	P	PPLA2	AF		37				0		1082	Asia/Kabul	2012-02-28
+1148911	Wuluswālī ‘Alīngār	Wuluswali `Alingar	Oluswali Alingar,Oluswāli Alīngāṟ,Ulusvali-Alingar,Wuluswali `Alingar,Wuluswālī ‘Alīngār,`Alingar,ولسوالی علینگار,‘Alīngār	34.8347	70.35946	P	PPLA2	AF		35				0		937	Asia/Kabul	2012-05-05
+1148939	‘Alī Khēl	`Ali Khel	Alikheyl',Alikheyl’,`Ali Khel,`Ali Kheyl,`Alikhel,علی خېل,‘Alikhēl,‘Alī Kheyl,‘Alī Khēl	33.94253	69.71908	P	PPLA2	AF		36				0		2144	Asia/Kabul	2012-02-28
+1149049	‘Alāqahdārī Yōsuf Khēl	`Alaqahdari Yosuf Khel	Alakadari-Yusufkheyl',Alakadari-Yusufkheyl’,Yosuf Khel,Yōsuf Khēl,`Aaqadari Yosufkhel,`Alaqadari Yosufkhel,`Alaqahdari Yosuf Khel,`Alaqehdari Yusofkheyl,`Alaqehdari-ye Yusof Kheyl,علاقه داری یوسف خېل,‘Alāqahdārī Yōsuf Khēl,‘Alāqaḏāṟī Yōsufkhēl,‘Alāqehdārī Yūsofkheyl,‘Alāqehdārī-ye Yūsof Kheyl,‘Aāqaḏāṟī Yōsufkhēl	33.05194	68.65	P	PPLA2	AF		29				0		2239	Asia/Kabul	2012-02-28
+1149052	‘Alāqahdārī Dīshū	`Alaqahdari Dishu	Dishu,Dīshū,`Alaqadari Dehe Su,`Alaqahdari Deh-e Shu,`Alaqahdari Dishu,`Alaqehdari Deh-e Shu,علاقهداری ده شو,علاقهداری ديشو,‘Alāqahdārī Deh-e Shū,‘Alāqahdārī Dīshū,‘Alāqaḏāṟī Dehe S̄u,‘Alāqehdārī Deh-e Shū	30.43206	63.29802	P	PPLA2	AF		10				9196		596	Asia/Kabul	2012-05-05
+1149107	Alah Sāy	Alah Say	Alah Say,Alah Sāy,Alasay,Alasāy,alh say,اله سای,شيلۀ اله	34.8965	69.72049	P	PPLA2	AF		14				0		1602	Asia/Kabul	2012-02-28
+1149348	Pachīr wa Āgām	Pachir wa Agam	Agam,Agām,Pachier Agam,Pachir Agam,Pachir Aw Agam,Pachir wa Agam,Pachiro Agam,Pachiro Agām,Pachīer Agam,Pachīr Aw Āgām,Pachīr wa Āgām,Pachīr Āgām,Pachīrō Agām,Paciro Agam,Pačīro Agām,agam,pchyr w agam,pchyrw agam,اگام,پچير و آگام,پچیرو اگام	34.20011	70.27806	P	PPLA2	AF		18				0		1241	Asia/Kabul	2012-05-05
+1149371	Afaki	Afaki	Afaki,Afaqi,afaqy,Āfāqī,Афаки,آفاقی	36.66172	69.35095	P	PPLA2	AF		26				0		711	Asia/Kabul	2012-02-28
+1149379	Adraskan	Adraskan	Adraskan,Adraskand,Adreskan,Adriskan,Aḏṟeskan,Gala,Gala Adraskan,Kala Adraskan,Kala Adrāskan,Qal`eh Adraskand,Qala Adraskan,Qala Adrāskān,Qal‘eh Adraskand,adrskn,ادرسکن	33.64573	62.26959	P	PPLA2	AF		11				0		1352	Asia/Kabul	2012-05-05
+1149550	Āb-e Kamarī	Ab-e Kamari	Ab-e Kamari,Ab-i-Kamari,ab kmry,Āb-e Kamarī,Āb-i-Kamaṟi,آب کمری	35.08796	63.0678	P	PPLA2	AF		02				0		760	Asia/Kabul	2012-02-28
+1348242	Khadīr	Khadir	Khadir,Khadīr,khdyr,خدیر	33.92232	65.93398	P	PPLA2	AF		41				0		2462	Asia/Kabul	2012-02-28
+1349513	Ghulām ‘Alī	Ghulam `Ali	Gholam `Ali,Gholām ‘Alī,Ghulam `Ali,Ghulām ‘Alī,Gulyamali,Qaryah-ye Shahr-e Now Ghulam 'Ali,Qaryah-ye Shahr-e Now Ghulām ’Alī,Vulusvaliyi-Bagram,Woluswali-i-Bagram,Woluswali-ye Bagram,Woluswālī-i-Bagṟām,Woluswālī-ye Bagrām,wlswaly bgram,غلام علی,قريه شهر نو غلام علی,ولسوالی بگرام	34.95076	69.2287	P	PPLA2	AF		40				0		1489	Asia/Kabul	2012-02-28
+1349709	Qarah Bāgh Bāzār	Qarah Bagh Bazar	Bazar-e Qarah Bagh,Bāzār-e Qarah Bāgh,Karabagbazar,Qarabagh Bazar,Qarah Bagh Bazar,Qarah Bāgh Bāzār,Qareh Bagh Bazar,Qareh Bāgh Bāzār,Qaṟabāgh Bāzāṟ,bazar qrh bagh,qrh bagh bazar,بازار قره باغ,قره باغ بازار	34.8529	69.17062	P	PPLA2	AF		13				0		1531	Asia/Kabul	2012-02-28
+1349845	Zargarān	Zargaran	Zargaran,Zargarān,zrgran,زرگران	34.78764	69.05878	P	PPLA2	AF		13				0		1935	Asia/Kabul	2012-02-28
+1349934	Surkh Bilandī	Surkh Bilandi	Sorkh Bilandi,Sorkh Bilandī,Sorkh Bolandi,Sorkh Bolandī,Surkh Bilandi,Surkh Bilandī,Surkh-Belandi,Surkhbilandi,Suṟkh-Belanḏi,srkh blndy,سرخ بلندی	34.68474	69.02863	P	PPLA2	AF		13				0		2040	Asia/Kabul	2012-02-28
+1349969	Pul-e Sangī	Pul-e Sangi	Pol-e Sangi,Pol-e Sangī,Pul-e Sangi,Pul-e Sangī,Pule Sangi,Puli-Sangi,pl sngy,پل سنگی,پلٔ سنگی	34.59972	69.25993	P	PPLA2	AF		13				0		1776	Asia/Kabul	2012-02-28
+1422873	Langar	Langar	Langar,Qaryah-ye Langar,lngr,qryh lngr,قريه لنگر,لنگر	35.99474	68.05081	P	PPLA2	AF		32				0		1440	Asia/Kabul	2012-02-28
+1423264	Bāgh-e Maīdān	Bagh-e Maidan	Bagh-e Maidan,Bagh-e Meydan,Bagh-e Meydān,Baghe Maydan,Bagi-Maydan,Bāgh-e Maīdān,Bāghe Mayḏān,bagh mydan,bgh mydan,باغ میدان,بغ ميدان	35.22156	69.21397	P	PPLA2	AF		40				0		1988	Asia/Kabul	2012-02-28
+1423451	Ibrāhīm Khān	Ibrahim Khan	Ebrahimkhan,Ebrāhīmkhān,Ibrahim Khan,Ibrakhimkhan,Ibrāhīm Khān,Qaryah-ye Ibrahim Khel,Qaryah-ye Ibrāhīm Khēl,abrahym khan,ابراهيم خان,ابراهیم خان,قريه ابراهيم خېل	35.05352	69.25654	P	PPLA2	AF		40				0		1491	Asia/Kabul	2012-02-28
+1427089	Qaranghū Tōghaī	Qaranghu Toghai	Karankutugay,Qaranghu Toghai,Qaranghū Tōghaī,Qaryah-ye Qaran Toghai,Qaryah-ye Qaran Tōghaī,qrnghw twghy,qryh qrn twghy,قرنغو توغی,قريه قرن توغی	37.21528	67.63972	P	PPLA2	AF		30				0		301	Asia/Kabul	2012-02-28
+1429434	Bāzārak	Bazarak	Bazarak,Bāzārak,bazark,Базарак,بازارك,بازارک	35.31292	69.51519	P	PPLA	AF		42				65000		1965	Asia/Kabul	2013-08-02
+1429499	Shērwānī-ye Bālā	Sherwani-ye Bala	Serwani Bala,Shayrwan-e Bala,Shayrwani,Shayrwani-ye Bala,Shayrwān-e Bālā,Shayrwānī,Shayrwānī-ye Bālā,Shervani-Bala,Sherwani-ye Bala,Shirvani Bala,Shērwānī-ye Bālā,Shīrvānī Bālā,shyrwan bala,shyrwany,shyrwany bala,Šērwāni Bālā,Шервани-Бала,شيروانی,شيروانی بالا,شیروان بالا	35.01468	69.59934	P	PPLA2	AF		14				0		1786	Asia/Kabul	2013-05-09
+1429521	Kirāmān	Kiraman	Keraman,Kerāmān,Kiraman,Kirāmān,kraman,Кираман,کرامان	35.2973	69.68125	P	PPLA2	AF		42				0		2527	Asia/Kabul	2012-02-28
+1434016	‘Alāqahdārī Saṟōbī	`Alaqahdari Sarobi	Alakadari-Sarobi,Sarobi,Saṟōbī,`Alaqadari Sarobi,`Alaqadari-ye Sarubi,`Alaqahdari Sarobi,`Alaqahdari-ye Sarobi,علاقه داری سړوبی,‘Alāqadārī-ye Saṟūbī,‘Alāqahdārī Saṟōbī,‘Alāqahdārī-ye Saṟōbī,‘Alāqaḏārī Saṟōbi	32.79331	69.0866	P	PPLA2	AF		29				0		2400	Asia/Kabul	2012-05-06
+1435007	Zerok-Alakadari	Zerok-Alakadari	Zerok Alagadari,Zerok Alaqadari,Zerok `Alaqahdari,Zerok-Alakadari,Zeruk `Alaqahdari,Ziruk,Ziruk `Alaqahdari,Ziruk `Alaqehdari,Zērōk Alāgaḏāṟī,Zērōk Alāqaḏāṟi,Zērūk ‘Alāqahdārī,Zēṟōk ‘Alāqahdārī,Zīṟūk,Zīṟūk ‘Alāqahdārī,Zīṟūk ‘Alāqehdārī,زیړوک,زیړوک علاقه داری	33.15806	69.31278	P	PPLA2	AF		29				0		2336	Asia/Kabul	2012-02-28
+1437312	Kushkak	Kushkak	Kushkak,Kuskak,Kuškak,Kūshkak,kshkk,کشکک	32.28991	61.52194	P	PPLA2	AF		06				0		612	Asia/Kabul	2012-02-28
+1437517	Khayr Kōṯ	Khayr Kot	Khayr Kot,Khayr Kōṯ,Khayrkot,Kheyr Kut,Kheyr Kūt,khyr kwt,خیر کوت,خیر کوټ	32.85355	68.44972	P	PPLA2	AF		29				0		2126	Asia/Kabul	2012-02-28
+1448087	Chowṉêy	Chowney	Cawnay,Chawnay,Chowney,Chowṉêy,Čawnay,چوڼۍ	33.38278	66.27233	P	PPLA2	AF		41				0		1347	Asia/Kabul	2012-02-28
+1451863	Wuṯahpūr	Wutahpur	Votapur,Watahpur,Waṯahpūr,Wotapur,Wotapūr,Wutahpur,Wuṯahpūr,wtpwr,وتپور,وټه پور	34.91914	71.09863	P	PPLA2	AF		34				0		872	Asia/Kabul	2012-02-28
+1452109	Karbori	Karbori	Karbori,Karburi,Karbōṟī,Karbūri,Kaṟbōri,كربوړی	34.96472	71.27444	P	PPLA2	AF		34				0		878	Asia/Kabul	2012-02-28
+1453103	Sulţānpūr-e ‘Ulyā	Sultanpur-e `Ulya	Soltanpur-e `Olya,Soltānpūr-e ‘Olyā,Sultan Pur,Sultanpur-e `Ulya,Sultanpure `Ulya,Sultanpuri-Ulia,Sulţān Pūr,Sulţānpūr-e ‘Ulyā,Sūltānpūṟe ‘Ulyā,sltan pwr,سلطان پور,سلطانپور علیا,سلطانپورٔ علیا	34.41204	70.29634	P	PPLA2	AF		18				0		696	Asia/Kabul	2012-02-28
+1453777	Babasakhib	Babasakhib	Baba Saheb,Baba Sahib,Babasakhib,Bābā Şāḩeb,Bābā Şāḩib,baba sahb,بابا صاحب	31.66144	65.66098	P	PPLA2	AF		23				0		1014	Asia/Kabul	2012-02-28
+1454590	Chandal Bā’ī	Chandal Ba'i	Candalba'i,Chandal Ba'i,Chandal Bā’ī,Chandalba'e,Chandalba'i,Chandalbā’e,Chandalbā’i,chndl bayy,Čandalbā’i,چندل بائی	34.58469	68.95524	P	PPLA2	AF		13				0		2304	Asia/Kabul	2012-08-05
+1455430	Dahan-e Jarf	Dahan-e Jarf	Dahan-e Jarf,Dakhani-Dzharf,dhn jrf,دهن جرف	34.92891	68.46273	P	PPLA2	AF		40				0		2306	Asia/Kabul	2012-05-06
+1456960	Maydanshakhr	Maydanshakhr	Maidan Shahr,Maidan Shar,Maydanshakhr,Maīdān Shahr,Maīdān S̲h̲ār,Meydan Shahr,Meydān Shahr,mydan shhr,ميدان شهر	34.39561	68.86618	P	PPLA	AF		27				1600		2206	Asia/Kabul	2012-10-07
+1459933	Dū Laīnah	Du Lainah	Dolayna,Dolaynah,Dorahi Ghor,Du Lainah,Dulaynah,Durahi Ghor,Durāhī Ghōr,Dū Laīnah,dlynh,drahy ghwr,dw lynh,دراهی غور,دلینه,دو لينه,Ḏolayna,Ḏoṟāhī Ghōṟ	34.15599	64.78566	P	PPLA2	AF		09				0		2619	Asia/Kabul	2012-05-06
+1464552	Qaram Qōl	Qaram Qol	Qaram Qol,Qaram Qōl,Qaramqol,Qaramqul,Qaramqūl,qrm qwl,قرم قول	36.83006	65.04299	P	PPLA2	AF		07				0		334	Asia/Kabul	2012-02-29
+1464922	Pul-e Ḩişār	Pul-e Hisar	Pol-e Hesar,Pol-e Ḩeşār,Pul-e Hisar,Pul-e Ḩişār,Pule Hesar,Pule Hesāṟ,pl hsar,پل حصار	35.61794	69.47134	P	PPLA2	AF		03				0		1979	Asia/Kabul	2012-02-29
+1465349	Lab-Sar	Lab-Sar		36.02634	66.83799	P	PPL	AF		30				1068		1011	Asia/Kabul	2012-02-29
+1467349	Ţāqchah Khānah	Taqchah Khanah	Taqca Khana,Taqchah Khanah,Taqcheh Khaneh,Tāqchah Khānah,Tāqcheh Khāneh,Tāqča Khāna,taqchh khanh,Ţāqchah Khānah,تاقچه خانه,طاقچه خانه	36.61922	69.62805	P	PPLA2	AF		26				0		1071	Asia/Kabul	2012-02-29
+1467433	March	March	Marc,March,Maṟc,Qaryah-ye Murch,mrch,qryh mrch,قريه مرچ,مرچ	37.52845	70.4482	P	PPLA2	AF		01				0		1607	Asia/Kabul	2012-02-29
+1467505	Zīrakī	Ziraki	Ziraki,Zīrakī,Zīṟakī,zyrky,زیرکی	37.59233	70.55814	P	PPLA2	AF		01				0		2475	Asia/Kabul	2013-09-09
+1467976	Aliabad	Aliabad	Aliabad,`Ali Abad,`Aliabad,Алиабад,علی آباد,‘Alī Ābād,‘Alīābād	36.52115	68.89985	P	PPLA2	AF		24				0		426	Asia/Kabul	2012-02-29
+1468514	Pas Pul	Pas Pul	Pas Pol,Pas Pul,ps pl,پس پل	37.47355	70.61617	P	PPLA2	AF		01				0		2158	Asia/Kabul	2013-09-09
+1469237	Qal‘ah-ye Na‘īm	Qal`ah-ye Na`im	Kalanaim,Qal`ah-ye Na`im,Qal`eh Na`im,Qal`eh-ye Na`im,Qal‘ah-ye Na‘īm,Qal‘eh Na‘īm,Qal‘eh-ye Na‘īm,قلعه نعيم	34.39951	69.16705	P	PPLA2	AF		13				0		1819	Asia/Kabul	2013-06-05
+1469706	Markaz-e Woluswalī-ye Āchīn	Markaz-e Woluswali-ye Achin	Achin,Achin-Ulusvali,Acin Oluswali,Markaz-e Woluswali-ye Achin,Markaz-e Woluswalī-ye Āchīn,achyn,Āchīn,Āčīn Oluswāli,آچين	34.12583	70.70778	P	PPL	AF		18				15098		972	Asia/Kabul	2010-08-10
+1474140	Manogay	Manogay	Manogay,Manugay,Mānūgay,Māṉōgay,manwgy,مانوگی,ماڼوگی	34.99015	70.91302	P	PPLA2	AF		34				0		1042	Asia/Kabul	2012-02-29
+1476203	Stêr Giyān	Ster Giyan	Gayan,Gayān,Ster Gian,Ster Giyan,Ster Gyan,Ster Gyān,Sterg'yan,Sterg’yan,Stêr Giyān,Stêr Gīān,gyan,str gyan,ستر گیان,گیان	32.97704	69.37308	P	PPLA2	AF		29				0		2132	Asia/Kabul	2012-05-06
+6692413	Cool űrhajó	Cool urhajo		34.26545	67.34516	P	PPL	AF		05				58525		2884	Asia/Kabul	2008-05-19
+8534261	Sharan	Sharan	Sharan,Sharan Woluswali,Sharan Woluswālī,Sharan Wuleswali,Sharan Wulêswālī,Sharana,shrn,شرن	33.17568	68.73045	P	PPLA	AF		29	7053785			2200		2145	Asia/Kabul	2013-08-02
+8534687	Salām Khēl	Salam Khel	Salam Khel,Salām Khēl,slam khېl,سلام خېل	33.67067	69.32983	P	PPLA2	AF		36				0		2417	Asia/Kabul	2013-06-05
+3576022	Saint John’s	Saint John's	Saint John,Saint John's,Saint John’s,Sent Dzonsas,Sent Džonsas,Sent Tzons,Sent-Dzhons,St Johns,St. John's,St.John.s,seinteujonseu,sentojonzu,sheng yue han,sheng yue han shi,snt g'wns,Σεντ Τζονς,Сент-Джонс,סנט ג'ונס,ሴንት ጆንስ፥ አንቲጋ እና ባርቡዳ,セントジョンズ,圣约翰,圣约翰市,세인트존스	17.11667	-61.85	P	PPLC	AG		04				24226		6	America/Antigua	2012-01-18
+3576050	Potters Village	Potters Village	Potters,Potters Village,Potters-Villadzh,Поттерс-Вилладж	17.08333	-61.81667	P	PPL	AG		04				1433		36	America/Antigua	2012-01-18
+3576057	Piggotts	Piggotts	Piggotts,Saint Mark's,Saint Marks Village,Saint Mark’s	17.11667	-61.8	P	PPLA	AG		03				1878		11	America/Antigua	2013-08-02
+3576074	Parham	Parham	Parham,Parkhehm,Пархэм	17.09682	-61.77046	P	PPLA	AG		07				969		18	America/Antigua	2012-02-06
+3576144	Liberta	Liberta	Liberta,Liberta Village,Либерта	17.03333	-61.78333	P	PPL	AG		06				1668		92	America/Antigua	2012-01-18
+3576260	Falmouth	Falmouth	Falmouth	17.02741	-61.78136	P	PPLA	AG		06				619		25	America/Antigua	2013-08-02
+3576311	Codrington	Codrington	Codrington,Codrington Village,Kodrington,Кодрингтон	17.63333	-61.83333	P	PPLA	AG		01				1325		6	America/Antigua	2013-06-26
+3576361	Bolands	Bolands	Boland Village,Bolands,Bolans	17.06565	-61.87466	P	PPLA	AG		05				1657		9	America/Antigua	2012-02-06
+3576397	All Saints	All Saints	All Saints,All Saints Village	17.06671	-61.79303	P	PPL	AG		07				2526		60	America/Antigua	2013-06-10
+3573374	The Valley	The Valley	De Balei,The Valley,Valley,Valli,bare,deobaelli,Δε Βάλεϊ,Валли,ואלי,バレー,더밸리	18.21704	-63.05783	P	PPLC	AI		00				2035	7	19	America/Anguilla	2013-02-02
+3573378	The Farrington	The Farrington	The Farrington	18.2	-63.03333	P	PPL	AI		00				1199		-9999	America/Anguilla	2013-02-02
+3573380	Stoney Ground	Stoney Ground	Stoney Ground	18.21667	-63.03333	P	PPL	AI		00				1545		18	America/Anguilla	2013-02-02
+3573456	Island Harbour	Island Harbour		18.25601	-63.0102	P	PPL	AI		00				1114		11	America/Anguilla	2013-02-02
+3573466	George Hill	George Hill	George Hill	18.2	-63.06667	P	PPL	AI		00				1135		36	America/Anguilla	2013-02-02
+363200	Xarrë	Xarre	Cara,Qare,Qarë,Xara,Xare,Xarja,Xarra,Xarre,Xarrë,Xarë	39.72833	20.05444	P	PPLA3	AL	AL	51	20			0		8	Europe/Tirane	2012-06-14
+363243	Sarandë	Sarande	Agioi,Agioi Saranta,Ayii Saranda,Hagios Saranta,Porto Edda,Santa Quaranta,Santi Quaranta,Saranda,Sarande,Sarandë,Saranta,Zogaj,Άγιοι Σαράντα,Саранда	39.87556	20.00528	P	PPLA2	AL		51	20			15147		32	Europe/Tirane	2012-06-14
+363285	Mesopotam	Mesopotam	Mesapotami,Mesopotam,Mesopotam i Poshter,Mesopotam i Poshtër,Mesopotami,Mesopotamo,Mesopótamo	39.91028	20.09222	P	PPLA3	AL	AL	51	30			0		47	Europe/Tirane	2012-06-14
+363288	Markat	Markat	Markat,Markati	39.73278	20.19528	P	PPLA3	AL	AL	51	20			0		472	Europe/Tirane	2012-06-14
+363298	Livadhja	Livadhja	Hoxha,Hoxhaj,Hoxhe,Hoxhë,Livadh,Livadhe,Livadhja,Livadhjaja,Livadhjaje,Livadhjajë,Livadhje	39.78917	20.12194	P	PPLA3	AL	AL	51	20			0		35	Europe/Tirane	2012-06-14
+363320	Konispol	Konispol	Conispolis,Konispoje,Konispol,Konispol',Konispoli,Konispolis,Конисполь	39.65889	20.18139	P	PPLA3	AL		51	20			1349		382	Europe/Tirane	2012-06-14
+363341	Kakavijë	Kakavije	Cacavia,Kakavi,Kakavia,Kakavija,Kakavije,Kakavijë,Kakavja	39.90778	20.35833	P	PPLA3	AL	AL	45	06			0		341	Europe/Tirane	2012-06-06
+363363	Finiq	Finiq	Eniki,Fenichi,Finik,Finiq,Finiqi,Firiq	39.90639	20.05833	P	PPLA3	AL	AL	51	30			0		37	Europe/Tirane	2012-06-14
+363380	Dhivër	Dhiver	Dhiver,Dhivre,Dhivri,Dhivrë,Dhivër,Kallarati,Kulurat,Kulurica	39.83611	20.16861	P	PPLA3	AL	AL	51	20			0		382	Europe/Tirane	2012-06-14
+363383	Delvinë	Delvine	Del'vina,Delvina,Delvine,Delvino,Delvinon,Delvinë,Zelvinou,Дельвина	39.95111	20.09778	P	PPLA2	AL		51	30			3916		200	Europe/Tirane	2012-06-14
+363409	Aliko	Aliko	Alicu,Alikaj,Aliko,Alikoja,Alikoje,Alikojë,Alikon	39.85861	20.07917	P	PPLA3	AL	AL	51	20			0		33	Europe/Tirane	2012-06-14
+781061	Buçimas	Bucimas	Bucimas,Bucimasi,Buçimas,Buçimasi,Starova,Starove,Starovë	40.89139	20.68139	P	PPLA3	AL	AL	46	18			0		703	Europe/Tirane	2012-06-11
+781093	Zhepë	Zhepe	Xhepa,Xhepe,Xhepë,Zhepa,Zhepe,Zhepë	40.67778	20.28694	P	PPLA3	AL		40	22			0		801	Europe/Tirane	2012-06-02
+781110	Zerqan	Zerqan	Arta,Zergjan,Zergjani,Zerqan,Zerqani,Zrkjan	41.50222	20.36056	P	PPLA3	AL	AL	41	29			0		725	Europe/Tirane	2012-06-02
+781127	Zavalinë	Zavaline	Zavalin,Zavalina,Zavaline,Zavalinë	40.98083	20.28083	P	PPLA3	AL	AL	43	04			0		844	Europe/Tirane	2012-05-31
+781132	Zapod	Zapod	Zagoti,Zapod,Zapodi,Zapot,Zapoti	42.05056	20.5525	P	PPLA3	AL	AL	47	11			0		1198	Europe/Tirane	2012-06-11
+781139	Zall-Reç	Zall-Rec	Rec,Reci,Reç,Reçi,Zali,Zall,Zall-Rec,Zall-Reci,Zall-Reç,Zall-Reçi,Zalli	41.87611	20.32	P	PPLA3	AL	AL	41	02			0		488	Europe/Tirane	2012-06-02
+781144	Zall-Dardhë	Zall-Dardhe	Zali,Zall i Dardhes,Zall i Dardhës,Zall-Dardha,Zall-Dardhe,Zall-Dardhë,Zalli i Dardes,Zalli i Dardhes,Zalli i Dardhës	41.80667	20.33611	P	PPLA3	AL	AL	41	02			0		397	Europe/Tirane	2012-06-02
+781158	Xibër-Murrizë	Xiber-Murrize	Murrize,Murrizë,Xiber,Xiber-Muriza,Xiber-Murize,Xiber-Murr,Xiber-Murriz,Xiber-Murriza,Xiber-Murrize,Xiber-Murrizia,Xiberr-Murrize,Xibri,Xibër,Xibër-Murizë,Xibër-Murr,Xibër-Murriz,Xibër-Murriza,Xibër-Murrizia,Xibër-Murrizë,Xibërr-Murrizë,Ziber-Murize,Zibër-Murizë	41.45472	20.02556	P	PPLA3	AL	AL	41	15			0		842	Europe/Tirane	2012-06-02
+781176	Vreshtas	Vreshtas	Vreshtas,Vreshtasi	40.79694	20.77694	P	PPLA3	AL	AL	46	09			0		818	Europe/Tirane	2012-06-10
+781182	Voskopojë	Voskopoje	Moscopole,Moskhopolis,Moskopole,Voskopoi,Voskopoj,Voskopoja,Voskopoje,Voskopojë	40.63306	20.58889	P	PPLA3	AL	AL	46	09			0		1199	Europe/Tirane	2012-06-10
+781185	Voskop	Voskop	Voskop,Voskopi	40.61194	20.69028	P	PPLA3	AL	AL	46	09			0		893	Europe/Tirane	2012-06-10
+781212	Vithkuq	Vithkuq	Vithkuq,Vithkuqi	40.525	20.5825	P	PPLA3	AL	AL	46	09			0		1253	Europe/Tirane	2012-06-10
+781213	Vithkuq	Vithkuq	Bithyq,Bityq,Buthuq,Bythyci,Bythyq,Bythyçi,Vithkuq,Vithuq,Vithuqi,Zagor,Zagori,Zagorie	40.20472	20.25944	P	PPLA3	AL	AL	45	06			0		675	Europe/Tirane	2012-06-06
+781250	Vërtop	Vertop	Vertop,Vertopi,Vërtop	40.62889	20.05389	P	PPLA3	AL	AL	40	01			0		167	Europe/Tirane	2012-06-02
+781260	Vergo	Vergo	Vergo,Vergoja,Vergoje,Vergojë	40.00667	20.00889	P	PPLA3	AL	AL	51	30			0		234	Europe/Tirane	2012-06-14
+781269	Vendresha e Vogël	Vendresha e Vogel	Vendresha e Vogel,Vendresha e Vogël,Vendreshe e Vogel,Vëndreshë e Vogël	40.50722	20.13472	P	PPLA3	AL	AL	40	22			0		679	Europe/Tirane	2012-06-02
+781280	Velçan	Velcan	Velcan,Velcan Mokra,Velcan Mokrra,Velcan i Mokres,Velcan i Mokrres,Velcani,Velcani i Mokres,Velçan,Velçan i Mokrrës,Velçan i Mokrës,Velçani,Velçani i Mokrës	40.95472	20.46222	P	PPLA3	AL	AL	46	18			0		1023	Europe/Tirane	2012-06-11
+781326	Ujmisht	Ujmisht	Mem,Ujmisht,Ujmishte,Ujmishte e Gurit,Ujmishti,Ujmishtë,Ujmishtë e Gurit,Ymishte-e Gurit,Ymishtë-e Gurit	41.90833	20.34694	P	PPLA3	AL	AL	47	11			0		594	Europe/Tirane	2012-06-11
+781335	Udënisht	Udenisht	Hodonishta,Hodonishti,Hodonista,Hodoništa,Hudenisht,Hudenishta,Hudenishti,Hudënishta,Udenisht,Udenishte,Udenishti,Udënisht,Udënishtë	40.96333	20.63917	P	PPLA3	AL	AL	46	18			0		743	Europe/Tirane	2012-06-11
+781343	Tunjë	Tunje	Tune,Tunia,Tunja,Tunje,Tunjë	40.83417	20.11194	P	PPLA3	AL	AL	43	07			0		597	Europe/Tirane	2012-05-31
+781376	Tregan	Tregan	Tregan,Tregani	41.02472	20.07833	P	PPLA3	AL	AL	43	04			0		259	Europe/Tirane	2012-05-31
+781379	Trebisht-Muçinë	Trebisht-Mucine	Trebisht-Mucina,Trebisht-Mucine,Trebisht-Muçina,Trebisht-Muçinë	41.41111	20.53556	P	PPLA3	AL	AL	41	29			0		790	Europe/Tirane	2012-06-02
+781382	Trebinjë	Trebinje	Trebinja,Trebinje,Trebinjë	40.91333	20.55306	P	PPLA3	AL	AL	46	18			0		898	Europe/Tirane	2012-06-11
+781405	Topojan	Topojan	Tapaiani,Topaiani,Topajan,Topojan,Topojani,Topoyani	40.37722	20.21333	P	PPLA3	AL	AL	45				0		648	Europe/Tirane	2012-06-11
+781415	Tomin	Tomin	Tomin,Tomini,Tonun,Tumini	41.69083	20.42167	P	PPLA3	AL	AL	41	02			0		686	Europe/Tirane	2012-06-02
+781443	Tepelenë	Tepelene	Tepelen,Tepelena,Tepelene,Tepeleni,Tepelenë,Тепелена	40.29583	20.01917	P	PPLA2	AL		45	23			11955		212	Europe/Tirane	2012-06-07
+781468	Surroj	Surroj	Serroj,Suroj,Surroj,Surroji	41.99222	20.34417	P	PPLA3	AL	AL	47	11			0		595	Europe/Tirane	2012-06-11
+781472	Sult	Sult	Sul,Suli,Sult,Sulta,Sulte,Sulti,Sultë	40.88472	20.09944	P	PPLA3	AL	AL	43	07			0		439	Europe/Tirane	2012-05-31
+781481	Sukë	Suke	Suka,Suke,Sukë	40.37528	20.15472	P	PPLA3	AL	AL	45	17			0		259	Europe/Tirane	2012-06-06
+781487	Suç	Suc	Suc,Suci,Suç,Suçi	41.57694	20.05139	P	PPLA3	AL	AL	41	15			0		281	Europe/Tirane	2012-06-02
+781506	Stravaj	Stravaj	Lira,Stovanit,Stravaj,Stravaje,Stravaji,Stravan,Stravani,Strevan	41.00528	20.42306	P	PPLA3	AL	AL	43	13			0		729	Europe/Tirane	2012-06-01
+781521	Steblevë	Stebleve	Slinza,Stebilova,Steblev,Stebleva,Stebleve,Steblevë,Stebljeva,Stebllova,Sterbleva,Stërbleva,Šlinza	41.33722	20.47	P	PPLA3	AL	AL	43	13			0		1148	Europe/Tirane	2012-06-01
+781563	Sllovë	Sllove	Slleva,Sllova,Sllove,Sllovë	41.80111	20.40833	P	PPLA3	AL	AL	41	02			0		914	Europe/Tirane	2012-06-02
+781578	Skore	Skore	Shkore,Shkorë,Shore,Shorë,Skore,Skorea,Skoreja	40.10722	20.36639	P	PPLA3	AL	AL	45	06			0		790	Europe/Tirane	2012-06-06
+781580	Skënderbegas	Skenderbegas	Shemberdhej i Poshtem,Shemberdhenj i Poshtem,Shemberthej i Poshtem,Shemerdhej i Poshtme,Shemerdhenj i Poshtem,Shemerdhenj i Poshtëm,Shenmerllag,Shëmberdhej i Poshtëm,Shëmberdhenj i Poshtëm,Shëmbërthej i Poshtëm,Shëmerdhej i Poshtme,Shënmerllag,Skenderbegas,Skenderbegasi,Skënderbegas,Skënderbegasi	40.77611	20.24056	P	PPLA3	AL	AL	43	07			0		521	Europe/Tirane	2012-05-31
+781599	Shushicë	Shushice	Scuscitsa,Shushica,Shushice,Shushicë	41.0975	20.14833	P	PPLA3	AL	AL	43	04			0		199	Europe/Tirane	2012-05-31
+781601	Shupenzë	Shupenze	Sciupentse,Shepenze,Shtepenz,Shtupenza,Shtëpenz,Shupenz,Shupenza,Shupenze,Shupenzë,Shëpenzë	41.53	20.42361	P	PPLA3	AL	AL	41	29			0		499	Europe/Tirane	2012-06-02
+781621	Shtiqën	Shtiqen	Shticen,Shtiger,Shtigjen,Shtigër,Shtiqen,Shtiqeni,Shtiqën,Shtiqëni,Stidden,Štidđen	42.04056	20.43417	P	PPLA3	AL	AL	47	11			0		364	Europe/Tirane	2012-06-11
+781664	Shishtavec	Shishtavec	Scishnevitc,Scishnevitć,Shishtavec,Shishtaveci,Shishtevec,Sistevac,Šištevac	41.98	20.60583	P	PPLA3	AL	AL	47	11			0		1352	Europe/Tirane	2012-06-11
+781667	Shirgjan	Shirgjan	Shirgjan,Shirgjani	41.05194	20.05333	P	PPLA3	AL	AL	43	04			0		124	Europe/Tirane	2012-05-31
+781690	Shëngjin	Shengjin	Shen Gjini,Shengin,Shengjin,Shingjin,Shingjini,Shëngjin,Шенгин	41.92611	20.18833	P	PPLA3	AL	AL	48	12			0		916	Europe/Tirane	2012-06-11
+781699	Shënmëri	Shenmeri	Shemeri,Shemeria,Shemri,Shemria,Shemrija,Shenmeri,Shenmric,Shmria,Shëmri,Shëmria,Shëmrija,Shëmëri,Shënmëri	42.10417	20.23833	P	PPLA3	AL	AL	47	11			0		409	Europe/Tirane	2012-06-11
+781740	Selishtë	Selishte	Selishta,Selishta e Poshtme,Selishte,Selishtë	41.6275	20.27917	P	PPLA3	AL	AL	41	02			0		743	Europe/Tirane	2012-06-02
+781763	Saraqinishtë	Saraqinishte	Sarachinista,Sarakinista,Saranishte,Saraqinisht,Saraqinishta,Saraqinishte,Saraqinishtë	40.10528	20.22944	P	PPLA3	AL	AL	45	06			0		708	Europe/Tirane	2012-06-06
+781778	Rukaj	Rukaj	Rukaj	41.68361	20.01917	P	PPLA3	AL		41	15			0		332	Europe/Tirane	2012-06-02
+781795	Rajcë	Rajce	Raica,Rajca,Rajce,Rajcë,Rrajca,Rrajce,Rrajcë,Sula	41.09028	20.57639	P	PPLA3	AL	AL	43	13			0		694	Europe/Tirane	2012-06-01
+781798	Roshnik	Roshnik	Fikaj,Roshnic,Roshnik,Roshniku,Rosniki,Rroshniku	40.73278	20.03944	P	PPLA3	AL	AL	40	01			0		361	Europe/Tirane	2012-06-02
+781862	Qukës-Skënderbe	Qukes-Skenderbe	Qukes-Skenderbe,Qukes-Skenderbej,Qukes-Skenderbeu,Qukës-Skënderbe,Qukës-Skënderbej,Qukës-Skënderbeu	41.08389	20.43806	P	PPLA3	AL	AL	43	13			0		556	Europe/Tirane	2012-06-01
+781877	Qestorat	Qestorat	Chiesarat,Khiesarat,Qesarat,Qestorat,Qestorati	40.1175	20.19972	P	PPLA3	AL	AL	45	06			0		553	Europe/Tirane	2012-06-06
+781903	Qafëmal	Qafemal	Chafamalit,Qaf Mal,Qaf Mali,Qafa e Malit,Qafamal,Qafe Mali,Qafe e Malit,Qafemal,Qafë Mali,Qafë e Malit,Qafëmal	42.09333	20.09056	P	PPLA3	AL	AL	49	19			0		754	Europe/Tirane	2012-06-12
+781919	Përrenjas-Fshat	Perrenjas-Fshat	Perrenjas-Fshat,Prrenjas-Fshat,Prrenjasi,Përrenjas-Fshat	41.06667	20.53528	P	PPL	AL		43				4015		586	Europe/Tirane	2012-01-19
+781920	Përrenjas	Perrenjas	Fshat Perrenjasi,Fshat Përrenjasi,Perren'jas,Perrenjas,Perrenjasi,Perrenjes,Prenjas,Prenjasi,Prenjesi,Prenjs,Prenjësi,Prrenjas,Prrenjasi,Përrenjas,Përrenjasi,Përrenjës,Перреньяс	41.07306	20.54889	P	PPLA3	AL	AL	43	13			0		591	Europe/Tirane	2012-06-01
+781924	Proptisht	Proptisht	Propishte,Propishtë,Proptisht,Proptishta,Proptishte,Proptishti,Proptishtë	40.98611	20.5025	P	PPLA3	AL	AL	46	18			0		600	Europe/Tirane	2012-06-11
+781927	Progër	Proger	Proger,Progeri,Progri,Progër,Progëri	40.69417	20.94028	P	PPLA3	AL	AL	46	31			0		842	Europe/Tirane	2012-06-09
+781951	Potom	Potom	Podhom,Potom,Potomi	40.48833	20.37333	P	PPLA3	AL	AL	40	22			0		980	Europe/Tirane	2012-06-02
+781962	Poroçan	Porocan	Porocan,Porocani,Poroçan,Poroçani	40.94194	20.29861	P	PPLA3	AL	AL	43	07			0		770	Europe/Tirane	2012-05-31
+781974	Polis-Gostimë	Polis-Gostime	Polis,Polis i-Madh,Polis-Gostime,Polis-Gostimë,Polisi,Polisi Mazi,Xhamia e Siperme,Xhamia e Sipërme	41.13333	20.25833	P	PPLA3	AL	AL	43	13			0		574	Europe/Tirane	2012-06-01
+781979	Poliçan	Polican	Polican,Policani,Polichan,Poliçan,Poliçani,Поличан	40.61222	20.09806	P	PPLA3	AL		40	01			10663		328	Europe/Tirane	2012-06-02
+781986	Pojan	Pojan	Poiani,Pojan,Pojani	40.72583	20.8375	P	PPLA3	AL		46	09			0		823	Europe/Tirane	2012-06-10
+781988	Pogradec	Pogradec	Podgradec,Pogradec,Pogradeci,Pogradets,Поградец,Подградец	40.9025	20.6525	P	PPLA2	AL	AL	46	18			0		702	Europe/Tirane	2012-06-11
+782035	Pishaj	Pishaj	Pishaj	40.88111	20.18278	P	PPLA3	AL		43	07			0		193	Europe/Tirane	2012-05-31
+782037	Pirg	Pirg	Pirg,Pirgu,Pirk	40.785	20.70611	P	PPLA3	AL	AL	46	09			0		871	Europe/Tirane	2012-06-10
+782048	Gjinkar	Gjinkar	Gjinakar,Gjinkan-Petrani,Gjinkar,Gjinkar-Petran,Petran,Petrani,Petrani-Gjinkari,Petranit	40.19944	20.40611	P	PPL	AL	AL	45				3243		311	Europe/Tirane	2013-05-05
+782049	Petran	Petran	Pertran,Petran,Qender,Qendra,Qendër	40.20944	20.41833	P	PPLA3	AL	AL	45	17			0		271	Europe/Tirane	2012-06-06
+782061	Peshkopi	Peshkopi	Dibra,Dibre,Dibrë,Peshkepija,Peshkepije,Peshkopeja,Peshkopi,Peshkopia,Peshkopie,Peshkopija,Peshkopije,Peshkopië,Peshkopla,Peshkëpijë,Piscopeia,Pishcopeja,Pishkopeja,pei shen ke bi,peshukopi,Пешкопеја,Пешкопия,ペシュコピ,佩什科比	41.685	20.42889	P	PPLA	AL		41				14848		660	Europe/Tirane	2012-01-19
+782070	Përmet	Permet	Permet,Permeti,Premet,Premete,Premeti,Premetē,Prëmet,Përmet,Пермет	40.23361	20.35167	P	PPLA2	AL		45	17			10686		244	Europe/Tirane	2012-06-06
+782117	Ostreni i Math	Ostreni i Math	Ostren,Ostren i Madh,Ostren i Math,Ostren i madhe,Ostren i madhë,Ostreni,Ostreni i Madh,Ostreni i Math,Ostrenimaze,Pljakoni i Mal	41.43083	20.45556	P	PPLA3	AL	AL	41	29			0		927	Europe/Tirane	2012-06-02
+782131	Orosh	Orosh	Orosh,Oroshi	41.83333	20.08333	P	PPLA3	AL	AL	48	16			0		746	Europe/Tirane	2012-06-12
+782140	Orenjë	Orenje	Oreja,Orenja,Orenje,Orenjë,Orhenja,Orhenje,Orhenjë	41.28472	20.21194	P	PPLA3	AL	AL	43	13			0		802	Europe/Tirane	2012-06-01
+782155	Odrie	Odrie	Odria	40.13333	20.16667	P	PPLA3	AL	AL	45	06			0		286	Europe/Tirane	2012-06-06
+782163	Novoselë	Novosele	Navosele,Novasela,Novosela,Novosele,Novoselë,Piskal-Novosele,Piskal-Novoselë	40.76139	20.69833	P	PPLA3	AL	AL	46	08			0		936	Europe/Tirane	2012-06-10
+782169	Picar	Picar	Novace,Novacë,Picar,Picari	40.16667	20.04833	P	PPLA3	AL	AL	45	06			0		295	Europe/Tirane	2012-06-06
+782248	Mollas	Mollas	Maulas,Mollas,Mollasi,Motas	40.92694	20.00361	P	PPLA3	AL	AL	43	04			0		110	Europe/Tirane	2012-05-31
+782250	Mollas	Mollas	Mollas,Mollasi	40.42556	20.67444	P	PPLA3	AL	AL	46	08			0		969	Europe/Tirane	2012-06-10
+782253	Mollaj	Mollaj	Dooran,Dvoran,Dvorani,Mollaj,Tepexhik	40.56028	20.74028	P	PPLA3	AL	AL	46	09			0		893	Europe/Tirane	2012-06-10
+782270	Miras	Miras	Bozhigra,Bozhigrad,Bozhigradi,Bozhigrat,Bozigrad,Miras,Mirasi	40.50917	20.92833	P	PPLA3	AL	AL	46	31			0		967	Europe/Tirane	2012-06-09
+782321	Melan	Melan	Melan,Melani	41.65417	20.46528	P	PPLA3	AL	AL	41	02			0		812	Europe/Tirane	2012-06-02
+782355	Martanesh	Martanesh	Kaptina,Martaneshi	41.4	20.2	P	PPLA3	AL	AL	41	29			0		905	Europe/Tirane	2012-06-02
+782372	Maqellarë	Maqellare	Magellara,Magellare,Magellarë,Makelare,Makelari,Maqellara,Maqellare,Maqellari,Maqellarë,Maqllara,Макеларе,Макелари	41.58889	20.48306	P	PPLA3	AL	AL	41	02			0		617	Europe/Tirane	2012-06-02
+782393	Maliq	Maliq	Malik,Maliq,Maliqi,Малик	40.70583	20.69972	P	PPLA3	AL		46	09			3735		844	Europe/Tirane	2012-06-10
+782423	Macukull	Macukull	Macuklli,Macukuli,Macukull,Macukulli	41.68861	20.11028	P	PPLA3	AL	AL	41	02			0		1062	Europe/Tirane	2012-06-02
+782443	Lunik	Lunik	Ljumnik,Lumnik,Lunik,Lunike,Luniku,Lunikë	41.28917	20.32361	P	PPLA3	AL	AL	43	13			0		668	Europe/Tirane	2012-06-01
+782464	Llugaj	Llugaj	Llugaj,Lugat	42.34139	20.10861	P	PPLA3	AL	AL	47	26			0		245	Europe/Tirane	2012-06-11
+782498	Lis	Lis	Lis,Lisa,Lise,Lisi,Lisë	41.6275	20.08528	P	PPLA3	AL	AL	41	15			0		491	Europe/Tirane	2012-06-02
+782500	Liqenas	Liqenas	Liqenas,Liqenasi,Postec,Pushteci,Pustec,Pusteci	40.78667	20.90222	P	PPLA3	AL	AL	46	09			0		861	Europe/Tirane	2012-06-10
+782519	Librazhd	Librazhd	Labrazhd,Libohov,Libohovo,Libokhovon,Libradzh,Librash,Librazdi,Librazhd,Librazhdi,Librazhet,Libraždi,Либрадж	41.17944	20.315	P	PPLA2	AL	AL	43	13			0		251	Europe/Tirane	2012-06-01
+782522	Libonik	Libonik	Libonik,Liboniku,Libovnik	40.70444	20.70861	P	PPLA3	AL	AL	46	09			0		832	Europe/Tirane	2012-06-10
+782523	Libohovë	Libohove	Libhova,Libohov,Libohova,Libohova Qender,Libohova Qendër,Libohove,Libohovo,Libohovë,Libokhova,Libokhovon,Либохова	40.03111	20.26306	P	PPLA3	AL		45	06			3651		406	Europe/Tirane	2012-06-06
+782535	Leskovik	Leskovik	Leskovik,Leskoviku,Leskoviqi,Liascovik,Liascovitsi,Liaskoviki,Ljakovici,Лесковик	40.15139	20.59722	P	PPLA3	AL		46	08			2655		909	Europe/Tirane	2012-06-10
+782544	Leshnjë	Leshnje	Leshnja,Leshnje,Leshnjë,Lesnia	40.53694	20.31333	P	PPLA3	AL	AL	40	22			0		1098	Europe/Tirane	2012-06-02
+782560	Lenias	Lenias	Lenias,Leniasi,Lenie,Schinapremtja,Scinapremte,Shenapremte,Shenapremtja,Shenaprende,Shenepremte,Shenepremtja,Shenpremtja,Shinapremta,Shinapremte,Shinepremtja,Shënapremte,Shënapremtja,Shënepremtja,Shëneprëmte,Shënpremtja	40.76667	20.39139	P	PPLA3	AL	AL	43	07			0		986	Europe/Tirane	2012-05-31
+782576	Lekas	Lekas	Lekas,Lekasi	40.60222	20.5125	P	PPLA3	AL		46	09			0		1010	Europe/Tirane	2012-06-10
+782582	Lazarat	Lazarat	Lazarat,Lazarati,Liazarati,Linzarates	40.04667	20.1475	P	PPLA3	AL	AL	45	06			0		457	Europe/Tirane	2012-06-06
+782611	Labinot-Mal	Labinot-Mal	Labinot,Labinot e-siperm,Labinot e-sipërm,Labinot i Siperm,Labinot i Sipërm,Labinot-Mal,Labinoti i Siperm,Labinoti i Sipërm,Labinoti i siperme,Labinoti i sipermë,Labinoti-Mal,Labinotie i Siperme,Labinotie i Sipermë,Ljabinoti sipermi	41.20083	20.15222	P	PPLA3	AL	AL	43	04			0		823	Europe/Tirane	2012-05-31
+782612	Labinot-Fushë	Labinot-Fushe	Labinot,Labinot i Poshtem,Labinot i Poshtëm,Labinot-Fushe,Labinot-Fushë,Labinoti,Labinoti i Poshtem,Labinoti-Fushe,Labinoti-Fushë	41.14056	20.14611	P	PPLA3	AL	AL	43	04			0		165	Europe/Tirane	2012-05-31
+782622	Kushovë	Kushove	Kushova,Kushove,Kushovë,Shaltura	40.78889	20.18889	P	PPLA3	AL	AL	43	07			0		306	Europe/Tirane	2012-05-31
+782632	Kurbnesh	Kurbnesh	Kurbnesh,Kurbnesha,Kurbneshi,Курбнеш	41.77972	20.08361	P	PPL	AL		48				1429		745	Europe/Tirane	2012-01-19
+782658	Kukur	Kukur	Kuker,Kukeri,Kukur,Kukuri,Kukër,Kukëri	40.86778	20.36361	P	PPLA3	AL	AL	43	07			0		797	Europe/Tirane	2012-05-31
+782661	Kukës	Kukes	Cucus,Kukes,Kukesi,Kuks,Kuksi,Kukuch,Kukus,Kukës,Kukësi,Кукес,Кукъс	42.07694	20.42194	P	PPLA	AL		47				17832		351	Europe/Tirane	2012-01-19
+782672	Kthella e Epërme	Kthella e Eperme	Kethella e Eper,Ktelle e eper,Ktellë e eper,Kthella Eper,Kthella Epër,Kthella e Eperme,Kthella e Epërme,Kthella e eper,Kthella e epër,Kthelle e Eper,Kthelle e Eperme,Kthelle e Siperme,Kthellë e Epër,Kthellë e Epërme,Kthellë e Sipërme	41.81194	20.05889	P	PPLA3	AL	AL	48	16			0		600	Europe/Tirane	2012-06-11
+782685	Krumë	Krume	Kruma,Krume,Krumë,Крума	42.19694	20.41333	P	PPLA2	AL	AL	47	32			0		462	Europe/Tirane	2012-06-11
+782756	Korçë	Korce	Corce,Corcë,Coritsa,Coritza,Coriza,Corizza,Corriza,Ghiortsa Corcia,Goerice,Gorica,Goritsa,Görice,Korca,Korce,Korcha,Korche,Korcza,Korica,Korice,Koritsa,Koritza,Korrca,Korrce,Korrça,Korrçë,Korytsa,Korça,Korçë,Korčė,Körice,ke er cha,koleucheo,korucha,kwrchh,qwrz'h,Κορυτσά,Горица,Корча,קורצ'ה,کورچه,کورچہ,コルチャ,科尔察,코르처	40.61861	20.78083	P	PPLA	AL		46	09			58259		869	Europe/Tirane	2012-11-26
+782771	Kolsh	Kolsh	Kalshi,Klosh,Koljsi,Koljši,Kolsh,Kolshi	42.07806	20.34194	P	PPLA3	AL	AL	47	11			0		499	Europe/Tirane	2012-06-11
+782791	Kodovjat	Kodovjat	Kodoviati,Kodovjat,Kodovjati,Lidaj	40.80556	20.25111	P	PPLA3	AL	AL	43	07			0		276	Europe/Tirane	2012-05-31
+782806	Klos	Klos	Dullinjasi,Klos,Klosi,Клос	41.50694	20.08667	P	PPLA3	AL		41	15			683		257	Europe/Tirane	2012-06-02
+782807	Klos	Klos	Klos,Klosi,Клос	40.94611	20.00972	P	PPLA3	AL	AL	43	04			0		109	Europe/Tirane	2012-05-31
+782843	Këlcyrë	Kelcyre	Kel'cira,Kelcyra,Kelcyre,Kelcyres,Kelcyrës,Kleisoura,Klisura,Këlcyra,Këlcyrë,Кельцира	40.31306	20.18944	P	PPLA3	AL		45	17			2486		178	Europe/Tirane	2012-06-06
+782856	Kastriot	Kastriot	Kastriot,Kastriota,Kastrioti	41.72944	20.37722	P	PPLA3	AL	AL	41	02			0		562	Europe/Tirane	2012-06-02
+782868	Kardhiq	Kardhiq	Gardiki,Kardhiq,Kardhiqi	40.12167	20.0275	P	PPLA3	AL	AL	45	06			0		491	Europe/Tirane	2012-06-06
+782906	Kalis	Kalis	Kalis,Kalisi,Kallashi,Kalles,Kallës	41.83889	20.36667	P	PPLA3	AL	AL	47	11			0		762	Europe/Tirane	2012-06-11
+782953	Iballë	Iballe	Ibalja,Iballe,Iballja,Iballje,Iballjë,Iballë,Jballje	42.1875	20.0025	P	PPLA3	AL	AL	49	19			0		765	Europe/Tirane	2012-06-12
+782963	Hotolisht	Hotolisht	Baldreti,Hodolishti,Hotolisht,Hotolishta,Hotolishti,Kotolishta,Otolisht	41.15667	20.39722	P	PPLA3	AL	AL	43	13			0		656	Europe/Tirane	2012-06-01
+782980	Hoçisht	Hocisht	Hochishte,Hocisht,Hocishte,Hocishti,Hocishtit,Hoçisht,Hoçishti,Hoçishtë	40.60833	20.91417	P	PPLA3	AL	AL	46	31			0		919	Europe/Tirane	2012-06-09
+783059	Gramsh	Gramsh	Gramish,Gramsci,Gramsh,Gramshi,Грамш	40.86972	20.18444	P	PPLA2	AL		43	07			11556		200	Europe/Tirane	2012-05-31
+783086	Gostimë	Gostime	Gostim-Mal,Gostim-Mali,Gostima,Gostime,Gostime-Mal,Gostimë,Gostimë-Mal	41.14556	20.24	P	PPLA3	AL	AL	43	04			0		309	Europe/Tirane	2012-05-31
+783111	Golaj	Golaj	Golai,Golaj,Goljai	42.2475	20.38028	P	PPLA3	AL	AL	47	32			0		496	Europe/Tirane	2012-06-11
+783135	Gjorica e Sipërme	Gjorica e Siperme	Gjorica,Gjorica e Eperme,Gjorica e Epërme,Gjorica e Siperme,Gjorica e Sipërme,Gjorice,Gjorice e Eper,Gjorice e Eperme,Gjorice e Siperme,Gjoricë,Gjoricë e Epër,Gjoricë e Epërme,Gjoricë e Sipërme,Gorice,Goricë	41.53444	20.45	P	PPLA3	AL	AL	41	29			0		462	Europe/Tirane	2012-06-02
+783148	Gjirokastër	Gjirokaster	Agirocastro,Arghirocastru,Arghyrocastro,Argirocastro,Argirokastro,Argyrokastro,Argyrokastron,Aryirokastro,Aryirokastron,Ergheni,Ergiri,GJirokastra,Ghinokastre,Girokasteris,Girokastra,Girokastro,Gjinokaster,Gjinokastra,Gjinokastre,Gjinokastrer,Gjinokastër,Gjirokaster,Gjirokastra,Gjirokastre,Gjirokastro,Gjirokastrë,Gjirokastër,arjyr,g'yrwqstrh,ji nuo ka si te,jilokaseuteoleu,jirokasutora,jyrwkastr,Đirokastra,Αργυρόκαστρο,Ђирокастра,Ѓирокастро,Аргирокастро,Гирокастра,Гирокастро,Гірокастра,ג'ירוקסטרה,ارجیر,جیروکاستر,გიროკასტრა,ジロカストラ,吉诺卡斯特,지로카스터르	40.07583	20.13889	P	PPLA	AL		45				23437		286	Europe/Tirane	2012-01-19
+783156	Gjinar	Gjinar	Giniari,Gjinar,Gjinari	41.0225	20.18889	P	PPLA3	AL	AL	43	04			0		764	Europe/Tirane	2012-05-31
+783158	Gjinaj	Gjinaj	Dinai,Gjinai,Gjinaj,Ðinai	42.11806	20.43583	P	PPLA3	AL	AL	47	32			0		705	Europe/Tirane	2012-06-11
+783163	Gjergjan	Gjergjan	Gjergjan,Gjergjani,Gjergjenj	41.04306	20.02972	P	PPLA3	AL	AL	43	04			0		134	Europe/Tirane	2012-05-31
+783170	Gjegjan	Gjegjan	Gjegjan,Gjegjani,Zhezhan	41.93778	20.01111	P	PPLA3	AL	AL	49	19			0		369	Europe/Tirane	2012-06-12
+783205	Fushë-Muhurr	Fushe-Muhurr	Fush-Muhur,Fushe-Muhri,Fushe-Muhur,Fushe-Muhuri,Fushe-Muhurr,Fushe-Muhurri,Fushe-Mukheri,Fushe-Mukhuri,Fushë-Muhri,Fushë-Muhur,Fushë-Muhuri,Fushë-Muhurr,Fushë-Muhurri,Muherr,Muhur,Muhuri,Muhurr,Mukur	41.67972	20.33139	P	PPLA3	AL	AL	41	02			0		411	Europe/Tirane	2012-06-02
+783207	Fushë-Lurë	Fushe-Lure	Fush' e Lures,Fusha Lures,Fusha Lurës,Fusha e Lures,Fusha e Lurës,Fushe-Lura,Fushe-Lure,Fushë-Lura,Fushë-Lurë,Fush’ e Lurës,Lure e eper,Lurë e epër	41.80611	20.23194	P	PPLA3	AL	AL	41	02			0		1065	Europe/Tirane	2012-06-02
+783210	Fushë-Çidhnë	Fushe-Cidhne	Fush' e Alijajt,Fusha Ali,Fusha Alijaj,Fushaj,Fushe Alija,Fushe-Alia,Fushe-Alie,Fushe-Cidhen,Fushe-Cidhna,Fushe-Cidhne,Fushë-Alia,Fushë-Alië,Fushë-Çidhna,Fushë-Çidhnë,Fushë-Çidhën,Fush’ e Alijajt	41.76056	20.34111	P	PPLA3	AL	AL	41	02			0		401	Europe/Tirane	2012-06-02
+783212	Fushë-Bulqizë	Fushe-Bulqize	Bulqize Fusha,Bulqizë Fusha,Fushaj,Fushe-Bulqiza,Fushe-Bulqize,Fushë-Bulqiza,Fushë-Bulqizë	41.52194	20.28222	P	PPLA3	AL	AL	41	29			0		678	Europe/Tirane	2012-06-02
+783214	Fushë-Arrëz	Fushe-Arrez	Arres,Arrës,Arsi,Arst,Fusha e Arezit,Fusha e Arrezit,Fusha e Arrëzit,Fusha e Arsit,Fusha e Arëzit,Fusha-Arres,Fusha-e-Arresit,Fushe Arrezi,Fushe e Arrezit,Fushe-Ares,Fushe-Aresi,Fushe-Arezi,Fushe-Arezit,Fushe-Arresi,Fushe-Arrez,Fushë e Arrëzit,Fushë-Arrësi,Fushë-Arrëz,Fushë-Arëzi,Fushë-Arëzit,Фуша-Аррес	42.06222	20.01667	P	PPLA3	AL		49	19			2438		533	Europe/Tirane	2012-06-12
+783231	Frashër	Frasher	Frasceri,Frasher,Frasheri,Frashër,Frashëri,Phrasare,Phrasarë	40.36889	20.42444	P	PPLA3	AL	AL	45	17			0		1013	Europe/Tirane	2012-06-06
+783247	Fierzë	Fierze	Fiera,Fierza,Fierze,Fierzë,Firez,Firza,Firëz,Фиерза	42.26056	20.01694	P	PPLA3	AL	AL	49	19			0		303	Europe/Tirane	2012-06-12
+783254	Fajzë	Fajze	Fajza,Fajze,Fajzë	42.16694	20.35083	P	PPLA3	AL	AL	47	32			0		428	Europe/Tirane	2012-06-11
+783259	Ersekë	Erseke	Colonia,Ehrseka,Erseg Giatseg,Ersek,Erseka,Erseke,Ersekë,Kolonija,Kolonije,Kolonijë,Kolonja,Kolonje,Kolonjë,Эрсека	40.33778	20.67889	P	PPLA2	AL		46	08			7890		1021	Europe/Tirane	2012-06-10
+783263	Elbasan	Elbasan	Ehl'basan,Elbasan,Elbasani,Elbassan,Эльбасан	41.1125	20.08222	P	PPLA	AL		43				100903		128	Europe/Tirane	2012-01-19
+783300	Drenovë	Drenove	Drenova,Drenove,Drenovo,Drenovë	40.58333	20.79222	P	PPLA3	AL	AL	46	09			0		954	Europe/Tirane	2012-06-10
+783343	Dishnicë	Dishnice	Deshnica,Dishnica,Dishnice,Dishnicë,Tishnica	40.65139	20.81361	P	PPLA3	AL	AL	46				0		877	Europe/Tirane	2012-06-06
+783363	Derviçian	Dervician	Dervican,Dervicani,Dervician,Derviciani,Dervisciani,Derviçan,Derviçani,Derviçian	40.0325	20.17333	P	PPLA3	AL	AL	45	06			0		241	Europe/Tirane	2012-06-06
+783370	Derjan	Derjan	Derjan,Derjani	41.67361	20.05833	P	PPLA3	AL	AL	41	15			0		477	Europe/Tirane	2012-06-02
+783384	Gjerbës	Gjerbes	David,Davidh,Davidhi,Devidhi,Gjerbes,Gjerbesi,Gjerbës,Gjerbësi	40.62917	20.25111	P	PPLA3	AL	AL	40				0		821	Europe/Tirane	2012-06-02
+783408	Çorovodë	Corovode	Cerevoda,Cerevode,Cerevodë,Chorovoda,Corovoda,Corovode,Gjavan,Zhaban,Çorovoda,Çorovodë,Чоровода	40.50417	20.22722	P	PPLA2	AL		40	22			14046		320	Europe/Tirane	2012-06-02
+783412	Çlirim	Clirim	Clirim,Clirimi,Shenmertir,Shënmërtir,Çlirim,Çlirimi	40.4175	20.55028	P	PPLA3	AL	AL	46	08			0		1148	Europe/Tirane	2012-06-10
+783446	Cerava	Cerava	Cerav,Cerava,Cerave,Cerrava,Cerrave,Çëravë,Çërrava,Çërravë	40.85139	20.725	P	PPLA3	AL		46	18			0		805	Europe/Tirane	2012-06-11
+783450	Çepan	Cepan	Cepan,Cepani,Çepan,Çepani	40.42056	20.26056	P	PPLA3	AL	AL	40	22			0		817	Europe/Tirane	2012-06-02
+783461	Çarshovë	Carshove	Carcova,Carcove,Carshova,Carshove,Çarshova,Çarshovë,Çarçova,Çarçovë	40.11806	20.54083	P	PPLA3	AL	AL	45	17			0		328	Europe/Tirane	2012-06-06
+783469	Kokaj	Kokaj	Caj,Caja,Caje,Cajhen,Kokaj,Matraxhi i Cajes,Matraxhi i Çajes,Çaja,Çajhen,Çajë	41.87833	20.50472	P	PPLA3	AL		47	11			0		1278	Europe/Tirane	2012-06-11
+783479	Buz	Buz	Busi,Buz,Buz i Madh,Buz i Math,Buze,Buzi,Buzi i Madh,Buzi i Math,Buzë	40.445	20.00472	P	PPLA3	AL	AL	45	23			0		747	Europe/Tirane	2012-06-07
+783489	Bushtricë	Bushtrice	Bushtrice,Bushtricë,Bustrica	41.87861	20.42194	P	PPLA3	AL	AL	47	11			0		841	Europe/Tirane	2012-06-11
+783493	Burrel	Burrel	Burela,Burele,Bureli,Burelë,Burrel,Burrel',Burrele,Burreli,Burrelë,Буррель	41.61028	20.00889	P	PPLA2	AL		41	15			15405		315	Europe/Tirane	2012-06-02
+783508	Bulqizë	Bulqize	Bul'kiza,Bulkiza,Bulqiza,Bulqize,Bulqizë,Bulquize,Булькиза	41.49167	20.22194	P	PPLA2	AL		41	29			11212		775	Europe/Tirane	2013-03-15
+783519	Bujan	Bujan	Bajani,Bujan,Bujani,Bunjaj,Bunjan	42.32639	20.07639	P	PPLA3	AL	AL	47	26			0		224	Europe/Tirane	2012-06-11
+783560	Bradashesh	Bradashesh	Bradashesh,Bradasheshi,Bradosheshi	41.105	20.0225	P	PPLA3	AL	AL	43	04			0		112	Europe/Tirane	2012-05-31
+783590	Blinisht	Blinisht	Blinisht,Blinishti	41.86139	20	P	PPLA3	AL	AL	48	12			0		342	Europe/Tirane	2012-06-11
+783593	Blerim	Blerim	Blerim,Sakat,Sakat-Kullumbri,Sakati	42.16056	20.19194	P	PPLA3	AL	AL	49	19			0		608	Europe/Tirane	2012-06-12
+783606	Bilisht	Bilisht	Biclishta,Biglista,Biklishta,Bilisht,Bilishte,Bilishti,Bilishtë,Bilisthi,Билишти	40.6275	20.99	P	PPLA3	AL		46	31			7114		926	Europe/Tirane	2012-06-09
+783611	Bicaj	Bicaj	Bicaj,Bisagni,Bitsan	41.99472	20.4125	P	PPLA3	AL	AL	47	11			0		464	Europe/Tirane	2012-06-11
+783629	Dardhas	Dardhas	Beragozhd,Beragozhda,Beragozhde,Beragozhdi,Beragozhdë,Bragozhati,Bragozhde,Bragozhdë,Bëragozhda,Dardhas,Dardhasi	40.84583	20.65722	P	PPLA3	AL	AL	46	18			0		967	Europe/Tirane	2012-06-11
+783669	Barmash	Barmash	Barmash,Barmashi	40.27778	20.61833	P	PPLA3	AL	AL	46	08			0		879	Europe/Tirane	2012-06-10
+783695	Ballaban	Ballaban	Balaban,Ballaban,Ballabani	40.41667	20.13444	P	PPLA3	AL	AL	45	17			0		322	Europe/Tirane	2012-06-06
+783734	Arrën	Arren	Arn,Arni,Arren,Arreni,Arrn,Arrni,Arrën,Arrëni	41.91306	20.28833	P	PPLA3	AL	AL	47	11			0		1054	Europe/Tirane	2012-06-11
+783739	Arras	Arras	Arras,Arrasi	41.73583	20.32417	P	PPLA3	AL	AL	41	02			0		417	Europe/Tirane	2012-06-02
+793174	Fierzë	Fierze	Fierza,Fierze,Fierzë,Фиерза	42.26472	20.02694	P	PPLA3	AL		47	26			742		223	Europe/Tirane	2012-06-11
+829569	Bytyç	Bytyc	Bitici,Bitiči	42.31	20.20278	P	PPLA3	AL	AL	47	26			0		557	Europe/Tirane	2012-06-11
+832209	Librazhd-Qendër	Librazhd-Qender	Hala,Librazhd Qendre,Librazhd Qëndre,Librazhd-Qender,Librazhd-Qendër	41.19694	20.33556	P	PPLA3	AL		43	13			12691		554	Europe/Tirane	2012-06-01
+834294	Funarë	Funare	Funar,Funari	41.19639	20.05972	P	PPLA3	AL	AL	43	04			0		729	Europe/Tirane	2012-05-31
+865079	Moglicë	Moglice	Moglica,Moglice,Moglicë	40.71806	20.43806	P	PPLA3	AL	AL	46	09			0		1112	Europe/Tirane	2012-06-10
+865098	Bogovë	Bogove	Bogova,Bogove,Bogovë	40.57111	20.15	P	PPLA3	AL	AL	40	22			0		197	Europe/Tirane	2012-06-02
+865202	Piskovë	Piskove	Piskova,Piskove,Piskovë	40.27917	20.2725	P	PPLA3	AL	AL	45	17			0		202	Europe/Tirane	2012-06-06
+2525810	Lukovë	Lukove	Lucova,Lukova,Lukove,Lukovo,Lukovë	39.99222	19.91389	P	PPLA3	AL	AL	51	20			0		229	Europe/Tirane	2012-06-14
+3183625	Zharrëz	Zharrez	Shareza,Sharreza,Zarez,Zhareza,Zhareze,Zharres,Zharresa,Zharresi,Zharrez,Zharreza,Zharrës,Zharrësa,Zharrësi,Zharrëz,Zharrëza,Zharëzë,Žarez	40.70917	19.64972	P	PPLA3	AL	AL	44	05			0		34	Europe/Tirane	2012-06-02
+3183646	Zejmen	Zejmen	Zejmani,Zejmen,Zejmeni,Zojmen,Zojmendi	41.70778	19.68917	P	PPLA3	AL	AL	48	12			0		8	Europe/Tirane	2012-06-11
+3183653	Zall-Herr	Zall-Herr	Zall i Herrit,Zall-Herr,Zall-Herri,Zalle-Herraj,Zallherraj,Zalli i Herit,Zallë-Herraj	41.38944	19.8275	P	PPLA3	AL	AL	50	28			0		132	Europe/Tirane	2012-06-13
+3183658	Zall-Bastar	Zall-Bastar	Zall-Bastar,Zall-Bastari	41.42972	19.93028	P	PPLA3	AL	AL	50	28			0		376	Europe/Tirane	2012-06-13
+3183684	Xhafzotaj	Xhafzotaj	Dzevzotaj,Xhafe Zotaj,Xhaftozaj,Xhafzotaj,Xhafë Zotaj,Xhavzotaj,Xherezotaj,Xherëzotaj	41.34444	19.5475	P	PPLA3	AL	AL	42	03			0		19	Europe/Tirane	2012-06-01
+3183691	Vukatanë	Vukatane	Vukatan,Vukatana,Vukatane,Vukatanë	42.02806	19.54778	P	PPL	AL	AL	49				1113	11	11	Europe/Tirane	2013-02-07
+3183700	Vranisht	Vranisht	Vranisht,Vranishta,Vranishte,Vranishti,Vranishtë	40.20972	19.69083	P	PPLA3	AL	AL	51	27			0		327	Europe/Tirane	2012-06-14
+3183708	Vorë	Vore	Vora,Vore,Vorra,Vorre,Vorrë,Vorë,Вора	41.39083	19.655	P	PPLA3	AL		50	28			4973		82	Europe/Tirane	2012-06-13
+3183719	Vlorë	Vlore	Au'lon,Au’lon,Avlon,Avlona,Avlonas,Avlonya,Vallona,Valona,Vl'ora,Vliore,Vliorė,Vljora,Vlona,Vlone,Vlonë,Vlora,Vlore,Vlorë,Vlyora,Vļora,Wlora,beulloleo,fa luo la,flwrh,vurora,wlo rex,wlwrh,Αυλώνας,Валона,Вльора,Влёра,Վլորա,ולורה,فلوره,ولوره,ولورہ,วโลเรอ,ヴロラ,发罗拉,블로러	40.46667	19.48972	P	PPLA	AL		51				89546		2	Europe/Tirane	2012-01-19
+3183765	Velipojë	Velipoje	Qerret,Velipoja,Velipoje,Velipojë,Velipolja	41.87833	19.40556	P	PPLA3	AL	AL	49	21			0		1	Europe/Tirane	2012-06-12
+3183780	Velabisht	Velabisht	Velabisht,Velabishti	40.70167	19.93222	P	PPLA3	AL	AL	40	01			0		60	Europe/Tirane	2012-06-02
+3183791	Vaqarr	Vaqarr	Vagari,Vaqar,Vaqari,Vaqarr,Vaqarri,Vasqarr	41.29917	19.74417	P	PPLA3	AL	AL	50	28			0		106	Europe/Tirane	2012-06-13
+3183814	Ura Vajgurore	Ura Vajgurore	Ur'e Hasan Beut,Ura Asan Beut,Ura Vajgurore,Ura e Hasan Beut,Ura-Khasan-Beut,Ura-Vaygurore,Ure-Vajgurore,Urë-Vajgurore,Ur’e Hasan Beut,Yefira Hassan Beut	40.76889	19.87778	P	PPLA3	AL		40	01			4893		33	Europe/Tirane	2012-06-02
+3183820	Ungrej	Ungrej	Ungrei,Ungrej,Ungreji	41.87528	19.79472	P	PPLA3	AL	AL	48	12			0		253	Europe/Tirane	2012-06-11
+3183824	Ulëz	Ulez	Ulez,Uleza,Ulza,Ulze,Ulzë,Ulëz,Ulëza	41.68278	19.89333	P	PPLA3	AL	AL	41	15			4		162	Europe/Tirane	2012-06-02
+3183865	Topojë	Topoje	Topoja,Topoje,Topojë	40.76306	19.43278	P	PPLA3	AL	AL	44	05			0		3	Europe/Tirane	2012-06-02
+3183875	Tirana	Tirana	Gorad Tyrana,TIA,Theranda,Tiorana,Tiorána,Tiran,Tiran-a,Tirana,Tiranae,Tirane,Tirano,Tiranë,Tirāna,Tyranna,Tírana,Tîrana,de la na,tilana,tirana,tyrana,tyrnh,Τίρανα,Горад Тырана,Тиранæ,Тирана,Տիրանա,טיראנא,טירנה,تىرانا,تيرانا,تیرانا,तिराना,তিরানা,ਤਿਰਾਨਾ,ଟିରାନା,டிரானா,ടിറാന,ติรานา,ཐིས་རན།,ტირანა,ቲራና,ティラナ,地拉那,티라나	41.3275	19.81889	P	PPLC	AL		50				374801		113	Europe/Tirane	2012-02-28
+3183881	Thumanë	Thumane	Thumana,Thumane,Thumani,Thumanë,Tuman	41.5475	19.67778	P	PPLA3	AL	AL	42	10			0		14	Europe/Tirane	2012-06-01
+3183907	Tërbuf	Terbuf	Terbuf,Terbufi,Tërbuf,Tërbufi	41.04	19.61417	P	PPLA3	AL	AL	44				0		7	Europe/Tirane	2012-06-05
+3183936	Synej	Synej	Sinej,Synej,Syneji	41.18	19.5425	P	PPLA3	AL	AL	50	33			0		13	Europe/Tirane	2012-06-13
+3183945	Sukth	Sukth	Sucsi,Sukf,Sukth,Sukth i Vjeter,Sukth i Vjetër,Sukthi	41.38056	19.53778	P	PPLA3	AL	AL	42	03			0		13	Europe/Tirane	2012-06-01
+3183959	Strum	Strum	Ciflik-Struma,Strubi,Strum,Strume,Strumi,Strumë,Çiflik-Struma	40.75111	19.7375	P	PPLA3	AL	AL	44	05			0		35	Europe/Tirane	2012-06-02
+3184013	Sinjë	Sinje	Signa,Sinja,Sinje,Sinjë	40.64806	19.86806	P	PPLA3	AL	AL	40	01			0		757	Europe/Tirane	2012-06-02
+3184021	Sinaballaj	Sinaballaj	Sinaballaj,Sinaballej,Sinabella,Sinanaj,Sinebala,Sineballa	41.06889	19.69944	P	PPLA3	AL	AL	50	33			0		54	Europe/Tirane	2012-06-13
+3184081	Shkodër	Shkoder	Iskodra,Scutari,Shkoder,Shkodra,Shkodër,Skadar,Skodra,Szkodra,sqwdr,İşkodra,Škodra,Скадар,Шкодер,Шкодра,שקודר	42.06828	19.51258	P	PPLA	AL		49	21			88245		12	Europe/Tirane	2013-01-03
+3184099	Shijak	Shijak	Bazar Sciak,San Giacomo,Shejak,Shejaku,Shijak,Shijaku,Shjak,Shyaku,Shëjaku,Sjak,Šjak,Шияку	41.34556	19.56722	P	PPLA3	AL		42	03			14138		34	Europe/Tirane	2012-06-01
+3184101	Shezë	Sheze	Seza,Sheza,Sheze,Sheze e Madhe,Shezë,Shezë e Madhe,Ujeza	41.02417	19.81611	P	PPLA3	AL	AL	43	38			0		46	Europe/Tirane	2012-06-01
+3184129	Shënkoll	Shenkoll	Shenkoll,Shenkolle,Shenkolli,Shinkolli,Shënkoll,Shënkolli,Shënkollë,Snkoli	41.69083	19.65333	P	PPLA3	AL	AL	48	12			0		6	Europe/Tirane	2012-06-11
+3184136	Shëngjin	Shengjin	Saint Giovanni di Medua,San Giovanni di Medua,San Njin,Sen Dovani di Medua,Sh'njini,Shen Ghen,Shengin,Shengjin,Shengjini,Shëngjin,Shëngjini,Sh’njini,Sveti Jovan Medovski,Šen Ðovani di Medua,Шенгин	41.81361	19.59389	P	PPL	AL		48				2698		1	Europe/Tirane	2012-01-19
+3184143	Shëngjergj	Shengjergj	Senderd,Shengjergi,Shengjergji,Shingjergj,Shingjergji,Shëngjergji,Šenđerđ	41.18333	19.53333	P	PPLA3	AL	AL	50	28			0		7	Europe/Tirane	2012-06-13
+3184167	Shalës	Shales	Scials,Shales,Shalesi,Shalës,Shalësi	40.99861	19.94778	P	PPLA3	AL	AL	43	04			0		122	Europe/Tirane	2012-05-31
+3184172	Nicaj-Shalë	Nicaj-Shale	Nicaj,Nicaj-Shalaj,Nicaj-Shale,Nicaj-Shalë,Shale,Shalë	42.29944	19.805	P	PPLA3	AL	AL	49	21			0		633	Europe/Tirane	2012-06-12
+3184177	Sevaster	Sevaster	Kudhes,Kudhës,Sevaster,Sevaster Cuds,Sevaster-Kudhes,Sevasteri,Stevaster,Stevaster Kudhes,Stevaster Kuls,Sëvastër-Kudhës	40.39639	19.72972	P	PPLA3	AL	AL	51	27			0		339	Europe/Tirane	2012-06-14
+3184191	Selitë	Selite	Selit e Kece,Selit e Keće,Selita,Selite,Selite e Keqe,Selite-Delbinishtaj,Selitë,Selitë e Keqe	41.63528	19.755	P	PPLA3	AL	AL	48	16			0		637	Europe/Tirane	2012-06-12
+3184193	Valbonë	Valbone	Selimaj,Valbona,Valbone,Valbonë	42.45139	19.89167	P	PPLA3	AL	AL	47	26			0		932	Europe/Tirane	2012-06-11
+3184197	Selenicë	Selenice	Selenic,Selenica,Selenice,Selenicë,Selenitsa,Seleniza,Selenizza,Селеница	40.53056	19.63583	P	PPLA3	AL		51	27			6912		73	Europe/Tirane	2012-06-14
+3184230	Ruzhdie	Ruzhdie	Piekaj,Rozhdia,Rushdie,Rushdije,Rushdijë,Ruzhdie,Ruzhdija,Ruzhdije,Ruzhdijë	40.67083	19.69833	P	PPLA3	AL		44	05			0		268	Europe/Tirane	2012-06-02
+3184238	Rubik	Rubik	Rrubig,Rrubigu,Rrumbiku,Rubig,Rubik,Rubiku,Рубик	41.77444	19.78611	P	PPLA3	AL		48	16			2332		79	Europe/Tirane	2012-06-12
+3184252	Rrogozhinë	Rrogozhine	Rogozhina,Rogozhine,Rogozhinë,Rogozin,Rogozina,Rogožin,Rrogozesa,Rrogozhina,Rrogozhine,Rrogozhinë,Rrogozësa,Rrogzhine,Рогожина	41.07639	19.66528	P	PPLA3	AL		50	33			5620		22	Europe/Tirane	2012-06-13
+3184264	Rrëshen	Rreshen	Reshen,Resheni,Rreshen,Rresheni,Rrshen,Rrsheni,Rrëshen,Rshen,Rsheni,Rëshen,Rëshëni,Решен	41.7675	19.87556	P	PPLA2	AL		48	16			10064		94	Europe/Tirane	2012-06-12
+3184271	Rrashbull	Rrashbull	Rashbulle,Rezbul,Režbul,Rrashbull,Rrashbulle,Rrashbulli,Rrashbulli Arapaj,Rrashbullë	41.32278	19.51028	P	PPLA3	AL	AL	42	03			0		31	Europe/Tirane	2012-06-01
+3184276	Rrasa e Sipërme	Rrasa e Siperme	Rasa e Siperme,Rasa e Sipërme,Rrasa e Siperme,Rrasa e Sipërme,Rrase e Siperme,Rrasë e Sipërme	40.96778	19.82111	P	PPLA3	AL	AL	43	04			0		153	Europe/Tirane	2012-05-31
+3184283	Rrapë	Rrape	Rapje,Rrapa,Rrapaj,Rrape,Rrapja,Rrapë,Rrype,Rrypë	42.04444	19.97056	P	PPLA3	AL	AL	49	19			0		792	Europe/Tirane	2012-06-12
+3184290	Roskovec	Roskovec	Roscovec,Roskovec,Roskoveci,Rroskoveci,Treg i Frasherit,Tregu-Frasherit,Росковец	40.7375	19.70222	P	PPLA3	AL		44	05			6657		18	Europe/Tirane	2012-06-02
+3184316	Remas	Remas	Remas,Remas Pervas,Remasi,Rremas,Rremasi	40.88639	19.51139	P	PPLA3	AL	AL	44	14			0		1	Europe/Tirane	2012-06-05
+3184362	Qerret	Qerret	Cereti-eper,Qereti i Eperme,Qereti i Epërmë,Qerret,Qerret i Eper,Qerret i Eperm,Qerret i Epër,Qerret i Epërm,Qerret i Madh,Qerret-ieperme,Qerreti,Qerreti i Eperme,Qerreti i Epërmë,Qerreti i Madh,Qerreti i-eper,Qerreti i-epër,Čereti-eper	42.05306	19.83722	P	PPLA3	AL	AL	49	19			0		652	Europe/Tirane	2012-06-12
+3184374	Qelëz	Qelez	Lellza,Qelez,Qeleza,Qellza,Qellze,Qellzë,Qelza,Qelze,Qelzë,Qelëz,Qelëza	42.08972	19.895	P	PPLA3	AL	AL	49	19			0		234	Europe/Tirane	2012-06-12
+3184388	Pukë	Puke	Puca,Puka,Puka Katund,Puke,Pukë,Пука	42.04444	19.89972	P	PPLA2	AL		49	19			6495		799	Europe/Tirane	2012-06-12
+3184397	Progonat	Progonat	Progonat,Progonati	40.21333	19.94472	P	PPLA3	AL	AL	45	23			0		926	Europe/Tirane	2012-06-07
+3184408	Prezë	Preze	Preza,Preze,Prezë	41.42722	19.67278	P	PPLA3	AL	AL	50	28			0		230	Europe/Tirane	2012-06-13
+3184417	Poshnje	Poshnje	Poshnja,Poshnje	40.78028	19.84417	P	PPLA3	AL	AL	40	01			0		31	Europe/Tirane	2012-06-02
+3184420	Portëz	Portez	Portez,Porteza,Porteze,Portëz,Portëza,Portëzë	40.69917	19.57444	P	PPLA3	AL	AL	44	05			0		58	Europe/Tirane	2012-06-02
+3184471	Peza e Madhe	Peza e Madhe	Hodzaj,Hodžaj,Hoxhaj,Peza e Madhe,Peze,Peze e Madhe,Pezë,Pezë e Madhe	41.2175	19.69611	P	PPLA3	AL	AL	50	28			0		116	Europe/Tirane	2012-06-13
+3184474	Petrelë	Petrele	Petrela,Petrele,Petrelë	41.25306	19.85306	P	PPLA3	AL	AL	50	28			0		298	Europe/Tirane	2012-06-13
+3184484	Përparim	Perparim	Perparim,Perparimi,Përparim	41.05	19.79917	P	PPLA3	AL	AL	43	38			0		88	Europe/Tirane	2012-06-01
+3184487	Perondi	Perondi	Perhond,Perhondi,Perhondia,Perhondija,Perondi,Perondia,Perondija	40.77889	19.92306	P	PPLA3	AL	AL	40	34			0		41	Europe/Tirane	2012-06-02
+3184497	Peqin	Peqin	Pecin,Pekin,Pekini,Pekinj,Peqin,Peqini,Peqinj,Пекин	41.04611	19.75111	P	PPLA2	AL		43	38			7513		52	Europe/Tirane	2012-06-01
+3184517	Patos Fshat	Patos Fshat	Patos Fshat,Patosi Fshat	40.64278	19.65083	P	PPL	AL		44				22679		157	Europe/Tirane	2012-01-19
+3184518	Patos	Patos	Pahtosa,Pahtosi,Patos,Patosi,Патос	40.68333	19.61944	P	PPLA3	AL	AL	44	05			0		61	Europe/Tirane	2012-06-02
+3184528	Paskuqan	Paskuqan	Kuqan,Kuqon,Packuqan,Packuqani,Paskuqan,Paskuqani,Patza,Patza Kucane,Patza Kućane,Patza-Kuqane,Patza-Kuqani	41.35389	19.80667	P	PPLA3	AL	AL	50	28			0		101	Europe/Tirane	2012-06-13
+3184538	Papër	Paper	Kulej-Paper,Kulej-Paperi,Kulej-Papër,Kulej-Papëri,Kull' e Paprit,Kulla Paprit,Kull’ e Paprit,Paper,Paperi,Papri,Papër,Papëri	41.05167	19.96083	P	PPLA3	AL	AL	43	04			0		85	Europe/Tirane	2012-05-31
+3184562	Pajovë	Pajove	Pajova,Pajove,Pajovë,Perpajsi	41.05472	19.8375	P	PPLA3	AL	AL	43	38			0		63	Europe/Tirane	2012-06-01
+3184568	Otllak	Otllak	Otllak,Otllaku	40.74389	19.93528	P	PPLA3	AL	AL	40	01			0		42	Europe/Tirane	2012-06-02
+3184575	Orikum	Orikum	Orik,Oriku,Orikum,Orikumi,Орикум	40.32528	19.47139	P	PPLA3	AL		51	27			2604		7	Europe/Tirane	2012-06-14
+3184588	Novoselë	Novosele	Novosel,Novosela,Novosele,Novoselj,Novosella,Novoselë	40.625	19.46694	P	PPLA3	AL	AL	51	27			0		6	Europe/Tirane	2012-06-14
+3184594	Nikël	Nikel	Menga,Menikll,Meniklli,Monikelj,Monikle,Moniklë,Mënikll,Mëniklli,Nikel,Nikla,Niklla,Niklle,Nikllë,Nikël	41.44417	19.74833	P	PPLA3	AL	AL	42	10			0		59	Europe/Tirane	2012-06-01
+3184600	Nicaj-Shosh	Nicaj-Shosh	Nicaj-Shosh,Nikaj	42.24444	19.75806	P	PPLA3	AL	AL	49	21			0		776	Europe/Tirane	2012-06-12
+3184606	Ngraçan	Ngracan	Gracan,Graqani,Graçan,Ngracan,Ngracani,Ngraçan,Ngraçani	40.64444	19.7925	P	PPLA3	AL	AL	44	37			0		428	Europe/Tirane	2012-06-05
+3184611	Ndroq	Ndroq	Ndrogi,Ndroki,Ndroq,Ndroqi,Ndroqi Pazari	41.26389	19.65583	P	PPLA3	AL	AL	50	28			0		65	Europe/Tirane	2012-06-13
+3184702	Milot	Milot	Milet,Miljoti,Milot,Miloti,Милет	41.68389	19.71556	P	PPLA3	AL		48	35			2157		23	Europe/Tirane	2012-06-11
+3184743	Memaliaj	Memaliaj	Mamaliaga,Mamaliaj,Memaliaj,Memalianji,Мемалиай	40.35167	19.98028	P	PPLA3	AL		45	23			4951		115	Europe/Tirane	2012-06-07
+3184755	Mbrostar-Urë	Mbrostar-Ure	Brostar,Brostar Ferko,Brostari-Ferkaj,Brustar Fioko,Mbrostar,Mbrostar Ferko,Mbrostar-Ure,Mbrostar-Urë,Mbrostari,Mbrotja e Siperme,Mbrotja e Sipërme	40.75361	19.57944	P	PPLA3	AL	AL	44	05			0		33	Europe/Tirane	2012-06-02
+3184801	Manzë	Manze	Manes,Manesi,Manez,Maneza,Maneze,Mansmins,Mansmyns,Manxit,Manza,Manze,Manzë,Manës,Manësi,Manëz,Manëza,Manëzë	41.42861	19.59306	P	PPLA3	AL	AL	42	03			0		49	Europe/Tirane	2012-06-01
+3184806	Mamurras	Mamurras	Mamuras,Mamurasi,Mamuraz,Mamurras,Mamurrasi,Murrizaj,Мамуррас	41.5775	19.69222	P	PPLA3	AL		48	35			8282		25	Europe/Tirane	2012-06-11
+3184808	Maminas	Maminas	Maminas,Maminasi,Meminas,Meminasi,Meminosi,Veminasi	41.37917	19.6075	P	PPLA3	AL	AL	42	03			0		44	Europe/Tirane	2012-06-01
+3184855	Luzi i Vogël	Luzi i Vogel	Ljuz i vogel,Luz i Vogel,Luz i Vogël,Luzi i Vogel,Luzi i Vogël	41.1275	19.57389	P	PPLA3	AL	AL	50	33			0		15	Europe/Tirane	2012-06-13
+3184862	Lushnjë	Lushnje	Ljushna Cod a Gomares,Ljushnja,Ljusnje,Ljušnje,Lousnia,Lushne,Lushnja,Lushnje,Lushnjë,Lusnje,Lušnje,Люшня	40.94194	19.705	P	PPLA2	AL		44	14			41469		22	Europe/Tirane	2012-06-05
+3184887	Luftinjë	Luftinje	Luftinia,Luftinja,Luftinje,Luftinjë	40.44278	19.95444	P	PPLA3	AL	AL	45	23			0		432	Europe/Tirane	2012-06-07
+3184930	Libofshë	Libofshe	Libofsha,Libofshe,Libofshë,Libovfs,Libovfš,Libovshe,Libovshë,Resh Libovtsa,Tregishte	40.83444	19.55222	P	PPLA3	AL	AL	44	05			0		7	Europe/Tirane	2012-06-02
+3184935	Lezhë	Lezhe	Alessio,Lesh,Leshe,Leshi,Lezh,Lezha,Lezhe,Lezhë,Lisi,Ljes,Lješ,Lyesh,Лежа	41.78361	19.64361	P	PPLA	AL		48				18695		7	Europe/Tirane	2012-01-19
+3184945	Levan	Levan	Levan,Levan-Samaraj,Levan-Samari,Levani,Levani Samar,Levani Samares,Levani Samarit,Levani Samarës,Levani i Madh	40.67611	19.48972	P	PPLA3	AL	AL	44	05			0		12	Europe/Tirane	2012-06-02
+3184969	Lekbibaj	Lekbibaj	Lekbibaj	42.29472	19.93167	P	PPLA3	AL		47	26			0		318	Europe/Tirane	2012-06-11
+3184973	Lekaj	Lekaj	Lekaj,Ljekaj	41.11444	19.60972	P	PPLA3	AL	AL	50	33			0		34	Europe/Tirane	2012-06-13
+3185012	Laç	Lac	Lac,Laci,Lak,Latsch,Laç,Laçi,Лак	41.63556	19.71306	P	PPLA2	AL		48	35			24825		33	Europe/Tirane	2012-06-11
+3185015	Kutë	Kute	Cuta,Kuta,Kute,Kutë	40.47333	19.76639	P	PPLA3	AL	AL	44	37			0		141	Europe/Tirane	2012-06-05
+3185017	Kutalli	Kutalli	Kutaj,Kutali,Kutalli,Kutallia,Kutallija	40.78389	19.78667	P	PPLA3	AL	AL	40	01			0		23	Europe/Tirane	2012-06-02
+3185031	Kurjan	Kurjan	Kurian,Kuriani,Kurjan,Kurjani,Kurjanj	40.7175	19.74556	P	PPLA3	AL	AL	44	05			0		116	Europe/Tirane	2012-06-02
+3185044	Kuman	Kuman	Cumani,Kuman,Kumani	40.72667	19.68667	P	PPLA3	AL	AL	44	05			0		20	Europe/Tirane	2012-06-02
+3185060	Kuçovë	Kucove	Kuchova,Kucova,Kucove,Kuçova,Kuçovë,Petrolia,Qyteti Stalin,Stalin,Кучова	40.80028	19.91667	P	PPLA2	AL		40	34			18166		58	Europe/Tirane	2012-06-02
+3185063	Kuç	Kuc	Kuc,Kuci,Kuç,Kuçi	42.03972	19.52528	P	PPLA3	AL	AL	49	36			0		9	Europe/Tirane	2012-06-12
+3185069	Kryevidh	Kryevidh	Krievil,Kruevith,Kryevidh,Kryevidhe,Kryevidhi,Kryevidhë	41.10056	19.5275	P	PPLA3	AL	AL	50	33			0		119	Europe/Tirane	2012-06-13
+3185077	Krutja e Poshtme	Krutja e Poshtme	Kruati i Poshtem,Kruati i Poshtëm,Kruatje e Poshteme,Kruatje e Poshtme,Kruatje e Poshtëme,Krutja e Poshteme,Krutja e Poshtme,Krutja e Poshtëme,Krutje e Poshtme,Krutje e Posteme,Krutje e Postëme,Post Kruati	40.87194	19.68083	P	PPLA3	AL	AL	44	14			0		10	Europe/Tirane	2012-06-05
+3185082	Krujë	Kruje	Akcehisar,Akçehisar,Croia,Cruja,Krna,Kroia,Kroja,Kroya,Kroïa,Krue,Krueja,Kruja,Kruje,Krujë,Круе	41.50917	19.79278	P	PPLA2	AL		42	10			21286		509	Europe/Tirane	2012-06-01
+3185087	Krrabë	Krrabe	Kerraba,Kerrabe,Kraba e Vogel,Kraba e Vogël,Krraba,Krraba Vogel,Krraba e Vogel,Krraba e Vogël,Krrabe,Krrabe e Vog,Krrabë,Kërraba,Kërrabë	41.21556	19.97139	P	PPLA3	AL		50	28			1177		416	Europe/Tirane	2012-06-13
+3185102	Krahës	Krahes	Krahes,Krahes Numer Nje,Krahesi,Krahesi Numer Nje,Krahës,Krahës Numër Një,Krahësi,Krahësi Numër Një	40.43861	19.84444	P	PPLA3	AL	AL	45	23			0		209	Europe/Tirane	2012-06-07
+3185107	Kozarë	Kozare	Kozara,Kozare,Kozarja,Kozarë	40.83083	19.90056	P	PPLA3	AL	AL	40	34			0		28	Europe/Tirane	2012-06-02
+3185113	Kotë	Kote	Kota,Kote,Kotta,Kotë	40.38944	19.60222	P	PPLA3	AL	AL	51	27			0		82	Europe/Tirane	2012-06-14
+3185133	Koplik	Koplik	Koplik,Koplik Poster,Koplik Pošter,Koplik i Poshtem,Koplik i Poshtëm,Kopliku,Kopliku i Poshtem,Kopliku i Poshtëm,Kopliku-e Poshtem,Kopliku-e Poshtëm,Коплик	42.21361	19.43639	P	PPLA2	AL		49	36			4078		63	Europe/Tirane	2012-06-12
+3185140	Kombësi	Kombesi	Kombesi,Kombesia,Kombesit,Kombësi,Kombësia,Komesi,Komesia,Komsi,Komësi,Komësia	41.58167	19.98556	P	PPLA3	AL	AL	41	15			0		317	Europe/Tirane	2012-06-02
+3185144	Kolonjë	Kolonje	Colonia,Koljonja,Kolonj,Kolonja,Kolonje,Kolonjë,Колёня	40.82417	19.60389	P	PPLA3	AL	AL	44	14			0		33	Europe/Tirane	2012-06-05
+3185148	Kolç	Kolc	Kolc,Kolc-Logorec,Kolc-Logoreci,Kolci,Koljs,Kolsh,Kolç,Kolç-Logorec,Kolç-Logoreci,Kolçi,Logoreci	41.78667	19.67611	P	PPLA3	AL	AL	48	12			0		35	Europe/Tirane	2012-06-11
+3185211	Kavajë	Kavaje	Cavaia,Cavaja,Kavaia,Kavaj,Kavaja,Kavaje,Kavajë,Kavajė,Kavaïa,Kawaja,ka wa ya,kabayeo,kawayh,Кавайе,Кавая,Каваја,کاوایه,کاوایہ,卡瓦亚,카바여	41.18556	19.55694	P	PPLA2	AL		50	33			29354		19	Europe/Tirane	2012-06-13
+3185218	Katundi i Ri	Katundi i Ri	Katund i Ri,Katundi,Katundi i Ri	41.40306	19.51806	P	PPLA3	AL	AL	42	03			0		7	Europe/Tirane	2012-06-01
+3185223	Kastrat	Kastrat	Kastrat,Kastrati,Vukpalaj,Vukpalaj-Kastrat	42.3525	19.48917	P	PPLA3	AL	AL	49	36			0		752	Europe/Tirane	2012-06-12
+3185234	Kashar	Kashar	Kashar,Kashari	41.34972	19.71028	P	PPLA3	AL	AL	50	28			0		202	Europe/Tirane	2012-06-13
+3185246	Karinë	Karine	Karina,Karina Kosenj,Karine,Karinë	41.06306	19.71611	P	PPLA3	AL	AL	43	38			0		31	Europe/Tirane	2012-06-01
+3185251	Karbunara e Vogël	Karbunara e Vogel	Karbunara e Poshteme,Karbunara e Poshtme,Karbunara e Poshtëme,Karbunara e Vogel,Karbunara e Vogël,Karbunare e Poshteme,Karbunare e Poshtme,Karbunare e Vogel,Karbunarë e Poshtme,Karbunarë e Poshtëme,Karbunarë e Vogël	40.92194	19.71778	P	PPLA3	AL		44	14			0		20	Europe/Tirane	2012-06-05
+3185270	Kamëz	Kamez	Camza,Kambeza,Kambëza,Kamez,Kamza,Kamze,Kamzë,Kamëz	41.38167	19.76028	P	PPLA3	AL		50	28			11026		55	Europe/Tirane	2012-06-13
+3185289	Kallmeti i Madh	Kallmeti i Madh	Calmeti,Kallheti i Math,Kallmet,Kallmet i Madh,Kallmet i Math,Kallmeti,Kallmeti i Madh,Kallmeti i Math,Kalmet	41.84889	19.68694	P	PPLA3	AL	AL	48	12			0		61	Europe/Tirane	2012-06-11
+3185290	Kallmet	Kallmet	Kaljmet,Kallmet,Kallmeti,Kalmeti	41.41806	19.82139	P	PPLA3	AL	AL	50				0		132	Europe/Tirane	2012-06-11
+3185302	Kalenjë	Kalenje	Kahlenja,Kalenj,Kalenja,Kalenje,Kalenjë	40.59	19.77833	P	PPLA3	AL	AL	44	37			0		508	Europe/Tirane	2012-06-05
+3185315	Kajan	Kajan	Kajan,Kajani,Shkembi,Shkëmbi	40.91417	19.88944	P	PPLA3	AL	AL	43	04			0		173	Europe/Tirane	2012-05-31
+3185320	Kaçinar	Kacinar	Kacinar,Kacinari,Kaçinar,Kisha e-Simonit	41.89333	19.89861	P	PPLA3	AL	AL	48	16			0		430	Europe/Tirane	2012-06-11
+3185351	Ishëm	Ishem	Ishem,Ishm,Ishmi,Ishëm	41.54528	19.6	P	PPLA3	AL	AL	42	03			0		27	Europe/Tirane	2012-06-01
+3185363	Hysgjokaj	Hysgjokaj	Dzokaj,Džokaj,Hysaj,Hysgjokaj,Xhokaj	40.97167	19.78972	P	PPLA3	AL	AL	44	14			0		142	Europe/Tirane	2012-06-05
+3185370	Hot	Hot	Hot,Hoti	42.36194	19.44417	P	PPLA3	AL	AL	49	36			0		91	Europe/Tirane	2012-06-12
+3185377	Himarë	Himare	Chimara,Cimarre,Himara,Himare,Himarë,Imara,Kheimara,Khimara,Химара	40.10167	19.74472	P	PPLA3	AL		51	27			4596		3	Europe/Tirane	2012-06-14
+3185381	Helmas	Helmas	Elmasi,Heljmas,Helmas,Helmasi,Helmes,Helmesi,Helmës,Helmësi	41.18028	19.60694	P	PPLA3	AL	AL	50	33			0		97	Europe/Tirane	2012-06-13
+3185386	Hekal	Hekal	Hecali,Hekal,Hekali,Hekalj	40.56194	19.73583	P	PPLA3	AL	AL	44	37			0		336	Europe/Tirane	2012-06-05
+3185398	Hasan	Hasan	Hasan,Hasanaj,Hasani	41.48278	19.69972	P	PPLA3	AL	AL	42	10			0		18	Europe/Tirane	2012-06-01
+3185412	Hajmel	Hajmel	Ajmeli,Guragi,Hajmel,Hajmeli,Hajmelj	41.95306	19.63778	P	PPLA3	AL	AL	49	21			0		46	Europe/Tirane	2012-06-12
+3185426	Gurra e Vogël	Gurra e Vogel	Gura Vogel,Gura Vogël,Gurr' e Vogel,Gurra Vogel,Gurra e Vogel,Gurra e Vogël,Gurre e Vogel,Gurrë e Vogël,Gurr’ e Vogel	41.53611	19.99083	P	PPLA3	AL	AL	41	15			0		512	Europe/Tirane	2012-06-02
+3185431	Guri i Zi	Guri i Zi	Gur i Zi,Guri i Zi	42.045	19.57472	P	PPLA3	AL	AL	49	21			0		30	Europe/Tirane	2012-06-12
+3185449	Gruemirë	Gruemire	Gruemira,Gruemire,Gruemirë	42.15917	19.51889	P	PPLA3	AL	AL	49	36			0		85	Europe/Tirane	2012-06-12
+3185465	Greshicë	Greshice	Greshica,Greshice,Greshicë,Gresic,Grešic	40.55194	19.77833	P	PPLA3	AL	AL	44	37			0		326	Europe/Tirane	2012-06-05
+3185469	Grekan	Grekan	Grekan,Grekani	40.92944	19.9475	P	PPLA3	AL	AL	43	04			0		158	Europe/Tirane	2012-05-31
+3185487	Gradishtë	Gradishte	Gradisht,Gradishta,Gradishte,Gradishti,Gradishtë,Gradista,Gradiza,Gradišta,Qyteze,Qytezë	40.88806	19.58583	P	PPLA3	AL	AL	44	14			0		8	Europe/Tirane	2012-06-05
+3185491	Gracen	Gracen	Gracen,Graceni,Grrecen,Grreceni	41.15194	19.96361	P	PPLA3	AL	AL	43	04	3185492		0		763	Europe/Tirane	2012-05-31
+3185494	Grabjan	Grabjan	Grabian,Grabiani,Grabijan,Grabijani,Grabjan,Grabjani,Grobia,Grunasi	40.95306	19.58083	P	PPLA3	AL	AL	44	14			0		26	Europe/Tirane	2012-06-05
+3185497	Gosë e Madhe	Gose e Madhe	Gosa e Madhe	41.09056	19.62472	P	PPLA3	AL	AL	50	33			0		44	Europe/Tirane	2012-06-13
+3185527	Golem	Golem	Cela i Madh,Golem,Golem i Madh,Golem i Math,Golemi,Golemi i Madh,Çela i Madh	40.96778	19.68528	P	PPLA3	AL	AL	44	14			0		32	Europe/Tirane	2012-06-05
+3185567	Gjoçaj	Gjocaj	Djocaj,Gjocaj,Gjocej,Gjoçaj,Ðjocaj	41.02556	19.72389	P	PPLA3	AL	AL	43	38			0		33	Europe/Tirane	2012-06-01
+3185580	Gjepalaj	Gjepalaj	Depale,Gjepalaj,Gjepale,Gjepalie,Gjopalaj,Ðepale	41.33306	19.57806	P	PPLA3	AL	AL	42	03			0		69	Europe/Tirane	2012-06-01
+3185637	Fushëkuqe	Fushekuqe	Fush-Kuqe,Fusha e Kuge,Fusha e Kuqe,Fushe-Kuqja,Fushekuqe,Fushekuqeja,Fushë-Kuqja,Fushëkuqe,Fushëkuqeja	41.65028	19.62	P	PPLA3	AL	AL	48	35			0		-2	Europe/Tirane	2012-06-11
+3185638	Fushë-Krujë	Fushe-Kruje	Fus e Krujs,Fush' e Krujes,Fush-Kruja,Fusha-Kruja,Fushe Kruja,Fushe e Krujes,Fushe-Kruje,Fushë Kruja,Fushë e Krujës,Fushë-Krujë,Fush’ e Krujës,Fuš e Krujs,Teke Fuscia Crujs,Фуша-Круя	41.47833	19.71778	P	PPLA3	AL		42	10			10458		24	Europe/Tirane	2012-06-01
+3185648	Fratar	Fratar	Fratari	40.5	19.81667	P	PPLA3	AL	AL	44	37			0		288	Europe/Tirane	2012-06-05
+3185652	Frakulla e Madhe	Frakulla e Madhe	Frakula,Frakula e Pasajit,Frakula e Pašajit,Frakull e Madhe,Frakull' e Pashajt,Frakulla e Madhe,Frakulla e Pashajit,Frakulle,Frakulle e Madhe,Frakulle e Pashajt,Frakullë,Frakullë e Madhe,Frakullë e Pashajt,Frakull’ e Pashajt,Frankulle Pashajt	40.65583	19.5025	P	PPLA3	AL	AL	44	05			0		19	Europe/Tirane	2012-06-02
+3185664	Fier-Shegan	Fier-Shegan	Fier Shegeni,Fier-Shegan,Fier-Shegani,Fieri Shegani	40.86722	19.78528	P	PPLA3	AL	AL	44	14			0		19	Europe/Tirane	2012-06-05
+3185670	Fier-Çifçi	Fier-Cifci		40.71667	19.56667	P	PPLX	AL		44				60995		17	Europe/Tirane	2007-05-30
+3185672	Fier	Fier	Fearica,Fier,Fieri,Fjeri,fei xia er,Фиери,非夏爾	40.72389	19.55611	P	PPLA	AL		44				56297		20	Europe/Tirane	2012-01-19
+3185689	Farka e Madhe	Farka e Madhe	Farka,Farka e Madhe,Farke,Farke e Madhe,Farkë,Farkë e Madhe	41.30556	19.86694	P	PPLA3	AL	AL	50	28			0		214	Europe/Tirane	2012-06-13
+3185728	Durrës	Durres	Drac,Drach,Drač,Duraso,Durazo,Durazzo,Durazzu,Dures,Duresi,Duresis,Durrazo,Durres,Durresa,Durresi,Durrsi,Durrës,Durrësi,Durts,Durus,Durz,Durësi,Dyrrachio,Dyrrachium,Dyrrakhion,Dyrrhachium,Epidamnos,Gorad Durehs,dou la si,do~urasu,draj,dras,duleoseu,duresi,durres,dwrs,Δυρράχιο,Горад Дурэс,Драч,Дуррес,Дуръс,דורס,دراج,دراس,ดูร์เรส,დურესი,ドゥラス,都拉斯,두러스	41.32306	19.44139	P	PPLA	AL		42				122034		13	Europe/Tirane	2012-01-19
+3185767	Drenovë	Drenove	Drenova,Drenove,Drenovë,Drnova	40.60056	19.70083	P	PPLA3	AL	AL	44	37			0		514	Europe/Tirane	2012-06-05
+3185797	Divjakë	Divjake	Diviaka,Divjaca,Divjak,Divjaka,Divjake,Divjakë,Duvijaka,Pisha	40.99667	19.52944	P	PPLA3	AL	AL	44	14			0		-1	Europe/Tirane	2012-06-05
+3185815	Dërmënas	Dermenas	Dermena,Dermenas,Dermenasi,Dermënasi,Drmanas,Dërmënas	40.74556	19.49389	P	PPLA3	AL	AL	44	05			0		4	Europe/Tirane	2012-06-02
+3185823	Vau i Dejës	Vau i Dejes	Dejas,Vai Dejes,Vai Dejës,Vau Dejes,Vau Dejës,Vau i Dejes,Vau i Dejës	42.01	19.62472	P	PPLA3	AL	AL	49	21			0		30	Europe/Tirane	2012-06-12
+3185843	Dajt	Dajt	Dajt,Dajti	41.39361	19.91583	P	PPLA3	AL	AL	50	28			0		654	Europe/Tirane	2012-06-13
+3185846	Dajç	Dajc	Dajc,Dajci,Dajç,Dajçi	41.99167	19.41056	P	PPLA3	AL	AL	49	21			0		8	Europe/Tirane	2012-06-12
+3185847	Dajç	Dajc	Dajc,Dajci,Dajç	41.91556	19.60444	P	PPLA3	AL	AL	48	12			0		18	Europe/Tirane	2012-06-11
+3185860	Cukalat	Cukalat	Cukakat,Cukala,Cukalat,Cukalati,Cukaljat,Cukelat,Cukelati	40.73028	19.79056	P	PPLA3	AL	AL	40	01			0		153	Europe/Tirane	2012-06-02
+3185862	Cudhi Zall	Cudhi Zall	Cedhin,Cedhini,Cudhi Zall,Cudhija,Cudhin,Cudhini,Cudhuni,Cuvija,Çedhini	41.50944	19.84583	P	PPLA3	AL	AL	42	10			0		746	Europe/Tirane	2012-06-01
+3185897	Cërrik	Cerrik	Cerrik,Cerriku,Cërrik,Valasi,Церрик	41.03167	19.97583	P	PPLA3	AL		43	04			14269		77	Europe/Tirane	2012-05-31
+3185925	Cakran	Cakran	Cakran,Cakrani,Cakrrani,Zakran	40.60333	19.62611	P	PPLA3	AL	AL	44	05			0		86	Europe/Tirane	2012-06-02
+3185937	Bushat	Bushat	Busciala,Bushat,Bushati	42.11944	19.89972	P	PPLA3	AL	AL	49	21			0		423	Europe/Tirane	2012-06-12
+3185961	Bubullimë	Bubullime	Bubullima,Bubullime,Bubullimë,Bubulmani,Buhullime,Buhullimë,Bumlulim	40.81806	19.64083	P	PPLA3	AL	AL	44	14			0		8	Europe/Tirane	2012-06-05
+3185963	Bubq	Bubq	Bubc,Bubesi,Bubge,Bubgë,Bubq,Bubqe,Bubqi,Bubqë,Bubsi,Bubësi,Bubć	41.47417	19.65167	P	PPLA3	AL	AL	42	10			0		28	Europe/Tirane	2012-06-01
+3185989	Brataj	Brataj	Brataj,Bratraj	40.26778	19.66917	P	PPLA3	AL	AL	51	27			0		257	Europe/Tirane	2012-06-14
+3186068	Bërzhitë	Berzhite	Berzhita,Berzhite,Bregishte,Bregjshte,Bërzhitë	41.24528	19.90111	P	PPLA3	AL	AL	50	28			0		216	Europe/Tirane	2012-06-13
+3186071	Bërxull	Berxull	Berxull,Berxulla,Berxulle,Berxulli,Berzulla,Berzulle,Brzula,Bërxull,Bërxulli,Bërxullë,Bërzullë	41.38	19.6875	P	PPLA3	AL	AL	50	28			0		133	Europe/Tirane	2012-06-13
+3186082	Bërdica e Madhe	Berdica e Madhe	Berdica e Madhe,Berdice,Berdice e Madhe,Bërdica e Madhe,Bërdicë,Bërdicë e Madhe	42.01528	19.48167	P	PPLA3	AL	AL	49	21			0		11	Europe/Tirane	2012-06-12
+3186084	Berat	Berat	Beligrad,Berat,Berati,Beration,Beratis,Berta,Bərat,Lezskigrad,Verati,Veration,belateu,berato,brat,byrat,pei la te,Μπεράτ,Берат,Բերատ,בראט,برات,بیرات,ბერატი,ベラト,培拉特,베라트	40.70583	19.95222	P	PPLA	AL		40	01			46866		66	Europe/Tirane	2012-06-03
+3186093	Belsh	Belsh	Belesh,Beleshi,Beleshit,Belsh,Belshi,Belësh,Belëshi,Belëshit	40.975	19.88194	P	PPLA3	AL	AL	43	04			0		217	Europe/Tirane	2012-05-31
+3186103	Baz	Baz	Baz,Baza,Baze,Bazi,Bazja,Bazje,Bazjë,Bazë	41.63194	19.92917	P	PPLA3	AL	AL	41	15			0		319	Europe/Tirane	2012-06-02
+3186137	Banaj	Banaj	Banaj,Banani,Bananj,Beran	40.82472	19.83917	P	PPL	AL	AL	40				2500		25	Europe/Tirane	2013-05-05
+3186145	Ballsh	Ballsh	Bal'shi,Baleri,Ballesh,Balleshi,Ballsh,Ballshi,Ballësh,Ballëshi,Bals,Balš,Бальши	40.59889	19.73472	P	PPLA2	AL		44	37			10361		206	Europe/Tirane	2012-06-05
+3186153	Ballagat	Ballagat	Balagati,Ballagat,Ballagati,Ballajgati	40.99528	19.76528	P	PPLA3	AL	AL	44	14			0		179	Europe/Tirane	2012-06-05
+3186155	Baldushk	Baldushk	Baldushk,Baldushke,Baldushku,Baldushkë,Baldushuku,Balije,Balja,Balldushk,Balldushku,Bulldushku	41.21389	19.79694	P	PPLA3	AL	AL	50	28			0		194	Europe/Tirane	2012-06-13
+3186184	Armen	Armen	Armen,Armeni	40.53639	19.59611	P	PPLA3	AL	AL	51	27			0		53	Europe/Tirane	2012-06-14
+3186196	Aranitas	Aranitas	Aranitas,Aranitasi,Aranitesi,Aranitësi,Arositani	40.59444	19.80667	P	PPLA3	AL	AL	44	37			0		297	Europe/Tirane	2012-06-05
+3186208	Allkaj	Allkaj	Alikaj,Allkaj,Hallkani,Rrethi	40.8575	19.75528	P	PPLA3	AL	AL	44	14			0		15	Europe/Tirane	2012-06-05
+3315380	Golem	Golem	Golem,Golemasi,Mali Robit	41.24583	19.53472	P	PPLA3	AL	AL	50	33			0		13	Europe/Tirane	2012-06-13
+3315384	Balldreni i Ri	Balldreni i Ri	Balldran,Balldren i Ri,Balldreni,Balldreni i Ri	41.81917	19.64028	P	PPLA3	AL	AL	48	12			0		22	Europe/Tirane	2012-06-11
+3343340	Grudë-Fushë	Grude-Fushe	Grude-Fusha,Grude-Fushe,Grudë-Fusha,Grudë-Fushë	42.16222	19.49667	P	PPLA3	AL	AL	49	36			0		66	Europe/Tirane	2012-06-12
+3343744	Fierzë	Fierze	Fierza,Fierze,Fierzë,Фиерза	40.92056	19.84694	P	PPLA3	AL	AL	43	04			0		178	Europe/Tirane	2012-05-31
+3343829	Dushk	Dushk	Dushk,Dushku	40.72667	19.75722	P	PPLA3	AL	AL	44	14			0		50	Europe/Tirane	2012-06-05
+3343997	Selitë	Selite	Selita,Selite,Selitë	40.5475	19.84806	P	PPLA3	AL	AL	44	37			0		533	Europe/Tirane	2012-06-05
+3344005	Vllahinë	Vllahine	Vllahina,Vllahine,Vllahinë	40.45694	19.64361	P	PPLA3	AL	AL	51	27			0		121	Europe/Tirane	2012-06-14
+7932375	Bajram Curri	Bajram Curri		42.35734	20.07679	P	PPLA2	AL		47	26			0		351	Europe/Tirane	2012-06-11
+174703	Zarrit’ap’	Zarrit'ap'	Azizbekov,Pashaghu,Pashalu,Zaritap,Zarrit'ap',Zarrit’ap’	39.63732	45.51162	P	PPL	AM		10				1323		1518	Asia/Yerevan	2012-01-17
+174704	Zangakatun	Zangakatun	Chanakhchi,Nizhniye Chanakhchi,Sovetashen,Zangakatun,Зангакатун	39.8212	45.04063	P	PPL	AM		02				1130		1671	Asia/Yerevan	2012-01-17
+174706	Goravan	Goravan	Goravan,Gorovan,Yenikend	39.90611	44.73171	P	PPL	AM		02				2238		927	Asia/Yerevan	2012-12-05
+174709	Yeghegnavan	Yeghegnavan	Ekhegnavan,Shidlu,Yeghegnavan,Ехегнаван	39.83799	44.62531	P	PPL	AM		02				1221		825	Asia/Yerevan	2012-01-17
+174710	Yeghegnadzor	Yeghegnadzor	Egegnajor,Ekhegnadzor,Keshishkend,Keshishkent,Mikoyan,Yeghegik,Yeghegnadzor,Yekhegnadzor,Ехегнадзор,Եղեգնաձոր	39.76389	45.33239	P	PPLA	AM		10				8200		1242	Asia/Yerevan	2012-01-17
+174713	Vostan	Vostan	Bedzhazlu,Vostan,Востан	39.96515	44.55937	P	PPL	AM		02				2925		837	Asia/Yerevan	2012-01-17
+174714	Vosketap’	Vosketap'	Shiraz,Shirazlu,Vosketap',Vosketap’	39.88114	44.64917	P	PPL	AM		02				4080		841	Asia/Yerevan	2012-01-17
+174716	Vernashen	Vernashen	Bashkend,Vernashen,Вернашен	39.79236	45.36389	P	PPL	AM		10				1162		1543	Asia/Yerevan	2012-01-17
+174717	Verishen	Verishen	Verishen	39.53557	46.31221	P	PPL	AM		08				2114		1613	Asia/Yerevan	2012-01-17
+174725	Vedi	Vedi	Beyuk-Vedi,Biyuk-Vedi,Vedi,Веди	39.91421	44.72217	P	PPL	AM		02				12192		909	Asia/Yerevan	2012-01-17
+174726	Vayk’	Vayk'	Azizbekov,Soylan,Vayk',Vayk’	39.691	45.46653	P	PPL	AM		10				5419		1239	Asia/Yerevan	2012-01-17
+174743	Tegh	Tegh	Dyg,Lekh,Teg,Tegh,Tekh,Тех,Տեղ	39.55792	46.47723	P	PPL	AM		08				2120		1350	Asia/Yerevan	2012-01-17
+174755	Surenavan	Surenavan	Surenavan	39.79759	44.77397	P	PPL	AM		10				2241		825	Asia/Yerevan	2012-12-05
+174764	Sisavan	Sisavan	Sisavan,Yengidzha,Сисаван	39.90802	44.6672	P	PPL	AM		02				1793		865	Asia/Yerevan	2012-12-05
+174769	Shinuhayr	Shinuhayr	Shinuair,Shinuajr,Shinuayr,Shinuhayr,Sinuayr,Sinuhayr,Şinuayr,Шинуайр,Շինուհայր	39.4367	46.31787	P	PPL	AM		08				2206		1500	Asia/Yerevan	2012-01-17
+174775	Shahumyan	Shahumyan	Shahumian,Shahumyan,Shaumjan,Shaumyan,Yuva,Шаумян	39.93845	44.56973	P	PPL	AM		02				3905		828	Asia/Yerevan	2012-01-17
+174776	Shatin	Shatin	Gasankend,Hasankand,Hesan Kand,Shatik,Shatin,Шатин	39.83568	45.30186	P	PPL	AM		10				1671		1284	Asia/Yerevan	2012-01-17
+174782	Shaghat	Shaghat	Shagat,Shaghat	39.56253	45.91433	P	PPL	AM		08				1011		1708	Asia/Yerevan	2012-01-17
+174794	Rrind	Rrind	Rind,Rrind	39.76022	45.17907	P	PPL	AM		10				1368		1306	Asia/Yerevan	2012-01-17
+174805	Noyakert	Noyakert	Khalisa,Nojakert,Noyakert,Ноякерт	39.8312	44.66899	P	PPL	AM		02				1751		827	Asia/Yerevan	2012-01-17
+174820	Mrgavan	Mrgavan	Gedaklu,Mgravan,Mrgavan,Мграван	39.97167	44.53318	P	PPL	AM		02				1713		839	Asia/Yerevan	2012-01-17
+174823	Meghri	Meghri	Meghri,Megri,Megry,Mergi,Mogri,Мегри	38.90292	46.24458	P	PPL	AM		08				4540		657	Asia/Yerevan	2012-01-17
+174828	Malishka	Malishka	Malishka	39.73758	45.39004	P	PPL	AM		10				4174		1186	Asia/Yerevan	2012-01-17
+174849	Khndzoresk	Khndzoresk	Khndzoresk,Xnjoresk,Խնձորեսկ	39.51224	46.43284	P	PPL	AM		08				1940		1524	Asia/Yerevan	2012-01-17
+174875	Kapan	Kapan	Ghap'an,Ghap’an,Kafan,Kafin,Kapan,Katan,Madan,Qafan,Zangezur,kapan,Капан,Կապան,کاپان	39.20754	46.40576	P	PPLA	AM		08				33160		774	Asia/Yerevan	2012-01-17
+174884	Jermuk	Jermuk	Dzhermuk,Jermuk,Джермук	39.84173	45.6723	P	PPL	AM		10				4582		2111	Asia/Yerevan	2012-01-17
+174895	Goris	Goris	Geryusy,Goris,Горис,Գորիս	39.51288	46.33816	P	PPL	AM		08				20379		1377	Asia/Yerevan	2012-01-17
+174904	Gladzor	Gladzor	Gladzor,Ortakend,Гладзор	39.78123	45.35043	P	PPL	AM		10				2080		1400	Asia/Yerevan	2012-01-17
+174907	Getap’	Getap'	Getap',Getap’,Ghyotur,Koytur	39.76306	45.30664	P	PPL	AM		10				1842		1134	Asia/Yerevan	2012-01-17
+174918	Dzorastan	Dzorastan	Akhtakhana,Dzorastan,Khlatag	39.27059	46.3572	P	PPL	AM		08				1034		1206	Asia/Yerevan	2012-01-17
+174931	Dalar	Dalar	Dalar,Dalular,Далар	39.97653	44.52649	P	PPL	AM		02				2504		839	Asia/Yerevan	2012-01-17
+174940	Burastan	Burastan	Burastan,Karagamzalu,Tamamlu	39.99157	44.49682	P	PPL	AM		02				1998		839	Asia/Yerevan	2012-12-05
+174941	Brun	Brun	Brun,Բրուն	39.53491	46.30732	P	PPL	AM		08				1028		1641	Asia/Yerevan	2012-01-17
+174942	Brrnakot’	Brrnakot'	Brnakot,Brrnakot',Brrnakot’	39.49742	45.97241	P	PPL	AM		08				1912		1698	Asia/Yerevan	2012-01-17
+174947	Berkanush	Berkanush	Berkanush,Ogurbeklu	39.97726	44.51394	P	PPL	AM		02				1682		836	Asia/Yerevan	2012-01-17
+174964	Aygezard	Aygezard	Ajgezard,Anastasavan,Aygedzor,Aygezard,Dargalu,Айгезард	39.95436	44.6023	P	PPL	AM		02				3192		877	Asia/Yerevan	2012-01-17
+174965	Aygepat	Aygepat	Ajgepat,Aygepat,Dargalu Verkhniy,Masumlu,Verkhniy Dargalu,Айгепат	39.95845	44.59982	P	PPL	AM		02				1349		880	Asia/Yerevan	2012-01-17
+174968	Aygavan	Aygavan	Ajgavan,Aygavan,Reganlu,Айгаван	39.87326	44.66984	P	PPL	AM		02				3758		847	Asia/Yerevan	2012-01-17
+174969	Avshar	Avshar	Avshar	39.8536	44.6793	P	PPL	AM		02				4215		835	Asia/Yerevan	2012-05-05
+174972	Hats’avan	Hats'avan	Acavan,Atsavan,Hats'avan,Hats’avan,Sisian,Ацаван	39.46405	45.97047	P	PPL	AM		08				15208		1761	Asia/Yerevan	2012-01-17
+174979	Artashat	Artashat	Artashat,Kamarl,Kamarlu,Kamarlyu,Арташат	39.96144	44.54447	P	PPLA	AM		02				20562		830	Asia/Yerevan	2012-01-17
+174980	Yeghegis	Yeghegis	Alagyaz,Alayaz,Artabuynk,Artabuynk',Artabuynk’,Erdapin,Yeghegis,Yekhegis	39.87181	45.36002	P	PPL	AM		10				1045		1579	Asia/Yerevan	2012-01-17
+174983	Armash	Armash	Armash	39.76532	44.80902	P	PPL	AM		10				2434		832	Asia/Yerevan	2012-05-05
+174984	Areni	Areni	Areni,Arpa,Арени	39.71913	45.17991	P	PPL	AM		10				1718		989	Asia/Yerevan	2012-01-17
+174991	Ararat	Ararat	Ararat,Davalinskiy Tsemzavod,Арарат	39.83166	44.70489	P	PPL	AM		02				28832		822	Asia/Yerevan	2012-01-17
+174997	Angeghakot’	Angeghakot'	Angeghakot',Angeghakot’,Angekhakot,Angelaut	39.57017	45.94123	P	PPL	AM		08				1726		1837	Asia/Yerevan	2012-01-17
+175002	Aghavnadzor	Aghavnadzor	Agavnadzor,Aghavnadzor,Akhavnadzor,Aynadzor,Агавнадзор	39.78222	45.22753	P	PPL	AM		10				1925		1548	Asia/Yerevan	2012-01-17
+175006	Agarakadzor	Agarakadzor	Agarakadzor,Ayar,Агаракадзор	39.73405	45.35274	P	PPL	AM		10				1195		1153	Asia/Yerevan	2012-01-17
+175007	Agarak	Agarak	Agarak,Aqarak,Агарак	39.20684	46.5446	P	PPL	AM		08				4707		998	Asia/Yerevan	2012-01-17
+391233	Aralez	Aralez	Aralek,Aralez	39.90195	44.6514	P	PPL	AM		02				2354		854	Asia/Yerevan	2012-12-06
+612561	Horrom	Horrom	Horom,Horrom,Orom,Ором	40.66012	43.88819	P	PPL	AM		07				1893		1578	Asia/Yerevan	2012-01-17
+613075	Margara	Margara	Margara,Markara,Маргара,Маркара	40.03351	44.17709	P	PPL	AM		03				1360		848	Asia/Yerevan	2012-01-17
+616034	Zovuni	Zovuni	Molla Kasum,Zovuni,Зовуни	40.51083	44.42889	P	PPL	AM		01				4484		1818	Asia/Yerevan	2012-01-17
+616037	Zovaber	Zovaber	Yaydzhi,Zovaber,Зовабер	40.56693	44.78827	P	PPL	AM		04				1470		1763	Asia/Yerevan	2012-01-17
+616039	Zorak	Zorak	Donguzyan,Zangilar,Zorak,Зорак	40.09109	44.39209	P	PPL	AM		02				1390		832	Asia/Yerevan	2012-01-17
+616046	Zarr	Zarr	Zar,Zarr,Зар	40.2595	44.73086	P	PPL	AM		05				1340		1619	Asia/Yerevan	2012-01-17
+616052	Yerevan	Yerevan	Ayrivan,Djerevan,EREVAN,EVN,Eireavan,Eireaván,Ereban,Ereun,Erevan,Erevan osh,Erevana,Erevano,Erevanum,Erevàn,Ereván,Erevāna,Erewan,Erivan,Eriwan,Erywan,Erywań,Gierevan,Gorad Erehvan,Ierevan,Iereván,Iravan,Jerevan,Jerevanas,Jerevani,Jereván,Jerewan,Jerjewan,Revan,Yerevan,Yervandavan,Yerêvan,Yiriwan,Yèrèvan,Yérévan,ayrwan,ereban,erevani,iyerebhana,shhr ayrwan,ye li wen,yeleban,yeravana pranta,yere wan,yerevan,yerevana,yerevhana,yryfan,yrywan,Èrevan,Êrîvan,İrəvan,Γιερεβάν,Ερεβάν,Єреван,Јереван,Горад Ерэван,ЕРЕВАН,Ереван,Ереван ош,Երեվան,Երևան,יערעוואן,ירוואן,ایروان,شهر ایروان,يريفان,يېرېۋان,یریوان,یەریڤان,येरवान प्रान्त,येरेवान,येरेव्हान,ইয়েরেভান,யெரெவான்,เยเรวาน,ཡེ་རེ་ཝན།,ერევანი,ዬሬቫን,エレバン,葉里溫,예레반	40.18111	44.51361	P	PPLC	AM		11				1093485		994	Asia/Yerevan	2012-01-17
+616053	Yerazgavors	Yerazgavors	Aralykh,Erazgavors,Yerazgavors,Еразгаворс	40.7	43.75	P	PPLQ	AM		07				1285		1454	Asia/Yerevan	2012-01-17
+616055	Yeraskhahun	Yeraskhahun	Kuru-Araz,Yeraskhahun,Yeraskhaun	40.07167	44.21619	P	PPL	AM		03				1346		841	Asia/Yerevan	2012-01-17
+616056	Yeranos	Yeranos	Eranos,Yeranos,Еранос	40.20428	45.19209	P	PPL	AM		04				4233		1982	Asia/Yerevan	2012-01-17
+616060	Yeghegnut	Yeghegnut	Ekheknut,Kamyshkut,Yegegnut,Yeghegnut,Yekhegnut,Yekheknut,Ехекнут	40.90302	44.63155	P	PPL	AM		06				1154		1096	Asia/Yerevan	2012-01-17
+616061	Yeghegnut	Yeghegnut	Badal,Ekhegnut,Molla Badal,Yeghegnut,Yekheknut,Ехегнут	40.09186	44.16018	P	PPL	AM		03				1746		846	Asia/Yerevan	2012-01-17
+616062	Ejmiatsin	Ejmiatsin	Artemed,Avan Vardgesi,EHCHMIADZIN,Echmiadzin,Echmiatsin,Ecmiadzin,Eczmiadzyn,Ejmiatsin,Etchmiadzine,Etschmiadsin,Ečmiadzin,Iejmiatsin,Kaynepolis,Kayrak'aghak',Kayrak’aghak’,Norak'aghak',Norak’aghak’,Uch'k'ilisa,Uch’k’ilisa,Uckilise,Vagarsapat,Vagarshapat,Vagharshapat,Valeroktista,Vardgesavan,achmyadzyn,echmiadzini,ehchmiadzin,Üçkilise,Вагаршапат,ЭЧМИАДЗИН,Эчмиадзин,Վաղարշապատ,اچمیادزین,ეჩმიაძინი	40.16557	44.29462	P	PPL	AM		03				49513		877	Asia/Yerevan	2012-01-17
+616065	Yeghvard	Yeghvard	Egvard,Jegward,Yeghvard,Yegvard,Yegvart,Yevgard,Егвард	40.32053	44.48138	P	PPL	AM		05				10705		1332	Asia/Yerevan	2012-01-17
+616071	Voskevaz	Voskevaz	Kiziltamur,Voskevaz,Воскеваз	40.27678	44.29509	P	PPL	AM		01				3789		1048	Asia/Yerevan	2012-01-17
+616072	Voskevan	Voskevan	Koshkotan,Voskevan,Воскеван	41.12081	45.06381	P	PPL	AM		09				1287		972	Asia/Yerevan	2013-09-06
+616076	Voskehask	Voskehask	Molla Musa,Musakan,Voskeask,Voskehask,Воскеаск	40.76426	43.77474	P	PPL	AM		07				1803		1495	Asia/Yerevan	2012-01-17
+616094	Verin Getashen	Verin Getashen	Nerkin Getashen,Verin Adyaman,Verin Getashen,Verkhniy Adyaman,Неркин Геташен	40.13328	45.25068	P	PPL	AM		04				4173		1976	Asia/Yerevan	2012-01-17
+616097	Verin Dvin	Verin Dvin	Aysori Dvin,Verin Dvin,Verkhniy Dvin,Верин Двин	40.02434	44.59038	P	PPL	AM		02				1853		955	Asia/Yerevan	2012-01-17
+616100	Verin Artashat	Verin Artashat	Ardashar,Artashat,Verin Artashat,Verkhniy Artashat,Верин Арташат	39.99046	44.58546	P	PPL	AM		02				3931		881	Asia/Yerevan	2012-01-17
+616101	Verin Akhtala	Verin Akhtala	Verin Akhtala,Verkhnyaya Akhtala	41.16838	44.75811	P	PPL	AM		06				1989		1214	Asia/Yerevan	2012-01-17
+616103	Varser	Varser	Chirchir,Varser,Варсер	40.5534	44.9069	P	PPL	AM		04				1614		1915	Asia/Yerevan	2012-01-17
+616108	Vardenis	Vardenis	Basargech'ar,Basargech’ar,VARDENIS,Vardenis,ВАРДЕНИС	40.18272	45.7311	P	PPL	AM		04				11382		1940	Asia/Yerevan	2012-01-17
+616109	Vardenik	Vardenik	Gezeldara,Nerkin Gezaldara,Nizhnyaya Gezaldara,Vardenik,Варденик	40.13928	45.43342	P	PPL	AM		04				7709		1976	Asia/Yerevan	2012-01-17
+616117	Vahan	Vahan	Ordzhonikidze,Vahan,Орджоникидзе	40.57549	45.39769	P	PPL	AM		04				1153		1925	Asia/Yerevan	2012-01-17
+616119	Vaghashen	Vaghashen	Avdalagalu,Vagashen,Vaghashen,Vakhashen,Вахашен	40.13578	45.32879	P	PPL	AM		04				3235		1956	Asia/Yerevan	2012-01-17
+616120	Vahagni	Vahagni	Shagali,Vaagni,Vahagni,Ваагни	40.90698	44.60873	P	PPL	AM		06				1184		1076	Asia/Yerevan	2012-01-17
+616121	Ushi	Ushi	Ushi	40.34869	44.37252	P	PPL	AM		01				1276		1393	Asia/Yerevan	2012-01-17
+616123	Urrut	Urrut	Urrut,Urut,Урут	41.06778	44.39628	P	PPL	AM		06				1102		1459	Asia/Yerevan	2012-01-17
+616136	Tsovinar	Tsovinar	Covinar,Kolakran,Tsovinar,Цовинар	40.15701	45.46132	P	PPL	AM		04				3968		1954	Asia/Yerevan	2012-01-17
+616137	Tsovazard	Tsovazard	Covazard,Gadzhi Mukhan,Mukhan,Tsovazard,Цовазард	40.4709	45.05879	P	PPL	AM		04				1949		1929	Asia/Yerevan	2012-01-17
+616138	Tsovak	Tsovak	Covak,Nerkin Zagalu,Nizhniy Zagalu,Tsovak,Цовак	40.18254	45.63286	P	PPL	AM		04				2531		1923	Asia/Yerevan	2012-01-17
+616139	Tsovagyugh	Tsovagyugh	Chabukhly,Chibukhly,Chubukhly,Chubuli,Chubuliki,Covagjukh,Tsovagyugh,Tsovagyukh,Tzovagyugh,Цовагюх	40.63029	44.95738	P	PPL	AM		04				3857		1976	Asia/Yerevan	2012-08-27
+616150	Tsaghkunk’	Tsaghkunk'	Tsaghkunk',Tsaghkunk’,Tsakhkunk,Verin Aylanlu,Verkhnyaya Aylanlu	40.18075	44.27026	P	PPL	AM		03				1089		884	Asia/Yerevan	2012-01-17
+616158	Tsaghkahovit	Tsaghkahovit	Cakhkaovit,Gadzhi-Khalil,Tsaghkahovit,Tsakhkaovit,Tzaghkahovit,Цахкаовит	40.63428	44.22241	P	PPL	AM		01				1551		2108	Asia/Yerevan	2012-01-17
+616159	Tsaghkaber	Tsaghkaber	Avdibek,Cakhkaber,Tsaghkaber,Tsakhkaber,Tsakhkashen,Tzaghkaber,Цахкабер	40.79849	44.10144	P	PPL	AM		06				1207		1762	Asia/Yerevan	2012-01-17
+616160	Tsaghkadzor	Tsaghkadzor	CAKHKADZOR,Darachichag,Tsaghkadzor,Tsakhkadzor,ЦАХКАДЗОР	40.53259	44.72025	P	PPL	AM		05				1407		1861	Asia/Yerevan	2012-01-17
+616174	T’azagyugh	T'azagyugh	T'azagyugh,Tazagyukh,T’azagyugh	40.1382	45.19096	P	PPL	AM		04				2248		2100	Asia/Yerevan	2012-01-17
+616178	Tashir	Tashir	Kaliniko,Kalinin,Kalinino,TASHIR,Tashir,Vorontsovka,ТАШИР	41.12072	44.28462	P	PPL	AM		06				7318		1505	Asia/Yerevan	2012-01-17
+616184	Tandzut	Tandzut	Armutlu,Tandzut,Тандзут	40.07015	44.07476	P	PPL	AM		03				1816		859	Asia/Yerevan	2012-01-17
+616187	T’alin	T'alin	T'alin,T’alin,Verin Talin,Verkhniy Talin	40.38428	43.87387	P	PPL	AM		01				4945		1602	Asia/Yerevan	2012-01-17
+616199	Spitak	Spitak	Amamlu,Amamth,Spitak,Спитак	40.8322	44.2673	P	PPL	AM		06				15059		1548	Asia/Yerevan	2012-01-17
+616202	Spandaryan	Spandaryan	Kulidzhan,Spandarjan,Spandaryan,Спандарян	40.66105	44.01551	P	PPL	AM		07				1226		1825	Asia/Yerevan	2012-01-17
+616208	Sovetakan	Sovetakan	Kyarimarkh,Sovetakan,Советакан	40.10712	44.05108	P	PPL	AM		03				1613		857	Asia/Yerevan	2012-01-17
+616211	Solak	Solak	Solak,Солак	40.46439	44.70796	P	PPL	AM		05				2295		1655	Asia/Yerevan	2012-01-17
+616213	Sis	Sis	Sarvanlar,Sis,Uliya Sarvanlar,Сис	40.06023	44.38649	P	PPL	AM		02				1135		828	Asia/Yerevan	2012-01-17
+616220	Shnogh	Shnogh	Shnogh,Shnokh,Шнох	41.14693	44.84043	P	PPL	AM		06				2872		640	Asia/Yerevan	2012-01-17
+616224	Shirak	Shirak	Konakhkran,Kunakhkran,Shirak,Ширак	40.84042	43.91582	P	PPL	AM		07				1007		1634	Asia/Yerevan	2012-01-17
+616230	Shenavan	Shenavan	Blkher,Shenavan,Шенаван	40.48296	44.383	P	PPL	AM		01				1587		1881	Asia/Yerevan	2012-01-17
+616231	Shenavan	Shenavan	Kyalagarkh,Shenavan,Шенаван	40.05486	43.92876	P	PPL	AM		03				1757		895	Asia/Yerevan	2012-01-17
+616250	Sevan	Sevan	SEVAN,Sevan,Ssewan,Yelenovka,СЕВАН	40.5484	44.94868	P	PPL	AM		04				17083		1921	Asia/Yerevan	2012-01-17
+616255	Sarukhan	Sarukhan	Dalikardash,Sarukhan,Сарухан	40.29053	45.13059	P	PPL	AM		04				6173		1990	Asia/Yerevan	2012-01-17
+616259	Sarigyugh	Sarigyugh	Sariguh,Sarigyugh,Sarigyukh,Sarıgüh,Srigekh,Srygekh	41.03531	45.14486	P	PPL	AM		09				1096		828	Asia/Yerevan	2013-09-06
+616262	Saratak	Saratak	Imrkhan,Saratak,Саратак	40.66992	43.86915	P	PPL	AM		07				1115		1560	Asia/Yerevan	2012-01-17
+616265	Saramech	Saramech	Chotur,Saramech,Сарамеч	40.77487	44.2222	P	PPL	AM		06				1111		1780	Asia/Yerevan	2012-01-17
+616273	Sarahart’	Sarahart'	Gyullidzha,Saraart,Sarahart',Sarahart’	40.87043	44.21407	P	PPL	AM		00				1364		1733	Asia/Yerevan	2012-01-17
+616278	Samaghar	Samaghar	Gekhakert,Samagar,Samaghar,Samakhar,Самахар	40.18516	44.24331	P	PPL	AM		03				2343		883	Asia/Yerevan	2012-01-17
+616288	Ptghni	Ptghni	Ptghni,Ptgni,Ptkhni,Ptykhni,Птхни	40.25576	44.58407	P	PPL	AM		05				1231		1330	Asia/Yerevan	2012-01-17
+616289	Ptghunk’	Ptghunk'	Ptghunk',Ptghunk’,Ptkhunk	40.16505	44.36328	P	PPL	AM		03				1345		869	Asia/Yerevan	2012-01-17
+616290	Pshatavan	Pshatavan	Igdalu,Pshatavan,Пшатаван	40.03865	44.06629	P	PPL	AM		03				2159		860	Asia/Yerevan	2012-01-17
+616291	Prroshyan	Prroshyan	Proshian,Proshyan,Prroshyan	40.24853	44.41631	P	PPL	AM		05				4333		1187	Asia/Yerevan	2012-01-17
+616297	Pokr Mantash	Pokr Mantash	Malyy Mantash,Pokr Arkhvali,Pokr Mantash,Покр Манташ	40.64026	44.04666	P	PPL	AM		07				1838		1977	Asia/Yerevan	2012-01-17
+616299	Zoravan	Zoravan	Kargavank,Pokravan,Zoravan,Зораван	40.35326	44.52319	P	PPL	AM		05				1167		1466	Asia/Yerevan	2012-01-17
+616303	Pemzashen	Pemzashen	Magmudzhuk,Mahmutcuk,Makhmudzhug,PEMZASHEN,Pemzashen,ПЕМЗАШЕН	40.5851	43.94021	P	PPL	AM		07				2436		1793	Asia/Yerevan	2012-01-17
+616306	Parravak’ar	Parravak'ar	Paravakar,Paravaker,Parravak'ar,Parravak’ar,Паравакар	40.98248	45.36696	P	PPL	AM		00				1637		745	Asia/Yerevan	2013-09-06
+616320	Oshakan	Oshakan	Oshakan,Ошакан	40.2646	44.31456	P	PPL	AM		01				4768		1043	Asia/Yerevan	2012-01-17
+616328	Hoktember	Hoktember	Hoktember,OKTEMBERJAN,Oktember,Sardarapat,ОКТЕМБЕРЯН	40.13206	44.00969	P	PPL	AM		03				5348		862	Asia/Yerevan	2012-01-17
+616330	Odzun	Odzun	Dzun,Odzun,Usuklyar,Uzunlar,Одзун	41.05321	44.61341	P	PPL	AM		06				4524		1107	Asia/Yerevan	2012-01-17
+616333	Noyemberyan	Noyemberyan	Baran,Barana,NOEMBERJAN,Noyemberyan,НОЕМБЕРЯН	41.17244	44.99917	P	PPL	AM		09				5119		842	Asia/Yerevan	2012-01-17
+616340	Nor Gyugh	Nor Gyugh	Nor Gyugh,Nor Gyukh,Tazagyukh	40.2673	44.6563	P	PPL	AM		05				1462		1435	Asia/Yerevan	2012-01-17
+616341	Nor Geghi	Nor Geghi	Bazmavan,Chatkran,Nor Geghi,Nor Gekhi,Нор Гехи	40.32105	44.58027	P	PPL	AM		05				4896		1347	Asia/Yerevan	2012-01-17
+616345	Norashen	Norashen	Bogdanovka,Norashen,Норашен	41.18886	44.33336	P	PPL	AM		06				1386		1586	Asia/Yerevan	2012-01-17
+616350	Norashen	Norashen	Norashen,Verin Kurdkend,Норашен	39.9996	44.58952	P	PPL	AM		02				3049		897	Asia/Yerevan	2012-01-17
+616352	Nor Armavir	Nor Armavir	Nor Armavir	40.08563	43.99242	P	PPL	AM		03				1597		892	Asia/Yerevan	2012-05-05
+616356	Noramarg	Noramarg	Abilkend,Ablkend,Bulagli,Bulakhly,Imeni Kalinina,Kalinin,Noramarg,Poselok Imeni Kalinina,Posëlok Imeni Kalinina,Норамарг	40.02384	44.42403	P	PPL	AM		02				1811		827	Asia/Yerevan	2012-01-17
+616359	Norakert	Norakert	Norakert	40.19229	44.34774	P	PPL	AM		01				2485		932	Asia/Yerevan	2012-01-17
+616361	Noratus	Noratus	Noraduz,Noratus,Норадуз	40.37547	45.17718	P	PPL	AM		04				5426		1929	Asia/Yerevan	2012-01-17
+616375	Nerk’in Getashen	Nerk'in Getashen	Nerk'in Getashen,Nerkin Adyaman,Nerk’in Getashen,Nizhniy Adyaman	40.14046	45.279	P	PPL	AM		04				7010		1944	Asia/Yerevan	2012-01-17
+616383	Navur	Navur	Navur,Навур	40.86694	45.34179	P	PPL	AM		09				1227		1482	Asia/Yerevan	2012-01-17
+616385	Nalbandyan	Nalbandyan	Mets Shagriar,Nalbandjan,Nalbandyan,Shagriar,Shagriar Bol'shoy,Shagriar Bol’shoy,Налбандян	40.06236	43.9869	P	PPL	AM		03				4019		870	Asia/Yerevan	2012-02-01
+616391	Musayelyan	Musayelyan	Mets Kyapanak,Musaeljan,Musayelyan,Мусаелян	40.75767	43.99274	P	PPL	AM		07				1499		1638	Asia/Yerevan	2012-01-17
+616396	Hovtamej	Hovtamej	Hovtamej,Mugan,Ovtamech	40.18347	44.25862	P	PPL	AM		03				1018		885	Asia/Yerevan	2012-01-17
+616399	Mrgashen	Mrgashen	Mrgashen	40.28523	44.54107	P	PPL	AM		05				1623		1329	Asia/Yerevan	2012-01-17
+616400	Mrgashat	Mrgashat	Gecherlau,Gechrlu,Mrgashat,Мргашат	40.12462	44.06584	P	PPL	AM		03				4961		853	Asia/Yerevan	2012-01-17
+616401	Mrganush	Mrganush	Mrganush,Zograblu,Мргануш	40.02857	44.55831	P	PPL	AM		02				1032		908	Asia/Yerevan	2012-01-17
+616403	Mosesgegh	Mosesgegh	Mosesgegh,Mosesgekh,Mosesgex,Movses,Мосесгех	40.90534	45.48838	P	PPL	AM		09				1964		838	Asia/Yerevan	2013-09-06
+616410	Mets Parni	Mets Parni	Bekyand,Mec-Parni,Mets Parni,Parni,Мец-Парни	40.83335	44.11042	P	PPL	AM		06				1934		1699	Asia/Yerevan	2012-01-17
+616411	Mets Masrik	Mets Masrik	Bol'shaya Mazra,Bol’shaya Mazra,Mazra,Mec Mazra,Mets Masrik,Mets-Mazra,Мец Мазра	40.21825	45.76809	P	PPL	AM		04				2570		1944	Asia/Yerevan	2012-01-17
+616412	Mets Mant’ash	Mets Mant'ash	Bol'shoy Mantash,Bol’shoy Mantash,Mantash,Mec-Mantash,Mets Arikhvali,Mets Mant'ash,Mets Mant’ash,Metz Mantash,Мец-Манташ	40.64376	44.05653	P	PPL	AM		07				1973		1962	Asia/Yerevan	2012-01-17
+616416	Metsavan	Metsavan	Mecavan,Metsavan,Shakhnazar,Мецаван	41.20156	44.22877	P	PPL	AM		06				4767		1576	Asia/Yerevan	2012-01-17
+616417	Metsamor	Metsamor	Kamarlu,Mecamor,Metsamor,Мецамор	40.07302	44.28962	P	PPL	AM		03				8789		840	Asia/Yerevan	2012-01-17
+616418	Mertsavan	Mertsavan	Merdzavan,Mertsavan,Мердзаван	40.1814	44.40032	P	PPL	AM		03				2702		939	Asia/Yerevan	2012-01-17
+616421	Meghrashen	Meghrashen	Kazanchi,Meghrashen,Megrashen,Меграшен	40.67259	43.95783	P	PPL	AM		07				1107		1661	Asia/Yerevan	2012-01-17
+616424	Meghradzor	Meghradzor	Meghradzor,Megradzor,Taycharukh,Меградзор	40.60611	44.65147	P	PPL	AM		05				2659		1785	Asia/Yerevan	2012-01-17
+616429	Mayakovski	Mayakovski	Majakovskij,Mayakovski,Mayakovskiy,Shaab,Маяковский	40.25196	44.63928	P	PPL	AM		05				1727		1414	Asia/Yerevan	2012-01-17
+616435	Masis	Masis	Hrazdan,Masis,Narimanlu,Razdan,Takhanshalu,Tokhanshalu,Ulukhanlu,Zangibasar,Масис	40.06762	44.43591	P	PPL	AM		02				18911		839	Asia/Yerevan	2012-01-17
+616438	Martuni	Martuni	Karanlug,MARTUNI,Martuki,Martuni,Martuny,Nerkin Karanlukh,Nizhniy-Karanlug,МАРТУНИ	40.13768	45.3045	P	PPL	AM		04				11037		1940	Asia/Yerevan	2012-01-17
+616441	Marmarashen	Marmarashen	Marmarashen,Marmorashen,Мармарашен	40.05734	44.47012	P	PPL	AM		02				2946		844	Asia/Yerevan	2012-01-17
+616442	Marmashen	Marmashen	Kanlidzha,Marmashen,Verin Kanlidzha,Мармашен	40.83486	43.7779	P	PPL	AM		07				1644		1619	Asia/Yerevan	2012-01-17
+616445	Margahovit	Margahovit	Bozigekh,Gamzachemanskaya,Gamzachiman,Hamgach'iman,Hamgach’iman,Margahovit,Margaovit,Маргаовит	40.73381	44.68474	P	PPL	AM		06				3308		1752	Asia/Yerevan	2012-01-17
+616446	Maralik	Maralik	MARALIK,Maralik,Molla Gekcha,Molla Gëkcha,МАРАЛИК	40.57453	43.86862	P	PPL	AM		07				4959		1713	Asia/Yerevan	2012-01-17
+616453	Mayisyan	Mayisyan	Maisian,Maisjan,Maisyan,Mayisyan,Ortakilisa,Маисян	40.84715	43.83938	P	PPL	AM		00				1521		1642	Asia/Yerevan	2012-01-17
+616456	Madina	Madina	Madina,Мадина	40.07638	45.25507	P	PPL	AM		04				1024		2169	Asia/Yerevan	2012-01-17
+616464	Lukashin	Lukashin	Imeni Mikoyana,Lukashin,Лукашин	40.18726	44.0039	P	PPL	AM		03				2197		875	Asia/Yerevan	2013-08-05
+616465	Lorut	Lorut	Lorut,Лорут	40.93717	44.77142	P	PPL	AM		06				1101		1499	Asia/Yerevan	2012-01-17
+616471	Lichk’	Lichk'	Gel,Gël,Lichk,Lichk',Lichk’,Личк	40.15933	45.23467	P	PPL	AM		04				4105		1930	Asia/Yerevan	2012-01-17
+616474	Lernavan	Lernavan	Kachagan,Lernavan,Лернаван	40.7882	44.16024	P	PPL	AM		06				1517		1778	Asia/Yerevan	2012-01-17
+616476	Lerrnapat	Lerrnapat	Gadzhikara,Lernapat,Lerrnapat,Makarashen	40.81538	44.39344	P	PPL	AM		06				1710		1524	Asia/Yerevan	2012-01-17
+616479	Spitak	Spitak	Lernantsk,Lerrnants'k',Lerrnants’k’,Spitak,Спитак	40.79532	44.27435	P	PPL	AM		00				1192		1667	Asia/Yerevan	2012-01-17
+616480	Lerrnanist	Lerrnanist	Lernanist,Lerrnanist,Verin Akhta,Verkhnyaya Akhta,Лернанист	40.46676	44.79249	P	PPL	AM		05				2511		1922	Asia/Yerevan	2012-01-17
+616481	Lerrnakert	Lerrnakert	Lernakert,Lerrnakert,Shirvan,Shirvandzhug	40.56118	43.93851	P	PPL	AM		07				1306		1985	Asia/Yerevan	2012-01-17
+616484	Khoronk’	Khoronk'	Khoronk',Khoronk’,Lenughi,Lenugi,Nerkin Aylanlu,Nizhniy Aylanlu	40.13507	44.24541	P	PPL	AM		03				2148		853	Asia/Yerevan	2012-01-17
+616488	Lchashen	Lchashen	Lchashen,Ordaklu,Лчашен	40.51757	44.9319	P	PPL	AM		04				4182		1926	Asia/Yerevan	2012-01-17
+616489	Lchap’	Lchap'	Agzibir,Lchap,Lchap',Lchap’,Lehap,Лчап	40.45462	45.0728	P	PPL	AM		00				1032		1929	Asia/Yerevan	2012-01-17
+616492	Lanjaghbyur	Lanjaghbyur	Kyuzadzhik,Landzhakhbjur,Landzhakhpyur,Lanjaghbyur,Ланджахбюр	40.27146	45.14038	P	PPL	AM		04				2097		2010	Asia/Yerevan	2012-01-17
+616522	Kotayk’	Kotayk'	Kotayk',Kotayk’,Yelgovan	40.27534	44.66036	P	PPL	AM		05				1510		1437	Asia/Yerevan	2012-01-17
+616523	Kosh	Kosh	Kosh,Кош	40.29999	44.15584	P	PPL	AM		01				2581		1224	Asia/Yerevan	2012-01-17
+616530	Vanadzor	Vanadzor	Gharak'ilisa,Gharak’ilisa,KIROVAKAN,Karakhs,Karakilis,Karaklis,Kirovakan,Kirowakan,Korovakan,Mets Karakilisa,Vanadzor,Vanajor,Wanadsor,Wanadzor,wanadzwr,Ванадзор,КИРОВАКАН,Վանաձոր,وانادزور	40.80456	44.4939	P	PPLA	AM		06				101098		1344	Asia/Yerevan	2012-01-14
+616535	Hnaberd	Hnaberd	Hnaberd,Khnaberd,Kirkhdagirman,Kyrkhdagirman,Хнаберд	40.63721	44.14058	P	PPL	AM		01				1817		2110	Asia/Yerevan	2012-01-17
+616537	Khasht’arrak	Khasht'arrak	Hastarak,Həştərək,Khasht'arrak,Khashtarak,Khasht’arrak,Хаштарак	40.93668	45.1821	P	PPL	AM		09				1728		816	Asia/Yerevan	2013-09-06
+616554	Kasakh	Kasakh	Chamrlu,Chamyrlu,Kasakh,Касах	40.53697	44.41046	P	PPL	AM		01				4247		1857	Asia/Yerevan	2012-01-17
+616572	Karchaghbyur	Karchaghbyur	Gedakbulag,Karchaghbyur,Karchaghpyur,Karchakhpjur,Karchakhpyur,Карчахпюр	40.17048	45.57785	P	PPL	AM		04				2274		1950	Asia/Yerevan	2012-01-17
+616573	Karbi	Karbi	Karbi,Карби	40.33236	44.37665	P	PPL	AM		01				3521		1312	Asia/Yerevan	2012-01-17
+616576	Karanlukh	Karanlukh	Karanlukh,Verkhniy Karanlug	40.10444	45.28972	P	PPL	AM		04				5104		2111	Asia/Yerevan	2012-01-17
+616590	Kaputan	Kaputan	Geykilisa,Gëykilisa,Kaputan,Капутан	40.32407	44.69693	P	PPL	AM		05				1252		1738	Asia/Yerevan	2012-01-17
+616593	K’anak’erravan	K'anak'erravan	K'anak'erravan,Kanakeravan,Kenaker,Kenakeravan,K’anak’erravan,Murad Tapa	40.24739	44.53511	P	PPL	AM		11				2950		1252	Asia/Yerevan	2012-01-17
+616598	Kamo	Kamo	Gadzhi Nazar,Kamo,Камо	40.82572	43.95071	P	PPL	AM		07				1340		1642	Asia/Yerevan	2012-01-17
+616599	Gavarr	Gavarr	Gavar,Gavarr,KAMO,Kamo,Kyavar,Nor Bayazet,Nor-Bajaset,Novo Bayazet,Novyi Bayaset,КАМО	40.35398	45.12386	P	PPLA	AM		04				21680		1953	Asia/Yerevan	2012-01-17
+616617	Zhdanov	Zhdanov	Imeni Beriya,Imeni Zhdanova,Zhdanov,Жданов	40.15701	44.09192	P	PPL	AM		03				1512		874	Asia/Yerevan	2012-01-17
+616620	Shahumyan	Shahumyan	Imeni Shaumyana,Shahumian,Shahumyan,Shahumyani Anvan Avazan,Shaumjan,Shaumyan,Шаумян	40.77482	44.54596	P	PPL	AM		06				1843		1520	Asia/Yerevan	2012-01-17
+616627	Ijevan	Ijevan	IDZHEVAN,Icevan,Idzhevan,Ijevan,Istibulagh,K'aravansaray,K'arvansara,Karavan Savan,Karavansarai,Karvansara,K’aravansaray,K’arvansara,İcevan,ИДЖЕВАН	40.87877	45.14851	P	PPLA	AM		09				14737		684	Asia/Yerevan	2013-09-06
+616629	Hrazdan	Hrazdan	Akhta,Akhtala,Akhti,Hrazdan,Nerkin Akhta,Nizhne Akhti,Nizhniye Akhty,Nizhnyaya Akhta,Razdan,Раздан	40.49748	44.7662	P	PPLA	AM		05				40795		1762	Asia/Yerevan	2011-03-28
+616631	Armavir	Armavir	Armavir,Hoktemberyan,Oktember,Oktemberyan,Sardar-Abad,Sardarapat,Октембер	40.15446	44.03815	P	PPLA	AM		03				25963		870	Asia/Yerevan	2012-01-17
+616632	Hayanist	Hayanist	Dostlug,Hayanist	40.12166	44.37523	P	PPL	AM		03				2031		841	Asia/Yerevan	2012-01-17
+616634	Haghartsin	Haghartsin	Dzharkhech,Dzharkhedzh,Haghardzin,Haghartsin,Kujbyshev,Kuybishev,Kuybyshev,Куйбышев	40.77614	44.96847	P	PPL	AM		09				3370		1015	Asia/Yerevan	2012-01-17
+616635	Gyumri	Gyumri	Alek'pol,Alek'sandrapol,Alek'sandrobol,Aleksandropol',Aleksandropol’,Alek’pol,Alek’sandrapol,Alek’sandrobol,Alexandropol',Alexandropol’,GJUMRI,Gimri,Giumri,Gjoemri,Gjoumri,Gjumri,Gorad Gjumry,Guemrue,Gumri,Gumru,Gumry,Gyumri,Gümrü,Kumayri,Kumri,Kyumayri,Kyumri,Kümri,LWN,Leninakan,ghywmry,giumri,gyumeuli,gyumuri,gywmry,jiu mu li,ГЮМРИ,Горад Гюмры,Гюмри,Гјумри,Ґюмрі,Գյումրի,غيومري,گیومری,გიუმრი,ギュムリ,久姆里,규므리	40.7942	43.84528	P	PPLA	AM		07				148381		1549	Asia/Yerevan	2012-01-17
+616639	Gyulagarak	Gyulagarak	Gjulagarak,Gyulabarrak,Gyulagarak,Gyulagorak,Гюлагарак	40.96715	44.47144	P	PPL	AM		06				2109		1366	Asia/Yerevan	2012-01-17
+616645	Ghukasavan	Ghukasavan	Ghukasavan,Gukasavan,Kalara,Гукасаван	40.12585	44.41594	P	PPL	AM		02				2113		852	Asia/Yerevan	2012-01-17
+616646	Geghamasar	Geghamasar	Geghamasar,Gukarrich,Shishkaja,Shishkaya,Sisqaya,Şişqaya,Шишкая	40.31091	45.67924	P	PPL	AM		04				1060		2047	Asia/Yerevan	2012-01-17
+616648	Gugark’	Gugark'	Gugark,Gugark',Gugark’,Meghrut,Megrut,Yagublu,Гугарк	40.8046	44.54025	P	PPL	AM		06				4705		1320	Asia/Yerevan	2012-01-17
+616650	Tsiatsan	Tsiatsan	Ciacan,Grampa,Tsiatsan,Циацан	40.1869	44.26608	P	PPL	AM		03				1050		889	Asia/Yerevan	2012-01-17
+616657	Goght’	Goght'	Goght',Goght’,Gokht	40.13495	44.78093	P	PPL	AM		05				1877		1574	Asia/Yerevan	2012-01-17
+616659	Gogaran	Gogaran	Geran,Gogaran,Gëran,Гогаран	40.89255	44.19915	P	PPL	AM		06				1088		1849	Asia/Yerevan	2012-01-17
+616668	Getazat	Getazat	Agdzhakishlag,Getashen,Getazat,Гетазат	40.03844	44.56369	P	PPL	AM		02				1947		939	Asia/Yerevan	2012-01-17
+616669	Getashen	Getashen	Dzhafarabat,Getashen,Kalagar,Геташен	40.04405	43.94203	P	PPL	AM		03				2114		888	Asia/Yerevan	2012-01-17
+616682	Geghanist	Geghanist	Geghanist,Gekhanist,Getapnia,Geygmbet,Gëygmbet,Геханист	40.14493	44.43054	P	PPL	AM		02				2409		868	Asia/Yerevan	2012-01-17
+616692	Geghamavan	Geghamavan	Gegamavan,Geghamavan,Shagriz,Гегамаван	40.5634	44.8879	P	PPL	AM		04				1597		1849	Asia/Yerevan	2012-01-17
+616697	Garrni	Garrni	Bash Gyarni,Garni,Garrni,Гарни	40.11931	44.73442	P	PPL	AM		05				6827		1413	Asia/Yerevan	2012-01-17
+616699	Gagarin	Gagarin	GAGARIN,Gagarin,ГАГАРИН	40.54031	44.86918	P	PPL	AM		04				1305		1892	Asia/Yerevan	2012-01-17
+616701	Fantan	Fantan	Fantan,Fontan	40.39438	44.68476	P	PPL	AM		05				1019		1801	Asia/Yerevan	2012-01-17
+616702	Fioletovo	Fioletovo	Fioletovo,Nikitino,Фиолетово	40.72241	44.71769	P	PPL	AM		06				1264		1686	Asia/Yerevan	2012-01-17
+616712	Dzoraghbyur	Dzoraghbyur	Dzhorakhpyur,Dzoraghbyur,Dzoraghp'yur,Dzoraghp’yur,Dzorakhbjur,Dzorakhpyur,Tedshirabad,Tedzhirabad,Tedzhrabak,Дзорахбюр	40.20412	44.6415	P	PPL	AM		05				2011		1549	Asia/Yerevan	2012-01-17
+616716	Dzoragyugh	Dzoragyugh	Dzoraget,Dzoragyugh,Dzoragyukh,Vali Agalu,Дзорагет	40.16957	45.18336	P	PPL	AM		00				3570		2016	Asia/Yerevan	2012-01-17
+616719	Dzit’hank’ov	Dzit'hank'ov	Bazirkhana,Dzit'hank'ov,Dzitankov,Dzitkhankov,Dzit’hank’ov,Дзитанков	40.50891	43.82107	P	PPL	AM		07				1162		1749	Asia/Yerevan	2012-01-17
+616722	Jrashen	Jrashen	Dzhrashen,Jrashen,Vardnav,Vordnav,Vortnav,Джрашен	40.79028	44.18664	P	PPL	AM		06				3078		1676	Asia/Yerevan	2012-01-17
+616724	Jrashen	Jrashen	Dzhrashen,Jrashen,Nor Dzhrashen,Джрашен	40.05276	44.51259	P	PPL	AM		11				1696		941	Asia/Yerevan	2012-01-17
+616729	Jrahovit	Jrahovit	Dzhabachalu,Dzharovit,Dzhraovit,Jrahovit,Джаровит	40.04533	44.47372	P	PPL	AM		02				1032		836	Asia/Yerevan	2012-01-17
+616735	Janfida	Janfida	Dzhanfida,Janfida,Джанфида	40.04391	44.02334	P	PPL	AM		03				2986		867	Asia/Yerevan	2012-01-17
+616741	Dvin	Dvin	Dvin,Dvin Armyanskiy,Nerkin Dvin,Nizhniy Dvin,Двин	40.01984	44.58376	P	PPL	AM		02				2795		928	Asia/Yerevan	2012-01-17
+616742	Dsegh	Dsegh	Dsegh,Dsekh,Tumanyan,Дсех	40.9617	44.65003	P	PPL	AM		06				2484		1216	Asia/Yerevan	2012-01-17
+616744	Drakhtik	Drakhtik	Drakhtik,Tokhludzha,Тохлуджа	40.56496	45.2367	P	PPL	AM		04				1016		1983	Asia/Yerevan	2012-01-17
+616748	Doghs	Doghs	Doghs,Dokhs	40.22373	44.27171	P	PPL	AM		01				1186		928	Asia/Yerevan	2012-01-17
+616752	Dilijan	Dilijan	DILIZHAN,Delijan,Delishan,Delizhan,Dili,Dili P'ok'r,Dili P’ok’r,Dilichan,Dilijan,Dilishan,Dilizhan,Hin,Tili,Tilichan,ДИЛИЖАН	40.74103	44.86362	P	PPL	AM		09				13478		1254	Asia/Yerevan	2012-01-17
+616757	Ddmashen	Ddmashen	Ddmashen,Dodmashen,Totmashen,Ддмашен	40.56972	44.81851	P	PPL	AM		04				2157		1797	Asia/Yerevan	2012-01-17
+616763	Darpas	Darpas	Darbas,Darpas,Дарпас	40.83674	44.42494	P	PPL	AM		06				1785		1377	Asia/Yerevan	2012-01-17
+616769	Dalarik	Dalarik	Dalarik,Mastara,Даларик	40.22664	43.87538	P	PPL	AM		03				3080		1011	Asia/Yerevan	2012-01-17
+616773	Chochkan	Chochkan	Chochkan	41.18118	44.83217	P	PPL	AM		06				1740		767	Asia/Yerevan	2012-05-05
+616786	Chambarak	Chambarak	CHAMBARAK,Chambarak,Kraside,Krasnosel'sk,Krasnosel’sk,Krasnoye,Mikhaylovka,ЧАМБАРАК	40.59655	45.35498	P	PPL	AM		04				6153		1848	Asia/Yerevan	2012-01-17
+616789	Bjni	Bjni	Bjni,Bzhni	40.4559	44.64812	P	PPL	AM		05				2771		1493	Asia/Yerevan	2012-01-17
+616790	Byureghavan	Byureghavan	Bjuregavan,Byuregavan,Byureghavan,Бюрегаван	40.31485	44.59396	P	PPL	AM		05				6972		1384	Asia/Yerevan	2012-01-17
+616791	Byurakan	Byurakan	Biurakan,Bjurakan,Burakan,Byurakan,Бюракан	40.338	44.27138	P	PPL	AM		01				3902		1475	Asia/Yerevan	2012-01-17
+616792	Buzhakan	Buzhakan	Babakishi,Buzhakan,Бужакан	40.45294	44.52105	P	PPL	AM		05				1678		1824	Asia/Yerevan	2012-01-17
+616802	Berd	Berd	BERD,Berd,Berrdagyugh,Berrdgyugh,Bert,Ghalak'yand,Ghalak’yand,Shlorut,T'auzk'end,T'auzkala,T'avuzghala,T'ous,T'ous Gale,T'ovuz,T'uzukala,Taua Kale,Taya-Kala,Tovuz,Tovuzkala,Tovuzqala,T’auzkala,T’auzk’end,T’avuzghala,T’ous,T’ous Gale,T’ovuz,T’uzukala,Volorut,БЕРД,Товуз	40.88135	45.38901	P	PPL	AM		09				8374		940	Asia/Yerevan	2013-09-06
+616806	Bazum	Bazum	Bazum,Bzovdal,Базум	40.86763	44.43978	P	PPL	AM		06				1114		1521	Asia/Yerevan	2012-01-17
+616822	Byuravan	Byuravan	Bambakavan,Bjuravan,Byuravan,Verin Kuylasar,Verkhniy Kuylasar,Бюраван	40.01604	44.51889	P	PPL	AM		02				1228		868	Asia/Yerevan	2012-01-17
+616823	Bambakashat	Bambakashat	Bambakashat,Molla Bayazet,Бамбакашат	40.10993	44.01608	P	PPL	AM		03				3089		865	Asia/Yerevan	2012-01-17
+616824	Balahovit	Balahovit	Balahovit,Balakhovit,Balaovit,Mehub,Mekhub,Mgub,Балаовит,Балаховит	40.25373	44.60426	P	PPL	AM		05				2982		1388	Asia/Yerevan	2012-01-17
+616828	Bagratashen	Bagratashen	Bagratashen,Баграташен	41.24358	44.81737	P	PPL	AM		09				3024		440	Asia/Yerevan	2012-01-17
+616835	Azatan	Azatan	Azatan,Karakhs,Karakilisa,Pokr Karakilisa,Азатан	40.71959	43.82727	P	PPL	AM		07				4448		1498	Asia/Yerevan	2012-01-17
+616844	Haykavan	Haykavan	Ajkavan,Aykavan,Badzhogli,Haykavan,Айкаван	40.80312	43.75172	P	PPL	AM		07				1201		1557	Asia/Yerevan	2012-01-17
+616849	Aygestan	Aygestan	Ajgestan,Ayaslu,Aygestan,Айгестан	40.00258	44.55905	P	PPL	AM		02				2431		868	Asia/Yerevan	2012-01-17
+616850	Aygeshat	Aygeshat	Ajgeshat,Aygeshat,Gadzhikara,Айгешат	40.23571	44.28692	P	PPL	AM		01				1358		942	Asia/Yerevan	2012-01-17
+616851	Aygeshat	Aygeshat	Ajgeshat,Aygeshat,Kuzigidan,Айгешат	40.07641	44.05797	P	PPL	AM		03				1606		859	Asia/Yerevan	2012-01-17
+616853	Aknalich	Aknalich	Aknalich,Aygerlich,Акналич	40.14315	44.1498	P	PPL	AM		03				2654		862	Asia/Yerevan	2012-01-17
+616855	Aygehovit	Aygehovit	Ajgeovit,Aygehovit,Aygeovit,Ayqeovit,Onut,Uzuntala,Айгеовит	40.97951	45.25033	P	PPL	AM		09				2888		697	Asia/Yerevan	2013-09-06
+616872	Artimet	Artimet	Alibeklu,Artimet,Atarbekyan,Артимет	40.1508	44.26543	P	PPL	AM		03				1501		861	Asia/Yerevan	2012-01-17
+616874	Astghadzor	Astghadzor	Alikrykh,Astghadzor,Astkhadzor,Астхадзор	40.12248	45.35698	P	PPL	AM		04				3520		2037	Asia/Yerevan	2012-01-17
+616877	Ashtarak	Ashtarak	ASHTARAK,Achtarak,Aschtarak,Ashtarak,Ashtarakats' Gyugh,Ashtarakats’ Gyugh,Astarak,Aştarak,Aštarak,ashtarak,АШТАРАК,Аштарак,Աշտարակ,آشتاراک	40.2991	44.36204	P	PPLA	AM		01				18779		1142	Asia/Yerevan	2012-01-17
+616879	Ashnak	Ashnak	Ashnak,Ашнак	40.32887	43.91848	P	PPL	AM		01				1131		1428	Asia/Yerevan	2012-01-17
+616881	Arzni	Arzni	ARZNI,Arzni,АРЗНИ	40.29626	44.59664	P	PPL	AM		05				2244		1346	Asia/Yerevan	2012-01-17
+616882	Arzakan	Arzakan	Arzakan,Arzakyand,Арзакан	40.44997	44.60648	P	PPL	AM		05				2660		1489	Asia/Yerevan	2012-01-17
+616888	Arteni	Arteni	Arteni,Bogutlu,Артени	40.29848	43.7622	P	PPL	AM		01				3086		1212	Asia/Yerevan	2012-01-17
+616898	Arshaluys	Arshaluys	Arshalujs,Arshaluys,Kerpalu,Kërpalu,Аршалуйс	40.1684	44.21375	P	PPL	AM		03				3808		864	Asia/Yerevan	2012-01-17
+616912	Argel	Argel	ARGEL,Argel,Arkel,Lusakert,АРГЕЛ	40.37943	44.59828	P	PPL	AM		05				2528		1438	Asia/Yerevan	2012-01-17
+616913	Argavand	Argavand	Argavand,Dzhafarapat,Аргаванд	40.15876	44.43916	P	PPL	AM		02				1703		885	Asia/Yerevan	2012-01-17
+616914	Argavand	Argavand	Argavand,Uzunoba,Аргаванд	40.06097	44.09474	P	PPL	AM		03				2047		858	Asia/Yerevan	2012-01-17
+616915	Arevshat	Arevshat	Arevshat,Yekan,Yekanlar,Аревшат	40.65345	44.04419	P	PPL	AM		07				1623		1913	Asia/Yerevan	2012-01-17
+616916	Arevshat	Arevshat	Arevshat,Arpavar,Lusakert,Nerkin Agbash,Nizhniy Agbash,Аревшат	40.03963	44.54179	P	PPL	AM		02				2089		931	Asia/Yerevan	2012-01-17
+616917	Arevik	Arevik	Arevik,Tapadolag,Tapadolak,Аревик	40.74226	43.9029	P	PPL	AM		07				1522		1528	Asia/Yerevan	2012-01-17
+616918	Arevik	Arevik	Agdzharkh,Arevik,Аревик	40.09945	44.09127	P	PPL	AM		03				2455		854	Asia/Yerevan	2012-01-17
+616920	Arevashogh	Arevashogh	Arevashogh,Arevashokh,Chigdamal,Chikdamal,Аревашох	40.86039	44.27438	P	PPL	AM		06				2435		1680	Asia/Yerevan	2012-01-17
+616921	Arevashat	Arevashat	Arevashat,Arevashet,Varmaziar,Аревашат	40.1425	44.37068	P	PPL	AM		03				1403		851	Asia/Yerevan	2012-01-17
+616931	Archis	Archis	Archis	41.16351	44.87632	P	PPL	AM		09				1235		754	Asia/Yerevan	2012-02-01
+616932	Arbat’	Arbat'	Arbat',Arbat’	40.13811	44.402	P	PPL	AM		03				1884		857	Asia/Yerevan	2012-01-17
+616933	Arazap	Arazap	Arazap,Evdzhilar,Аразап	40.04195	44.14721	P	PPL	AM		03				1373		847	Asia/Yerevan	2012-01-17
+616935	Arrap’i	Arrap'i	Arapi,Arrap'i,Arrap’i,Odzhakhkuli	40.78276	43.80583	P	PPL	AM		07				1738		1487	Asia/Yerevan	2012-01-17
+616936	Aramus	Aramus	Aramus	40.25095	44.66351	P	PPL	AM		05				3214		1441	Asia/Yerevan	2012-01-17
+616938	Arak’s	Arak's	Arak's,Arak’s,Nerkin Karkhun,Nizhniy Karkhun	40.0544	44.30257	P	PPL	AM		03				1442		841	Asia/Yerevan	2012-01-17
+616944	Aragats	Aragats	Aragac,Aragats,Kaznafar,Арагац	40.48887	44.35279	P	PPL	AM		01				2707		1976	Asia/Yerevan	2012-01-17
+616953	Aparan	Aparan	APARAN,Abaran,Abaran Verin,Aparan,Aparan Verin,Aparanbol,Aparanpol,Bash Abaran,Bash Aparan,Dash Abaron,K'asagh,K'asakh,K’asagh,K’asakh,P'araznavert,Pash Aparan,P’araznavert,АПАРАН	40.59323	44.3589	P	PPL	AM		01				5670		1892	Asia/Yerevan	2012-01-17
+616954	Apaga	Apaga	Apaga,Verin Turkmenlu,Апага	40.09666	44.25157	P	PPL	AM		03				1634		843	Asia/Yerevan	2012-01-17
+616955	Anushavan	Anushavan	Anushavan,Parni,Pokr Parni,Анушаван	40.65013	43.97756	P	PPL	AM		07				1532		1715	Asia/Yerevan	2012-01-17
+616971	Amasia	Amasia	Amasia,Amasija,Amasiya,Gukasyan,Амасия	40.95442	43.7872	P	PPL	AM		07				1675		1877	Asia/Yerevan	2012-01-17
+616974	Alaverdi	Alaverdi	ALAVERDI,Alaverdi,Alaverdy,Alawerdy,Allaverdy,Aławerdy,Manes,АЛАВЕРДИ,Алаверди,Ալավերդի,الله‌وردی	41.09766	44.67316	P	PPL	AM		06				13184		699	Asia/Yerevan	2011-01-29
+616981	Akunk’	Akunk'	Akunk',Akunk’,Bashgyukh	40.26883	44.68481	P	PPL	AM		05				1787		1454	Asia/Yerevan	2012-01-17
+616982	Akunk’	Akunk'	Akunk',Akunk’,Kirkhbulag	40.15886	45.72568	P	PPL	AM		04				3444		1961	Asia/Yerevan	2012-01-17
+616989	Akhuryan	Akhuryan	Akhurjan,Akhuryan,Duzk'end,Duzk'end Mets,Duzk'yand,Duzk’end,Duzk’end Mets,Duzk’yand,Ахурян	40.78003	43.90027	P	PPL	AM		07				7672		1544	Asia/Yerevan	2012-01-17
+617002	Aghavnatun	Aghavnatun	Agavnatun,Aghavnatun,Akhavnatukh,Akhavnatun,Агавнатун,Ахавнатун	40.23238	44.24974	P	PPL	AM		01				2913		926	Asia/Yerevan	2012-01-17
+617003	Aghavnadzor	Aghavnadzor	Agavnadzor,Aghavnadzor,Akhavnadzor,Babakishi,Агавнадзор	40.58195	44.69581	P	PPL	AM		05				1252		1771	Asia/Yerevan	2012-01-17
+617018	Agarak	Agarak	Agarak	41.01072	44.46845	P	PPL	AM		06				1278		1375	Asia/Yerevan	2012-02-01
+617019	Agarak	Agarak		40.32932	44.07033	P	PPL	AM		01				1575		1440	Asia/Yerevan	2011-04-18
+617026	Abovyan	Abovyan	ABOVJAN,Abovyan,Elar,АБОВЯН	40.26741	44.62656	P	PPL	AM		05				35673		1409	Asia/Yerevan	2012-01-17
+617027	Abovyan	Abovyan	Abovjan,Abovyan,Agbash,Verin Agbash,Verkhniy Agbash,Абовян	40.04851	44.54742	P	PPL	AM		02				1379		956	Asia/Yerevan	2012-01-17
+793638	Vardablur	Vardablur	Vardablur,Verdablur,Вардаблур	40.97083	44.50889	P	PPL	AM		06				1297		1318	Asia/Yerevan	2012-01-19
+793672	Bartsrashen	Bartsrashen	Bardzrashen,Bartsrashen	40.08533	44.57958	P	PPL	AM		02				1273		1154	Asia/Yerevan	2012-01-19
+793693	Nshavan	Nshavan	Nshavan	40.02787	44.52565	P	PPL	AM		02				1916		886	Asia/Yerevan	2012-01-19
+799614	Norabats’	Norabats'	Norabats',Norabats’,Norashen	40.10568	44.42988	P	PPL	AM		02				1973		864	Asia/Yerevan	2012-01-19
+823723	Berdavan	Berdavan	Berdavan	41.20503	44.99967	P	PPL	AM		09				3150		705	Asia/Yerevan	2012-01-19
+823745	Shirakamut	Shirakamut	Shirakamut,Ширакамут	40.86056	44.15278	P	PPL	AM		06				2008		1766	Asia/Yerevan	2012-01-19
+823748	Azatamut	Azatamut	AZANUT,Azatamut,АЗАНУТ	40.98204	45.18551	P	PPL	AM		09				1850		610	Asia/Baku	2013-09-09
+823749	Getahovit	Getahovit	Getahovit,Getaovit	40.89784	45.13971	P	PPL	AM		09				2005		745	Asia/Yerevan	2013-09-09
+823755	Artsvaberd	Artsvaberd	Arcvaberd,Artsvaberd,Арцваберд	40.83947	45.47033	P	PPL	AM		09				3193		1167	Asia/Yerevan	2013-09-09
+823791	Nor Yerznka	Nor Yerznka	Nor Yerznka	40.31356	44.40483	P	PPL	AM		05				1459		1318	Asia/Yerevan	2012-01-19
+823793	Nor Sasunik	Nor Sasunik	Nor Sasunik,Sasunik	40.24869	44.33957	P	PPL	AM		01				1959		1063	Asia/Yerevan	2012-01-19
+823797	Kamaris	Kamaris	Kamaris	40.23539	44.69459	P	PPL	AM		05				2064		1519	Asia/Yerevan	2012-01-19
+823800	Gandzak	Gandzak	Gandzak	40.31472	45.11139	P	PPL	AM		04				3841		1989	Asia/Yerevan	2012-05-06
+823802	Myasnikyan	Myasnikyan	Mjasnikjan,Myasnikyan,Мясникян	40.1775	43.90639	P	PPL	AM		03				3458		917	Asia/Yerevan	2012-01-19
+823805	Lenughi	Lenughi	Lenughi	40.12562	43.96484	P	PPL	AM		03				1499		888	Asia/Yerevan	2012-05-06
+823807	Metsamor	Metsamor	MECAMOR,Metsamor,МЕЦАМОР	40.14481	44.11998	P	PPL	AM		03				1081		861	Asia/Yerevan	2012-01-19
+823808	Gay	Gay	Gay	40.08444	44.30528	P	PPL	AM		03				3309		838	Asia/Yerevan	2013-08-07
+823809	Baghramyan	Baghramyan	Baghramyan,Bagramyan	40.19344	44.36832	P	PPL	AM		03				2346		943	Asia/Yerevan	2012-01-19
+823810	Musalerr	Musalerr	Musaler,Musalerr	40.15393	44.37894	P	PPL	AM		03				2323		864	Asia/Yerevan	2012-01-19
+823811	Darakert	Darakert	Darakert	40.10547	44.41334	P	PPL	AM		02				2325		842	Asia/Yerevan	2012-01-19
+823812	Dashtavan	Dashtavan	Dashtavan	40.10121	44.39067	P	PPL	AM		02				1762		835	Asia/Yerevan	2012-01-19
+823813	Nizami	Nizami	Nizami	40.09114	44.40453	P	PPL	AM		02				1060		837	Asia/Yerevan	2012-01-19
+823818	Artsvanist	Artsvanist	Artsvanist	40.15444	45.50222	P	PPL	AM		04				2819		1940	Asia/Yerevan	2012-01-19

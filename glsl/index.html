@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<script type='text/javascript' src='../utils.js'></script>
+<script src='site.js'></script>
+<!-- vertex shader -->
+<script id='2d-vertex-shader' type='x-shader/x-vertex'>
+attribute vec2 a_position;
+void main() {
+   gl_Position = vec4(a_position, 0, 1);
+}
+</script>
+<!-- fragment shader -->
+<script id='2d-fragment-shader' type='x-shader/x-fragment'>
+precision mediump float;
+uniform vec2 u_resolution;
+
+void main() {
+    float dist = sin(distance(gl_FragCoord.xy, u_resolution) * 10.0);
+    gl_FragColor = vec4(dist, dist, 0.0, 1.0);
+}
+</script>
+</head>
+<body>
+<canvas id='canvas' width='400' height='400'></canvas>
+</body>
+</html>
